@@ -1,0 +1,248 @@
+// 永久地址 www.iioo.me
+{
+  "ua": "",
+  "homeUrl": "https://www.libvio.com",
+  "cateManual": {
+    "电影": "1", 
+    "剧集": "2",
+    "动漫": "4",
+    "日韩剧": "15",
+    "欧美剧": "16"
+  },
+    
+// Home Summary ================================================  
+  "homeVodNode": "//div[@class='stui-pannel__bd']/ul[contains(@class,'clearfix')]/li/div[@class='stui-vodlist__box']",
+  "homeVodName": "/a/@title",
+  "homeVodId": "/a/@href",
+  "homeVodIdR": "/detail/(\\w+).html",
+  "homeVodImg": "/a/@data-original",
+  "homeVodMark": "/a/span[@class='pic-text text-right']/text()",
+    
+// Category Summary ================================================  
+  "cateUrl": "https://www.libvio.com/show/{cateId}-{area}-------{catePg}---{year}.html",
+  "cateVodNode": "//ul[contains(@class,'clearfix')]/li/div[@class='stui-vodlist__box']",
+  "cateVodName": "/a/@title",
+  "cateVodId": "/a/@href",
+  "cateVodIdR": "/detail/(\\w+).html",
+  "cateVodImg": "/a/@data-original",
+  "cateVodMark": "/a/span[@class='pic-text text-right']/text()",
+    
+// Category Details ================================================    
+  "dtUrl": "https://www.libvio.com/detail/{vid}.html",
+  "dtNode": "//div[(@class='stui-pannel__bd')]",
+  "dtName": "//div[(@class='stui-content__thumb')]/a/@title",
+  "dtImg": "//div[@class='stui-content__thumb']/a/img/@data-original",    //display in watch recent
+  "dtCate": "",
+  "dtYear": "",
+  "dtArea": "",
+  "dtActor": "//div[@class='stui-content__detail']/p[2]/text()",
+  "dtMark": "//div[@class='stui-content__detail']/p[3]/text()",
+  "dtDirector": "//div[@class='o_r_contact']/ul/li[2]/span/text()",
+  "dtDesc": "//span[@class='detail-content']/text()",
+    
+// Playlist =====================================================     
+  "dtFromNode": "//h3[contains(@class,'icon-iconfontplay2')]",
+  "dtFromName": "/text()",
+  "dtFromNameR": "",
+  "dtUrlNode": "//ul[contains(@class,'stui-content__playlist clearfix')]",
+  "dtUrlSubNode": "/li/a",
+  "dtUrlId": "@href",
+  "dtUrlIdR": "/play/(\\S+).html",
+  "dtUrlName": "/text()",
+  "playUrl": "https://www.libvio.com/play/{playUrl}.html",
+  "playUa": "",
+    
+// Search Results ================================================         
+  "searchUrl": "https://www.libvio.com/search/-------------.html?wd={wd}&submit=",
+  "scVodNode": "//div[@class='stui-vodlist__box']",
+  "scVodName": "/a/@title",
+  "scVodId": "/a/@href",
+  "scVodIdR": "/detail/(\\w+).html",
+  "scVodImg": "/a/@data-original",
+  "scVodMark": "/a/span[@class='pic-text text-right']/text()",
+    
+// Filters =======================================================    
+    "filter": {
+      "1": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "中国","v": "中国大陆"},
+            {"n": "香港","v": "中国香港"},
+            {"n": "台湾","v": "中国台湾"},
+            {"n": "美国","v": "美国"},
+            {"n": "英国","v": "英国"},
+            {"n": "日本","v": "日本"},
+            {"n": "韩国","v": "韩国"},
+            {"n": "泰国","v": "泰国"},
+            {"n": "其他","v": "其他"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "2022"},
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"},
+            {"n": "2009","v": "2009"},
+            {"n": "2008","v": "2008"}
+          ]
+        }
+      ],
+      "2": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "中国","v": "中国大陆"},
+            {"n": "香港","v": "中国香港"},
+            {"n": "台湾","v": "中国台湾"},
+            {"n": "美国","v": "美国"},
+            {"n": "英国","v": "英国"},
+            {"n": "日本","v": "日本"},
+            {"n": "韩国","v": "韩国"},
+            {"n": "泰国","v": "泰国"},
+            {"n": "其他","v": "其他"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "2022"},
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"},
+            {"n": "2009","v": "2009"},
+            {"n": "2008","v": "2008"}
+          ]
+        }
+      ],
+      "4": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "日本","v": "日本"},
+            {"n": "中国","v": "中国"},
+            {"n": "欧美","v": "欧美"},
+            {"n": "其他","v": "其他"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "2022"},
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"},
+            {"n": "2009","v": "2009"},
+            {"n": "2008","v": "2008"}
+          ]
+        }
+      ],
+      "15": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "日本","v": "日本"},
+            {"n": "韩国","v": "韩国"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "2022"},              
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"},
+            {"n": "2009","v": "2009"},
+            {"n": "2008","v": "2008"}
+          ]
+        }
+      ],
+      "16": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "美国","v": "美国"},
+            {"n": "英国","v": "英国"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "2022"},              
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"},
+            {"n": "2009","v": "2009"},
+            {"n": "2008","v": "2008"}
+          ]
+        }
+      ]        
+    }
+  }

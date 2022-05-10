@@ -1,0 +1,65 @@
+{
+  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+  "homeUrl": "https://auete.com",
+  "cateManual": {
+    "电影": "Movie",
+    "国产剧": "Tv/neidi",
+    "香港剧": "Tv/tvbgj",
+    "台湾剧": "Tv/taiju",
+    "欧美剧": "Tv/oumei",
+    "日本剧": "Tv/riju",
+    "韩国剧": "Tv/hanju",
+    "综艺": "Zy",
+    "日漫": "Dm/riman",
+    "国漫": "Dm/guoman",
+    "欧美": "Dm/meiman",
+    "动漫": "Dm/donghua"
+  },
+    
+// Home Summary ================================================  
+  "homeVodNode": "//div[contains(@class,'picture_list_container')]/ul/li",
+  "homeVodName": "/a/img/@title",
+  "homeVodId": "/h2/a/@href",
+  "homeVodImg": "/a/img/@src",
+  "homeVodMark": "/a/button/text()",
+  
+// Category Summary ================================================    
+  "cateUrl": "https://auete.com/{cateId}/index{catePg}.html",
+  "cateVodNode": "//div[contains(@class,'picture_list_container')]/ul/li",
+  "cateVodName": "/a/img/@title",
+  "cateVodId": "/h2/a/@href",
+  "cateVodImg": "/a/img/@src",
+  "cateVodMark": "/a/button/text()",
+  
+// Category Details ================================================    
+  "dtUrl": "https://auete.com/{vid}",
+  "dtNode": "//div[@class='card-body']",
+  "dtName": "//h1[contains(@class,'title break-all')]/text()",
+  "dtImg":  "//div[@class='cover']/a/@href",
+  "dtCate": "//div[@class='message break-all']/p[8]/text()",
+  "dtArea": "//div[@class='message break-all']/p[10]/text()",
+  "dtYear": "//div[@class='message break-all']/p[11]/text()",
+  "dtActor": "//div[@class='message break-all']/p[7]/text()",
+  "dtDirector": "//div[@class='message break-all']/p[5]/text()",
+  "dtMark": "//div[@class='message break-all']/p[14]/text()",
+  "dtDesc": "//div[@class='message break-all']/p[16]/text()",
+    
+// Playlist =====================================================              
+  "dtFromNode": "//div[contains(@id,'player_list')]/h2",
+  "dtFromName": "[substring-after(text(),'播')]",            // number must match
+  "dtUrlNode": "//div[contains(@id,'player_list')]/ul",      // number must match 
+  "dtUrlSubNode": "/li/a",
+  "dtUrlId": "/@href",
+  "dtUrlName": "/text()",
+  "playUrl": "https://auete.com/{playUrl}",
+  "playUa": "",
+    
+// Search Results ================================================         
+  "searchUrl": "https://auete.com/search.php?searchword={wd}",
+  "scVodNode": "json:list",
+  "scVodName": "name",
+  "scVodId": "id",
+  "scVodIdR": "",
+  "scVodImg": "pic",
+  "scVodMark": ""
+}
