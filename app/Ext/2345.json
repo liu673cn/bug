@@ -1,0 +1,262 @@
+{
+  "urls": {
+    "dianying": "//dianying.2345.com/",
+    "dianshiju": "//tv.2345.com/",
+    "zongyi": "//kan.2345.com/zongyi/",
+    "dongman": "//dongman.2345.com/",
+    "recommend": "//kan.2345.com/m/",
+    "search": "//tv.2345.com/moviecore/server/search/?q={wd}&ctl=think&querytype=suggest"
+  },
+  "classes": [
+    { "type_name": "电影", "type_id": "dianying" },
+    { "type_name": "电视剧", "type_id": "dianshiju" },
+    { "type_name": "综艺", "type_id": "zongyi" },
+    { "type_name": "动漫", "type_id": "dongman" }
+  ],
+  "filter": {
+    "dianying": [
+      {
+        "key": "type",
+        "name": "类型",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "爱情", "v": "aiqing" },
+          { "n": "动作", "v": "dongzuo" },
+          { "n": "喜剧", "v": "xiju" },
+          { "n": "战争", "v": "zhanzheng" },
+          { "n": "科幻", "v": "kehuan" },
+          { "n": "剧情", "v": "juqing" },
+          { "n": "武侠", "v": "wuxia" },
+          { "n": "冒险", "v": "maoxian" },
+          { "n": "枪战", "v": "qiangzhan" },
+          { "n": "恐怖", "v": "kongbu" },
+          { "n": "悬疑", "v": "xuanyi" },
+          { "n": "犯罪", "v": "fanzui" },
+          { "n": "奇幻", "v": "qihuan" },
+          { "n": "动画", "v": "donghua" },
+          { "n": "惊悚", "v": "jingsong" },
+          { "n": "经典", "v": "jingdian" },
+          { "n": "青春", "v": "qingchun" },
+          { "n": "文艺", "v": "wenyi" },
+          { "n": "微电影", "v": "weidianying" },
+          { "n": "古装", "v": "guzhuang" },
+          { "n": "历史", "v": "lishi" },
+          { "n": "运动", "v": "yundong" },
+          { "n": "农村", "v": "nongcun" },
+          { "n": "儿童", "v": "ertong" },
+          { "n": "网络电影", "v": "wangluodianying" },
+          { "n": "其它", "v": "qita" }
+        ]
+      },
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "内地", "v": "neidi" },
+          { "n": "美国", "v": "meiguo" },
+          { "n": "香港", "v": "xianggang" },
+          { "n": "台湾", "v": "taiwan" },
+          { "n": "日本", "v": "riben" },
+          { "n": "泰国", "v": "taiguo" },
+          { "n": "印度", "v": "yindu" },
+          { "n": "东南亚地区", "v": "dongnanyadiqu" },
+          { "n": "欧美地区", "v": "oumeidiqu" },
+          { "n": "其它", "v": "qita" }
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "2021", "v": "2021" },
+          { "n": "2020", "v": "2020" },
+          { "n": "2019", "v": "2019" },
+          { "n": "2018", "v": "2018" },
+          { "n": "2017", "v": "2017" },
+          { "n": "2016", "v": "2016" },
+          { "n": "2015", "v": "2015" },
+          { "n": "2014", "v": "2014" },
+          { "n": "2013", "v": "2013" },
+          { "n": "2012", "v": "2012" },
+          { "n": "2011", "v": "2011" },
+          { "n": "2010-2000", "v": "20102000" },
+          { "n": "更早", "v": "19691800" }
+        ]
+      }
+    ],
+    "dianshiju": [
+      {
+        "key": "type",
+        "name": "类型",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "言情", "v": "yanqing" },
+          { "n": "偶像", "v": "ouxiang" },
+          { "n": "都市", "v": "dushi" },
+          { "n": "战争", "v": "zhanzheng" },
+          { "n": "悬疑", "v": "xuanyi" },
+          { "n": "伦理", "v": "lunli" },
+          { "n": "惊悚", "v": "jingsong" },
+          { "n": "网络剧", "v": "wangluoju" },
+          { "n": "警匪", "v": "jingfei" },
+          { "n": "古装", "v": "guzhuang" },
+          { "n": "武侠", "v": "wuxia" },
+          { "n": "神话", "v": "shenhua" },
+          { "n": "历史", "v": "lishi" },
+          { "n": "动作", "v": "dongzuo" },
+          { "n": "谍战", "v": "diezhan" },
+          { "n": "喜剧", "v": "xiju" },
+          { "n": "抗日", "v": "kangri" },
+          { "n": "家庭", "v": "jiating" },
+          { "n": "剧情", "v": "juqing" },
+          { "n": "励志", "v": "lizhi" },
+          { "n": "农村", "v": "nongcun" },
+          { "n": "科幻", "v": "kehuan" },
+          { "n": "军旅", "v": "junlv" },
+          { "n": "奇幻", "v": "qihuan" },
+          { "n": "其它", "v": "qita" }
+        ]
+      },
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "内地", "v": "neidi" },
+          { "n": "台湾", "v": "taiwan" },
+          { "n": "香港", "v": "xianggang" },
+          { "n": "韩国", "v": "hanguo" },
+          { "n": "美国", "v": "meiguo" },
+          { "n": "泰国", "v": "taiguo" },
+          { "n": "日本", "v": "riben" },
+          { "n": "英国", "v": "yingguo" },
+          { "n": "新加坡", "v": "xinjiapo" },
+          { "n": "其它", "v": "qita" }
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "2021", "v": "2021" },
+          { "n": "2020", "v": "2020" },
+          { "n": "2019", "v": "2019" },
+          { "n": "2018", "v": "2018" },
+          { "n": "2017", "v": "2017" },
+          { "n": "2016", "v": "2016" },
+          { "n": "2015", "v": "2015" },
+          { "n": "2014", "v": "2014" },
+          { "n": "2013", "v": "2013" },
+          { "n": "2012", "v": "2012" },
+          { "n": "2011", "v": "2011" },
+          { "n": "2010-2000", "v": "20102000" },
+          { "n": "90年代", "v": "19991990" },
+          { "n": "更早", "v": "19891800" }
+        ]
+      }
+    ],
+    "zongyi": [
+      {
+        "key": "type",
+        "name": "类型",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "选秀", "v": "lxxuanxiu/" },
+          { "n": "情感", "v": "lxqinggan/" },
+          { "n": "访谈", "v": "lxfangtan/" },
+          { "n": "搞笑", "v": "lxgaoxiao/" },
+          { "n": "游戏", "v": "lxyouxi/" },
+          { "n": "职场", "v": "lxzhichang/" },
+          { "n": "娱乐", "v": "lxyule/" },
+          { "n": "真人秀", "v": "lxzhenrenxiu/" },
+          { "n": "生活", "v": "lxshenghuo/" },
+          { "n": "体育", "v": "lxtiyu/" },
+          { "n": "盛会", "v": "lxshenghui/" },
+          { "n": "财经", "v": "lxcaijing/" },
+          { "n": "亲子", "v": "lxqinzi/" },
+          { "n": "纪实", "v": "lxjishi/" },
+          { "n": "脱口秀", "v": "lxtuokouxiu/" },
+          { "n": "网络节目", "v": "lxwangluojiemu/" },
+          { "n": "美食", "v": "lxmeishi/" }
+        ]
+      },
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "大陆", "v": "dqdalu/" },
+          { "n": "港台", "v": "dqgangtai/" },
+          { "n": "日韩", "v": "dqrihan/" },
+          { "n": "欧美", "v": "dqoumei/" },
+          { "n": "其他", "v": "dqqita/" }
+        ]
+      }
+    ],
+    "dongman": [
+      {
+        "key": "type",
+        "name": "类型",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "热血", "v": "lxrexue/" },
+          { "n": "爱情", "v": "lxaiqing/" },
+          { "n": "搞笑", "v": "lxgaoxiao/" },
+          { "n": "美女", "v": "lxmeinv/" },
+          { "n": "少儿", "v": "lxshaoer/" },
+          { "n": "亲子", "v": "lxqinzi/" },
+          { "n": "魔法", "v": "lxmofa/" },
+          { "n": "运动", "v": "lxyundong/" },
+          { "n": "机战", "v": "lxjizhan/" },
+          { "n": "科幻", "v": "lxkehuan/" },
+          { "n": "校园", "v": "lxxiaoyuan/" },
+          { "n": "动物", "v": "lxdongwu/" },
+          { "n": "冒险", "v": "lxmaoxian/" },
+          { "n": "神话", "v": "lxshenhua/" },
+          { "n": "推理", "v": "lxtuili/" },
+          { "n": "剧情", "v": "lxjuqing/" },
+          { "n": "历史", "v": "lxlishi/" },
+          { "n": "战争", "v": "lxzhanzheng/" },
+          { "n": "经典", "v": "lxjingdian/" },
+          { "n": "男性向", "v": "lxnanxingxiang/" },
+          { "n": "女性向", "v": "lxnvxingxiang/" }
+        ]
+      },
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "大陆", "v": "dqdalu/" },
+          { "n": "日本", "v": "dqriben/" },
+          { "n": "美国", "v": "dqmeiguo/" },
+          { "n": "韩国", "v": "dqhanguo/" },
+          { "n": "其他", "v": "dqqita/" }
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "2021", "v": "nd2021/" },
+          { "n": "2020", "v": "nd2020/" },
+          { "n": "2019", "v": "nd2019/" },
+          { "n": "2018", "v": "nd2018/" },
+          { "n": "2017", "v": "nd2017/" },
+          { "n": "2016", "v": "nd2016/" },
+          { "n": "2015", "v": "nd2015/" },
+          { "n": "2014", "v": "nd2014/" },
+          { "n": "2013", "v": "nd2013/" },
+          { "n": "2012", "v": "nd2012/" },
+          { "n": "2011", "v": "nd2011/" },
+          { "n": "2010-2000", "v": "nd20102000/" },
+          { "n": "更早", "v": "nd19991800/" }
+        ]
+      }
+    ]
+  }
+}

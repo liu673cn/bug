@@ -1,0 +1,238 @@
+{
+  "urls": {
+    "dianying": "//m.kan.sogou.com/",
+    "dianshiju": "//m.kan.sogou.com/",
+    "zongyi": "//m.kan.sogou.com/",
+    "dongman": "//m.kan.sogou.com/",
+    "main": "//m.kan.sogou.com/",
+    "search": "//m.kan.sogou.com/search?keyword={wd}"
+  },
+  "classes": [
+    { "type_name": "电影", "type_id": "dianying" },
+    { "type_name": "电视剧", "type_id": "dianshiju" },
+    { "type_name": "综艺", "type_id": "zongyi" },
+    { "type_name": "动漫", "type_id": "dongman" }
+  ],
+  "filter": {
+    "dianying": [
+      {
+        "key": "type",
+        "name": "类型",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "爱情", "v": "aiqing" },
+          { "n": "动画", "v": "donghua" },
+          { "n": "动作", "v": "dongzuo" },
+          { "n": "纪录片", "v": "jilupian" },
+          { "n": "惊悚", "v": "jingsong" },
+          { "n": "警匪", "v": "jingfei" },
+          { "n": "剧情", "v": "juqing" },
+          { "n": "科幻", "v": "kehuan" },
+          { "n": "恐怖", "v": "kongbu" },
+          { "n": "伦理", "v": "lunli" },
+          { "n": "奇幻", "v": "qihuan" },
+          { "n": "青春", "v": "qingchun" },
+          { "n": "微电影", "v": "weidianying" },
+          { "n": "文艺", "v": "wenyi" },
+          { "n": "武侠", "v": "wuxia" },
+          { "n": "喜剧", "v": "xiju" },
+          { "n": "悬疑", "v": "xuanyi" },
+          { "n": "音乐", "v": "yinyue" },
+          { "n": "灾难", "v": "zainan" },
+          { "n": "战争", "v": "zhanzheng" },
+          { "n": "其他", "v": "qita" }
+        ]
+      },
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "韩国", "v": "hanguo" },
+          { "n": "内地", "v": "neidi" },
+          { "n": "香港", "v": "xianggang" },
+          { "n": "台湾", "v": "taiwan" },
+          { "n": "美国", "v": "meiguo" },
+          { "n": "欧洲", "v": "ouzhou" },
+          { "n": "法国", "v": "faguo" },
+          { "n": "日本", "v": "riben" },
+          { "n": "泰国", "v": "taiguo" },
+          { "n": "其他", "v": "qita" }
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "2021", "v": "2021" },
+          { "n": "2020", "v": "2020" },
+          { "n": "2019", "v": "2019" },
+          { "n": "2018", "v": "2018" },
+          { "n": "2017", "v": "2017" },
+          { "n": "2016", "v": "2016" },
+          { "n": "2015", "v": "2015" },
+          { "n": "2014", "v": "2014" },
+          { "n": "更早", "v": "1" }
+        ]
+      }
+    ],
+    "dianshiju": [
+      {
+        "key": "type",
+        "name": "类型",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "青春", "v": "qingchun" },
+          { "n": "家庭", "v": "jiating" },
+          { "n": "军旅", "v": "junlv" },
+          { "n": "言情", "v": "yanqing" },
+          { "n": "古装", "v": "guzhuang" },
+          { "n": "武侠", "v": "wuxia" },
+          { "n": "偶像", "v": "ouxiang" },
+          { "n": "谍战", "v": "diezhan" },
+          { "n": "宫廷", "v": "gongting" },
+          { "n": "喜剧", "v": "xiju" },
+          { "n": "悬疑", "v": "xunayi" },
+          { "n": "历史", "v": "lishi" },
+          { "n": "年代", "v": "niandai" },
+          { "n": "都市", "v": "dushi" },
+          { "n": "伦理", "v": "lunli" },
+          { "n": "警匪", "v": "jingfei" },
+          { "n": "科幻", "v": "kehuan" },
+          { "n": "动作", "v": "dongzuo" },
+          { "n": "农村", "v": "nongcun" },
+          { "n": "神话", "v": "shenhua" },
+          { "n": "战争", "v": "zhanzheng" },
+          { "n": "情景", "v": "qingjing" },
+          { "n": "纪录片", "v": "jilupian" },
+          { "n": "其他", "v": "qita" }
+        ]
+      },
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "内地", "v": "neidi" },
+          { "n": "香港", "v": "xianggang" },
+          { "n": "台湾", "v": "taiwan" },
+          { "n": "韩国", "v": "hanguo" },
+          { "n": "日本", "v": "riben" },
+          { "n": "美国", "v": "meiguo" },
+          { "n": "新加坡", "v": "xinjiapo" },
+          { "n": "泰国", "v": "taiguo" },
+          { "n": "英国", "v": "yingguo" },
+          { "n": "其他", "v": "qita" }
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "2021", "v": "2021" },
+          { "n": "2020", "v": "2020" },
+          { "n": "2019", "v": "2019" },
+          { "n": "2018", "v": "2018" },
+          { "n": "2017", "v": "2017" },
+          { "n": "2016", "v": "2016" },
+          { "n": "2015", "v": "2015" },
+          { "n": "2014", "v": "2014" },
+          { "n": "更早", "v": "1" }
+        ]
+      }
+    ],
+    "zongyi": [
+      {
+        "key": "type",
+        "name": "类型",
+        "value": [
+          { "v": "", "n": "全部" },
+          { "v": "qinggan", "n": "情感" },
+          { "v": "zhenrenxiu", "n": "真人秀" },
+          { "v": "fangtan", "n": "访谈" },
+          { "v": "xuanxiu", "n": "选秀" },
+          { "v": "gaoxiao", "n": "搞笑" },
+          { "v": "tuokouxiu", "n": "脱口秀" },
+          { "v": "jiaoyou", "n": "交友" },
+          { "v": "meishi", "n": "美食" },
+          { "v": "yinyue", "n": "音乐" },
+          { "v": "quyi", "n": "曲艺" },
+          { "v": "tiyu", "n": "体育" },
+          { "v": "qiuzhi", "n": "求职" },
+          { "v": "jushi", "n": "军事" },
+          { "v": "lvyou", "n": "旅游" },
+          { "v": "caijing", "n": "财经" },
+          { "v": "jiaoyu", "n": "教育" },
+          { "v": "shenghuo", "n": "生活" },
+          { "v": "yangsheng", "n": "养生" },
+          { "v": "shishang", "n": "时尚" },
+          { "v": "qita", "n": "其他" }
+        ]
+      },
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          { "v": "", "n": "全部" },
+          { "v": "dalu", "n": "大陆" },
+          { "v": "gangtai", "n": "港台" },
+          { "v": "hanguo", "n": "韩国" },
+          { "v": "oumei", "n": "欧美" },
+          { "v": "riben", "n": "日本" },
+          { "v": "qita", "n": "其他" }
+        ]
+      }
+    ],
+    "dongman": [
+      {
+        "key": "type",
+        "name": "类型",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "动作", "v": "dongzuo" },
+          { "n": "亲子", "v": "qinzi" },
+          { "n": "热血", "v": "rexue" },
+          { "n": "冒险", "v": "maoxian" },
+          { "n": "同人", "v": "tongren" },
+          { "n": "原创", "v": "yuanchuang" },
+          { "n": "古代", "v": "gudai" },
+          { "n": "未来", "v": "weilai" },
+          { "n": "竞技", "v": "jingji" },
+          { "n": "体育", "v": "tiyu" },
+          { "n": "搞笑", "v": "gaoxiao" },
+          { "n": "言情", "v": "yanqing" },
+          { "n": "校园", "v": "xiaoyuan" },
+          { "n": "都市", "v": "dushi" },
+          { "n": "魔幻", "v": "mohuan" },
+          { "n": "科幻", "v": "kehuan" },
+          { "n": "励志", "v": "lizhi" },
+          { "n": "剧情", "v": "juqing" },
+          { "n": "悬疑", "v": "xuanyi" },
+          { "n": "宠物", "v": "chongwu" },
+          { "n": "LOLI", "v": "loli" },
+          { "n": "益智", "v": "yizhi" },
+          { "n": "童话", "v": "tonghua" },
+          { "n": "真人", "v": "zhenren" },
+          { "n": "神话", "v": "shenhua" },
+          { "n": "其他", "v": "qita" }
+        ]
+      },
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          { "n": "全部", "v": "" },
+          { "n": "日本", "v": "riben" },
+          { "n": "美国", "v": "meiguo" },
+          { "n": "大陆", "v": "dalu" },
+          { "n": "台湾", "v": "taiwan" },
+          { "n": "英国", "v": "yingguo" },
+          { "n": "韩国", "v": "hanguo" },
+          { "n": "其他", "v": "qita" }
+        ]
+      }
+    ]
+  }
+}
