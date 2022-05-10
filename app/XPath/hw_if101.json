@@ -1,0 +1,56 @@
+{
+  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+  "homeUrl": "https://demo.if101.tv/",
+  "cateManual": {
+    "电影": "20", 
+    "电视剧": "21",
+    "综艺": "23",
+    "动漫": "22",
+    "记录片": "25"
+  },
+    
+// Home Summary ================================================  
+  "homeVodNode": "//li[@class='clearfix']/h3[@class='title']",
+  "homeVodName": "/a/text()",
+  "homeVodId": "/a/@href",
+  "homeVodImg": "/a/@data-original",
+  "homeVodMark": "/a/span[@class='pic-text text-right']/text()",
+  
+// Category Summary ================================================    
+  "cateUrl": "https://demo.if101.tv/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+  "cateVodNode": "//h3[contains(@class,'title')]",
+  "cateVodName": "/a/@title",
+  "cateVodId": "/a/@href",
+//  "cateVodIdR": "/index.php/vod/detail/id/(\\w+).html",
+  "cateVodImg": "/a/@data-original",
+  "cateVodMark": "/a/span[@class='pic-text text-right']/text()",
+  
+// Category Details ================================================    
+  "dtUrl": "https://demo.if101.tv/{vid}",
+  "dtNode": "//div[@class='stui-pannel clearfix']",
+  "dtName": "//div[@class='stui-content__thumb']/a/@title",
+  "dtImg":  "//div[@class='stui-content__thumb']/a/img/@src",
+  "dtCate": "//p[@class='data hidden-xs'][2]/text()[1]",
+  "dtDirector": "//p[@class='data'][3]/text()[1]",
+  "dtActor": "//p[@class='data'][2]/text()[1]",
+  "dtDesc": "//div[@class='stui-content__desc col-pd clearfix'][1]/text()[1]",
+
+// Playlist =====================================================     
+  "dtFromNode": "//div[@class='stui-content clearfix']/div[@class='stui-content__thumb']",
+  "dtFromName": "/a/@title",
+  "dtUrlNode": "//ul[@class='stui-content__playlist clearfix']",      // number must match 
+  "dtUrlSubNode": "/li",
+  "dtUrlId": "/a[1]/@href",
+  "dtUrlName": "/a[2]/text()",
+  "playUrl": "https://demo.if101.tv/{playUrl}",
+  "playUa": "",
+    
+// Search Results ================================================         
+  "searchUrl": "https://demo.if101.tv/index.php/vod/search.html?wd={wd}&submit=",
+  "scVodNode": "//li[@class='clearfix']/h3[@class='title']",
+  "scVodName": "/a/@title",
+  "scVodId": "/a/@href",
+  "scVodIdR": "/detail/(\\w+).html",
+  "scVodImg": "/a/@data-original",
+  "scVodMark": "/a/span[@class='pic-text text-right']/text()"
+}

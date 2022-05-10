@@ -1,0 +1,79 @@
+{
+	"ua": "",
+	"homeUrl": "https://ddrk.me",
+    "homeVodNode": "//div[@class='post-box-list']//div[@class='post-box-container']",
+	"homeVodName": "//div[@class='post-box-text']/h2[@class='post-box-title']/a/text()",
+    "homeVodNameR": "(.+?)(?=\\()",
+	"homeVodId": "//h2[@class='post-box-title']/a/@href",
+    // "homeVodIdR": "(?<=https://ddrk.me/)(.+?)+\\S",
+	"homeVodImg": "//div[@class='post-box-image']/@style",
+    "homeVodImgR": "(http\\S+jpg)",
+	"homeVodMark": "//div[@class='post-box-text']/h2[@class='post-box-title']/a/text()",
+    "homeVodMarkR": "(?<=\\()(.+?)(?=\\))",
+
+	"cateManual": "{}",
+	"cateNode": "//ul[@class=' dropdown-menu']/li[contains(@id,'menu-item-')]/a",
+	"cateName": "/text()",
+	"cateId": "/@href",
+	"cateUrl": "{cateId}/page/{catePg}/",
+
+	"cateVodNode": "//div[@class='post-box-list']//div[@class='post-box-container']",
+	"cateVodName": "//div[@class='post-box-text']/h2[@class='post-box-title']/a/text()",
+    "cateVodNameR": "(.+?)(?=\\()",
+	"cateVodId": "//h2[@class='post-box-title']/a/@href",
+    // "cateVodIdR": "(?<=https://ddrk.me/)(.+?)+\\S",
+    "cateVodImg": "//div[@class='post-box-image']/@style",
+    "cateVodImgR": "(http\\S+jpg)",
+	"cateVodMark": "substring-before(substring-after(//div[@class='post-box-text']/h2[@class='post-box-title']/a/text(), \"(\"), \")\")",
+    // "cateVodMarkR": "(?<=\\()(.+?)(?=\\))",
+
+	"dtUrl": "{vid}",
+	"dtNode": "//div[@class='post-content']",
+	"dtName": "//div[@class='title']/a[@class='cute']/text()",
+	"dtNameR": "",
+	"dtImg": "//div[@class='post']/img/@src",
+	"dtImgR": "",
+    // 视频分类
+	"dtCate": "//div[@class='title']/a[@class='cute']/text()",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "//div[@class='title']/a[@class='cute']/text()",
+	"dtYearR": "",
+    // 视频地区
+	"dtArea": "//div[@class='title']/a[@class='cute']/text()",
+	"dtAreaR": "",
+    // 视频状态
+	"dtMark": "//div[@class='title']/a[@class='cute']/text()",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "//div[@class='title']/a[@class='cute']/text()",
+	"dtActorR": "",
+    // 导演
+	"dtDirector": "//div[@class='title']/a[@class='cute']/text()",
+	"dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "//div[@class='title']/a[@class='cute']/text()",
+	"dtDescR": "",
+
+	"dtFromNode": "//div[@class='post-content']/div[@class='entry']//p",
+	"dtFromName": "//text()",
+	"dtFromNameR": "",
+    
+	"dtUrlNode": "//div[@class='wp-playlist-tracks']",
+	"dtUrlSubNode": "//a[@class='wp-playlist-caption']",
+	"dtUrlId": "/text()",
+	"dtUrlIdR": "(.+?)(?=\\.)",
+	"dtUrlName": "/text()",
+	"dtUrlNameR": "",
+
+	"playUrl": "https://ddrk.me/crime-2021/?ep={playUrl}",
+	"playUa": "",
+
+	"searchUrl": "",
+	"scVodNode": "json:list",
+	"scVodName": "name",
+	"scVodId": "id",
+    "scVodIdR": "",
+    "scVodImg": "pic",
+    "scVodMark": ""
+}
