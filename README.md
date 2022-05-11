@@ -14,30 +14,30 @@ https://pan.lanzoui.com/b0c3cb92f
 
 设置——当前配置接口输入
 
-【官方流出的接口】
-新版本猫专用接口：
+【官方流出的接口】  
+新版本猫专用接口：  
 https://c1n.cn/cat   https://c1n.cn/cat1  
 http://gg.gg/cat666  http://gg.gg/cat667  
 
 https://wds.ecsxs.com/224266.json  
-短链接：
+短链接：  
 https://mkk.c1n.cn  
 http://maoys.c1n.cn  
 
-猫群规则：
+猫群规则：  
 https://pglblb.coding.net/p/a/d/c/git/raw/master/51  
 
-5月8日新增规则
+5月8日新增规则  
 https://shuyuan.miaogongzi.net/shuyuan/1652103441.json  
- https://shuyuan.miaogongzi.net/shuyuan/1652114162.json  
+https://shuyuan.miaogongzi.net/shuyuan/1652114162.json  
 
-猫影视最新接口（20220502）：
+猫影视最新接口（20220502）：  
 https://raw.iqiq.io/airwooo/mt/main/Ma/m1.txt  
 https://raw.iqiq.io/airwooo/mt/main/Ma/m2.txt  
 https://raw.iqiq.io/airwooo/mt/main/Ma/m3.txt  
 https://raw.iqiq.io/airwooo/mt/main/Ma/m4.txt  
 
-明码接口
+明码接口  
 https://wds.ecsxs.com/224266.txt（新增）  
 https://wds.ecsxs.com/223942.txt（新增）  
 https://pastebin.com/raw/7sqJfwpx（新增）  
@@ -48,8 +48,8 @@ https://wds.ecsxs.com/213766.txt
 18个最优质的「猫影视」片源接口备份打包：  
 https://pan.quark.cn/s/2a51b32a941e  
 
-其中，cat，KG、164那3个接口含爱优腾酷芒官解源  
-其中，cat也含360、搜狗、2345官源  
+其中，cat，KG、164那3个接口含爱优腾酷芒官解源   
+其中，cat也含360、搜狗、2345官源   
 
 
 视频源：最后更新日期2022年05月05日  
