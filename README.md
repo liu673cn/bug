@@ -20,6 +20,7 @@ https://c1n.cn/cat  ： http://gg.gg/cat666
 https://c1n.cn/cat1  ： http://gg.gg/cat667    
 http://maoys.c1n.cn  ： https://raw.nite07.com/nite07
 
+https://wds.ecsxs.com/213313.json  
 
 http://gg.gg/mao11  
 ： https://pglblb.coding.net/p/a/d/c/git/raw/master/51 猫群接口  
