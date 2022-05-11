@@ -1,17 +1,14 @@
-#自用
+#自用  
 
-##海阔视界
+共享包  
+这里的jar包由群友玩家共享的爬虫代码生成，不定期更新jar包和配置  
+注意：由于防火墙的问题，你可能无法直接使用这里的jar包，请自己想办法解决  
 
-###[教程](https://www.bilibili.com/video/BV1YN411Q7Ho)
+"spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",  
 
-###[下载](https://haikuo.lanzoui.com/u/GoldRiver)
+国内镜像  
 
-###复制规则
-```
-海阔视界，2022.3月合集第一部分￥home_rule_url￥https://cdn.jsdelivr.net/gh/qiusunshine/hiker-rules/rules/2022-3.1.json
-海阔视界，2022.3月合集第二部分￥home_rule_url￥https://cdn.jsdelivr.net/gh/qiusunshine/hiker-rules/rules/2022-3.2.json
-```
+"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",   
 
-## 访客人数
 
-<img align="left" src = "https://profile-counter.glitch.me/ccsh-tv/count.svg" alt ="ALI">
+https://gitee.com/CCSHCoder/CatVodTVSpider/raw/master/jar/custom_spider.jar  
