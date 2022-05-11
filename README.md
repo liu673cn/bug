@@ -18,13 +18,23 @@ https://pan.lanzoui.com/b0c3cb92f
 新版本猫专用接口：  
 https://c1n.cn/cat  ： http://gg.gg/cat666   
 https://c1n.cn/cat1  ： http://gg.gg/cat667    
+http://maoys.c1n.cn  ： https://raw.nite07.com/nite07
+
+
+http://gg.gg/mao11
+： https://pglblb.coding.net/p/a/d/c/git/raw/master/51 猫群接口
+： https://yszt.coding.net/p/t/d/tvapp/git/raw/master/maoTV/1
+： https://wds.ecsxs.com/212787.json
+
+http://gg.gg/mao12 ： http://json.myaixixi.com/mtv/jk.json 低调鸡哥
+http://gg.gg/mao13 ： https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/maotv.json flying-guys
 
 短链接：  
 https://mkk.c1n.cn  ： https://wds.ecsxs.com/224266.json   
-http://maoys.c1n.cn  ： https://raw.nite07.com/nite07
+http://gg.gg/mao15 ： https://mkk.c1n.cn 分享迷
+http://gg.gg/mao16 ： http://fj365.ml/m.json
 
-猫群规则：  
-https://pglblb.coding.net/p/a/d/c/git/raw/master/51  
+http://gg.gg/mao19 ： http://pglblb.test.upcdn.net/m.json 内部学习，20220418
 
 5月8日新增规则  
 https://shuyuan.miaogongzi.net/shuyuan/1652103441.json  
