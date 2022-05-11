@@ -16,13 +16,12 @@ https://pan.lanzoui.com/b0c3cb92f
 
 【官方流出的接口】  
 新版本猫专用接口：  
-https://c1n.cn/cat   https://c1n.cn/cat1  
-http://gg.gg/cat666  http://gg.gg/cat667  
+https://c1n.cn/cat  ： http://gg.gg/cat666   
+https://c1n.cn/cat1  ： http://gg.gg/cat667    
 
-https://wds.ecsxs.com/224266.json  
 短链接：  
-https://mkk.c1n.cn  
-http://maoys.c1n.cn  
+https://mkk.c1n.cn  ： https://wds.ecsxs.com/224266.json   
+http://maoys.c1n.cn  ： https://raw.nite07.com/nite07
 
 猫群规则：  
 https://pglblb.coding.net/p/a/d/c/git/raw/master/51  
