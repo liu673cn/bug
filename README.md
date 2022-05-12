@@ -29,11 +29,12 @@ https://pan.lanzoui.com/b0c3cb92f
 ```
 
 ### 短链接：  
-https://mkk.c1n.cn ： https://wds.ecsxs.com/224266.json  
-http://gg.gg/mao15 ： https://mkk.c1n.cn 分享迷  
-http://gg.gg/mao16 ： http://fj365.ml/m.json  
+https://c1n.cn/mao1 ： https://pastebin.com/raw/wvMXhBXb
+https://mkk.c1n.cn  ： https://wds.ecsxs.com/224266.json  
+http://gg.gg/mao15  ： https://mkk.c1n.cn 分享迷  
+http://gg.gg/mao16  ： http://fj365.ml/m.json  
 
-http://gg.gg/mao19 ： http://pglblb.test.upcdn.net/m.json 内部学习，20220418  
+http://gg.gg/mao19  ： http://pglblb.test.upcdn.net/m.json 内部学习，20220418  
 
 ### 5月8日新增规则  
 https://shuyuan.miaogongzi.net/shuyuan/1652103441.json  
