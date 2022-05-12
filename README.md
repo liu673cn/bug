@@ -24,7 +24,7 @@ https://pan.lanzoui.com/b0c3cb92f
 
 - http://gg.gg/mao11  ： https://pglblb.coding.net/p/a/d/c/git/raw/master/51 猫群接口
 - http://gg.gg/mao12  ： http://json.myaixixi.com/mtv/jk.json 低调鸡哥
-- http://gg.gg/mao13  ： https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/maotv.json flying-guys0506
+- http://gg.gg/mao13  ： https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/maotv.json 0506
 
 ```
 
