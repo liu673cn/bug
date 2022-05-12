@@ -29,7 +29,7 @@ https://pan.lanzoui.com/b0c3cb92f
 ```
 
 ### 短链接：  
-https://c1n.cn/mao1 ： https://pastebin.com/raw/wvMXhBXb
+https://c1n.cn/mao1 ： https://pastebin.com/raw/wvMXhBXb  
 https://mkk.c1n.cn  ： https://wds.ecsxs.com/224266.json  
 http://gg.gg/mao15  ： https://mkk.c1n.cn 分享迷  
 http://gg.gg/mao16  ： http://fj365.ml/m.json  
