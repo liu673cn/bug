@@ -11,9 +11,9 @@
 3、新增推送功能：
 手机“推送”电视观看方式（前提条件：必须是手机、电视同一局域网）
 
-### Markdown
+### 最新版下载地址
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://pan.lanzoui.com/b0c3cb92f
 
 ```markdown
 Syntax highlighted code block
