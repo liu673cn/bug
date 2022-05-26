@@ -12,7 +12,7 @@
 {"key":"csp_xpath___动漫巴士","name":"动漫巴士〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/dm84.json"},
 {"key":"csp_N0ys____九零影视","name":"九零影视〔P〕","type":3,"api":"csp_N0ys"       ,"searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_Auete___奥特影视","name":"奥特影视〔P〕","type":3,"api":"csp_Auete"      ,"searchable":1,"quickSearch":0,"filterable":1},
-  {"key": "wabc(腾讯直采)","name": "wabc(腾讯直采)(官)","type": 1,"api": "https://wabc.ml/mao/1.php/provide/vod/","playUrl": "https://jx.parwix.com:4433/player/?url=","searchable": 1,"quickSearch": 1},
+  {"key": "wabc(腾讯直采)","name": "wabc(腾讯直采)(官)","type": 1,"api": "https://wabc.ml/mao/1.php/provide/vod/","playUrl": "parse:parwix1","searchable": 1,"quickSearch": 1},
 {"key": "8090资源","name": "8090资源(官)","type": 1,"api": "http://zy.yilans.net:8090/api.php/provide/vod/","playUrl": "https://www.8090.la/8090/?url=","searchable": 1,"quickSearch": 1},
 {"key": "6U资源","name": "6U资源(官)","type": 1,"api": "http://zy.ataoju.com/inc/apijson_vod.php","playUrl": "parse:parwix1","searchable": 0,"quickSearch": 0},
 {"key": "M3U8.TV资源","name": "M3U8.TV资源(官)","type": 1,"api": "http://www.zycaiji.net:7788/api.php/provide/vod/","playUrl": "parse:parwix1","searchable": 1,"quickSearch": 1},
