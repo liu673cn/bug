@@ -1,0 +1,13 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: dex.jar
+compressionType: false
+doNotCompress: null
+isFrameworkApk: false
+packageInfo: null
+sdkInfo: null
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+usesFramework: null
+version: 2.4.1_0303
+versionInfo: null

@@ -1,0 +1,177 @@
+{
+    "ua": "",
+    "homeUrl": "https://www.duboku.tv/",
+    "dcVipFlag": "true",
+    "dcPlayUrl": "true",
+    "cateNode": "//ul[contains(@class,'nav-menu')]/li/a[contains(@href, 'vodtype')and not(contains(@href,'20'))]",
+    "cateName": "/text()",
+    "cateId": "/@href",
+    "cateIdR": "/vodtype/(\\w+).html",
+    "cateManual": {},
+    "homeVodNode": "//ul[contains(@class,'myui-vodlist')]/li/div/a",
+    "homeVodName": "/@title",
+    "homeVodId": "/@href",
+    "homeVodIdR": "/voddetail/(\\w+).html",
+    "homeVodImg": "/@data-original",
+    "homeVodImgR": "\\S+(http\\S+)",
+    "homeVodMark": "//span[contains(@class,'pic-text')]/text()",
+    "cateUrl": "https://www.duboku.tv/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+    "cateVodNode": "//ul[contains(@class,'myui-vodlist')]/li/div/a",
+    "cateVodName": "/@title",
+    "cateVodId": "/@href",
+    "cateVodIdR": "/voddetail/(\\w+).html",
+    "cateVodImg": "/@data-original",
+    "cateVodImgR": "\\S+(http\\S+)",
+    "cateVodMark": "//span[contains(@class,'pic-text')]/text()",
+    "dtUrl": "https://my.duboku.vip/voddetail/{vid}.html",
+    "dtNode": "//body",
+    "dtName": "//div[contains(@class,'myui-content__thumb')]/a/@title",
+    "dtNameR": "",
+    "dtImg": "//div[contains(@class,'myui-content__thumb')]/a/img/@data-original",
+    "dtImgR": "",
+    "dtCate": "//div[contains(@class,'myui-content__detail')]/p/span[contains(text(), '分类')]/following-sibling::a/text()",
+    "dtYear": "//div[contains(@class,'myui-content__detail')]/p/span[contains(text(), '年份')]/following-sibling::a/text()",
+    "dtArea": "//div[contains(@class,'myui-content__detail')]/p/span[contains(text(), '地区')]/following-sibling::a/text()",
+    "dtMark": "//div[contains(@class,'myui-content__detail')]/p/span[contains(text(), '更新')]/following-sibling::a/text()",
+    "dtDirector": "//div[contains(@class,'myui-content__detail')]/p/span[contains(text(), '导演')]/following-sibling::a/text()",
+    "dtActor": "//div[contains(@class,'myui-content__detail')]/p/span[contains(text(), '主演')]/following-sibling::a/text()",
+    "dtDesc": "//div[contains(@class,'myui-content__detail')]/p/span[contains(text(), '简介')]/following-sibling::a/text()",
+    "dtFromNode": "//ul[contains(@class,'nav-tabs')]/li/a",
+    "dtFromName": "/text()",
+    "dtFromNameR": "",
+    "dtUrlNode": "//ul[contains(@class,'myui-content__list')]",
+    "dtUrlSubNode": "/li/a",
+    "dtUrlId": "/@href",
+    "dtUrlIdR": "/vodplay/(\\S+).html",
+    "dtUrlName": "/text()",
+    "dtUrlNameR": "",
+    "playUrl": "https://my.duboku.vip/vodplay/{playUrl}.html",
+    "playUa": "",
+    "searchUrl": "https://my.duboku.vip/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+    "scVodNode": "json:list",
+    "scVodName": "name",
+    "scVodId": "id",
+    "scVodIdR": "",
+    "scVodImg": "pic",
+    "scVodMark": "",
+    "filter": {
+      "2": [
+        {
+          "key": "cateId",
+          "name": "類型",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "陸劇","v": "13"},
+            {"n": "日韓劇","v": "15"},
+            {"n": "英美剧","v": "16"},
+            {"n": "台泰剧","v": "14"},
+            {"n": "港剧","v": "20"}
+          ]
+        },
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "美国","v": "美国"},
+            {"n": "英国","v": "英国"},
+            {"n": "内地","v": "内地"},
+            {"n": "泰国","v": "泰国"},
+            {"n": "韩国","v": "韩国"},
+            {"n": "香港","v": "香港"},
+            {"n": "日本","v": "日本"},
+            {"n": "台湾","v": "台湾"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"}
+          ]
+        },
+        {
+          "key": "by",
+          "name": "排序",
+          "value": [
+            {"n": "按更新","v": "time"},
+            {"n": "周人气","v": "hits_week"},
+            {"n": "月人气","v": "hits_month"}
+          ]
+        }
+      ],
+      "3": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "内地","v": "内地"},
+            {"n": "港台","v": "港台"},
+            {"n": "日韩","v": "日韩"},
+            {"n": "欧美","v": "欧美"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"}
+          ]
+        },
+        {
+          "key": "by",
+          "name": "排序",
+          "value": [
+            {"n": "按更新","v": "time"},
+            {"n": "周人气","v": "hits_week"},
+            {"n": "月人气","v": "hits_month"}
+          ]
+        }
+      ],
+      "4": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "国产","v": "国产"},
+            {"n": "日本","v": "日本"},
+            {"n": "欧美","v": "欧美"},
+            {"n": "其他","v": "其他"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"}
+          ]
+        },
+        {
+          "key": "by",
+          "name": "排序",
+          "value": [
+            {"n": "按更新","v": "time"},
+            {"n": "周人气","v": "hits_week"},
+            {"n": "月人气","v": "hits_month"}
+          ]
+        }
+      ]
+    }
+  }

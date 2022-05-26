@@ -1,0 +1,279 @@
+{
+  "ua": "",
+  "homeUrl": "https://www.tangrenjie.tv",
+  "dcVipFlag": "true",
+  "pCfgJs": "https://www.tangrenjie.tv/static/js/playerconfig.js",
+  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
+  "cateNode": "//ul[contains(@class, 'top_nav')]/li/a[contains(@href, 'type') and not(contains(@href,'5'))]",
+  "cateName": "/b/text()",
+  "cateId": "/@href",
+  "cateIdR": "/vod/type/id/(\\w+).html",
+  "cateManual": {},
+  "homeVodNode": "//div[@class='cbox1']/ul[contains(@class, 'vodlist')]/li/a",
+  "homeVodName": "/@title",
+  "homeVodId": "/@href",
+  "homeVodIdR": "/vod/detail/id/(\\w+).html",
+  "homeVodImg": "/@data-original",
+  "homeVodImgR": "\\S+(http\\S+)",
+  "homeVodMark": "/span[contains(@class,'pic_text')]//b/text()",
+  "cateUrl": "https://www.tangrenjie.tv/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+  "cateVodNode": "//ul[contains(@class, 'vodlist')]/li/a",
+  "cateVodName": "/@title",
+  "cateVodId": "/@href",
+  "cateVodIdR": "/vod/detail/id/(\\w+).html",
+  "cateVodImg": "/@data-original",
+  "cateVodImgR": "\\S+(http\\S+)",
+  "cateVodMark": "/span[contains(@class,'pic_text')]//b/text()",
+  "dtUrl": "https://www.tangrenjie.tv/vod/detail/id/{vid}.html",
+  "dtNode": "//body",
+  "dtName": "//div[contains(@class,'content_thum')]/a/@title",
+  "dtNameR": "",
+  "dtImg": "//div[contains(@class,'content_thum')]/a/@data-original",
+  "dtImgR": "\\S+(http\\S+)",
+  "dtCate": "//li[@class='data']/span[contains(text(), '类型')]/following-sibling::*/text()",
+  "dtCateR": "",
+  "dtYear": "//li[@class='data']/span[contains(text(), '年份')]/following-sibling::*/text()",
+  "dtYearR": "",
+  "dtArea": "//li[@class='data']/span[contains(text(), '地区')]/following-sibling::*/text()",
+  "dtAreaR": "",
+  "dtMark": "//li[@class='data']/span[contains(text(), '更新时间')]/following-sibling::*/text()",
+  "dtMarkR": "",
+  "dtActor": "//li[@class='data']/span[contains(text(), '主演')]/following-sibling::*/text()",
+  "dtActorR": "",
+  "dtDirector": "//li[@class='data']/span[contains(text(), '导演')]/following-sibling::*/text()",
+  "dtDirectorR": "",
+  "dtDesc": "//span[contains(text(), '简介')]/parent::*/text()[2]",
+  "dtDescR": "",
+  "dtFromNode": "//div[contains(@class,'play_source_tab')]/a/b",
+  "dtFromName": "/text()",
+  "dtFromNameR": "",
+  "dtUrlNode": "//div[@class='playlist_full']",
+  "dtUrlSubNode": "/ul/li/a",
+  "dtUrlId": "@href",
+  "dtUrlIdR": "/vod/play/id/(\\S+).html",
+  "dtUrlName": "/b/text()",
+  "dtUrlNameR": "",
+  "playUrl": "https://www.tangrenjie.tv/vod/play/id/{playUrl}.html",
+  "playUa": "",
+  "searchUrl": "https://www.tangrenjie.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "scVodNode": "json:list",
+  "scVodName": "name",
+  "scVodId": "id",
+  "scVodIdR": "",
+  "scVodImg": "pic",
+  "scVodMark": "",
+  "filter": {
+    "1": [
+      {
+        "key": "cateId",
+        "name": "分类",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "动作片","v": "6"},
+          {"n": "喜剧片","v": "7"},
+          {"n": "爱情片","v": "8"},
+          {"n": "科幻片","v": "9"},
+          {"n": "恐怖片","v": "10"},
+          {"n": "剧情片","v": "11"},
+          {"n": "战争片","v": "12"}
+        ]
+      },
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "大陆","v": "大陆"},
+          {"n": "香港","v": "香港"},
+          {"n": "台湾","v": "台湾"},
+          {"n": "美国","v": "美国"},
+          {"n": "法国","v": "法国"},
+          {"n": "英国","v": "英国"},
+          {"n": "日本","v": "日本"},
+          {"n": "韩国","v": "韩国"},
+          {"n": "德国","v": "德国"},
+          {"n": "泰国","v": "泰国"},
+          {"n": "印度","v": "印度"},
+          {"n": "其他","v": "其他"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2008","v": "2008"},
+          {"n": "2000","v": "2000"},
+          {"n": "1997","v": "1997"},
+          {"n": "1980","v": "1980"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "时间","v": "time"},
+          {"n": "人气","v": "hits"},
+          {"n": "评分","v": "score"}
+        ]
+      }
+    ],
+    "2": [
+      {
+        "key": "cateId",
+        "name": "分类",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "国产剧","v": "13"},
+          {"n": "港台剧","v": "14"},
+          {"n": "日韩剧","v": "15"},
+          {"n": "欧美剧","v": "16"},
+          {"n": "海外剧","v": "27"}
+        ]
+      },
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "大陆","v": "大陆"},
+          {"n": "香港","v": "香港"},
+          {"n": "台湾","v": "台湾"},
+          {"n": "日本","v": "日本"},
+          {"n": "欧美","v": "欧美"},
+          {"n": "韩国","v": "韩国"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2008","v": "2008"},
+          {"n": "2000","v": "2000"},
+          {"n": "1997","v": "1997"},
+          {"n": "1980","v": "1980"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "时间","v": "time"},
+          {"n": "人气","v": "hits"},
+          {"n": "评分","v": "score"}
+        ]
+      }
+    ],
+    "4": [
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "大陆","v": "大陆"},
+          {"n": "香港","v": "香港"},
+          {"n": "台湾","v": "台湾"},
+          {"n": "日本","v": "日本"},
+          {"n": "欧美","v": "欧美"},
+          {"n": "韩国","v": "韩国"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2008","v": "2008"},
+          {"n": "2000","v": "2000"},
+          {"n": "1997","v": "1997"},
+          {"n": "1980","v": "1980"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "时间","v": "time"},
+          {"n": "人气","v": "hits"},
+          {"n": "评分","v": "score"}
+        ]
+      }
+    ],
+    "3": [
+      {
+        "key": "cateId",
+        "name": "分类",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "纪录片","v": "28"}
+        ]
+      },
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "大陆","v": "大陆"},
+          {"n": "香港","v": "香港"},
+          {"n": "台湾","v": "台湾"},
+          {"n": "美国","v": "美国"},
+          {"n": "法国","v": "法国"},
+          {"n": "英国","v": "英国"},
+          {"n": "日本","v": "日本"},
+          {"n": "韩国","v": "韩国"},
+          {"n": "德国","v": "德国"},
+          {"n": "泰国","v": "泰国"},
+          {"n": "印度","v": "印度"},
+          {"n": "其他","v": "其他"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2008","v": "2008"},
+          {"n": "2000","v": "2000"},
+          {"n": "1997","v": "1997"},
+          {"n": "1980","v": "1980"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "时间","v": "time"},
+          {"n": "人气","v": "hits"},
+          {"n": "评分","v": "score"}
+        ]
+      }
+    ]
+  }
+}

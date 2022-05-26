@@ -1,0 +1,285 @@
+{
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+    "homeUrl": "https://www.nfuxs.com/",
+    "cateNode": "//ul[contains(@class,'nav-menu')]/li/a[contains(@href, 'vodtype')]",
+    "cateName": "/span/text()",
+    "cateId": "/@href",
+    "cateIdR": "/vodtype/(\\w+).html",
+    "cateManual": {},
+    "homeVodNode": "//div[@class='module-item']",
+    "homeVodName": "//div[@class='module-item-pic']/a/@title",
+    "homeVodId": "//div[@class='module-item-pic']/a/@href",
+    "homeVodIdR": "/voddetail/(\\w+).html",
+    "homeVodImg": "//div[@class='module-item-pic']/img/@data-src",
+    "homeVodImgR": "\\S+(http\\S+)",
+    "homeVodMark": "//div[@class='module-item-caption']/span[1]/text()",
+    "cateUrl": "https://www.nfuxs.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+    "cateVodNode": "//div[@class='module-item']",
+    "cateVodName": "//div[@class='module-item-pic']/a/@title",
+    "cateVodId": "//div[@class='module-item-pic']/a/@href",
+    "cateVodIdR": "/voddetail/(\\w+).html",
+    "cateVodImg": "//div[@class='module-item-pic']/img/@data-src",
+    "cateVodImgR": "\\S+(http\\S+)",
+    "cateVodMark": "//div[@class='module-item-caption']/span[1]/text()",
+    "dtUrl": "https://www.nfuxs.com/voddetail/{vid}.html",
+    "dtNode": "//body",
+    "dtName": "//div[@class='video-info-header']/h1/text()",
+    "dtNameR": "",
+    "dtImg": "//div[@class='video-cover']/div/div/img/@data-src",
+    "dtImgR": "",
+    "dtCate": "//div[@class='tag-link']/span/following-sibling::a/text()",
+    "dtYear": "//div[contains(@class,'video-info-aux')]/a[2]/text()",
+    "dtArea": "//div[contains(@class,'video-info-aux')]/a[3]/text()",
+    "dtMark": "",
+    "dtDirector": "//span[contains(text(), '导演')]/parent::*/div/span/following-sibling::*/text()",
+    "dtActor": "//span[contains(text(), '主演')]/parent::*/div/span/following-sibling::*/text()",
+    "dtDesc": "//span[contains(text(), '剧情')]/parent::*/div/span/text()",
+    "dtFromNode": "//div[@class='module-tab-content']/div/span",
+    "dtFromName": "/text()",
+    "dtFromNameR": "",
+    "dtUrlNode": "//div[@class='scroll-content']",
+    "dtUrlSubNode": "/a",
+    "dtUrlId": "/@href",
+    "dtUrlIdR": "/vodplay/(\\S+).html",
+    "dtUrlName": "/span/text()",
+    "dtUrlNameR": "",
+    "playUrl": "https://www.nfuxs.com/vodplay/{playUrl}.html",
+    "playUa": "",
+    "searchUrl": "https://www.nfuxs.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+    "scVodNode": "json:list",
+    "scVodName": "name",
+    "scVodId": "id",
+    "scVodIdR": "",
+    "scVodImg": "pic",
+    "scVodMark": "",
+    "filter": {
+      "1": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "大陆","v": "大陆"},
+            {"n": "香港","v": "香港"},
+            {"n": "台湾","v": "台湾"},
+            {"n": "美国","v": "美国"},
+            {"n": "法国","v": "法国"},
+            {"n": "英国","v": "英国"},
+            {"n": "日本","v": "日本"},
+            {"n": "韩国","v": "韩国"},
+            {"n": "泰国","v": "泰国"},
+            {"n": "印度","v": "印度"},
+            {"n": "意大利","v": "意大利"},
+            {"n": "西班牙","v": "西班牙"},
+            {"n": "加拿大","v": "加拿大"},
+            {"n": "其他","v": "其他"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"},
+            {"n": "2009","v": "2009"},
+            {"n": "2008","v": "2008"},
+            {"n": "2007","v": "2007"},
+            {"n": "2006","v": "2006"},
+            {"n": "2005","v": "2005"},
+            {"n": "2004","v": "2004"}
+          ]
+        },
+        {
+          "key": "by",
+          "name": "排序",
+          "value": [
+            {"n": "更新","v": "time"},
+            {"n": "人气","v": "hits"},
+            {"n": "评分","v": "score"}
+          ]
+        }
+      ],
+      "2": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "大陆","v": "大陆"},
+            {"n": "香港","v": "香港"},
+            {"n": "台湾","v": "台湾"},
+            {"n": "美国","v": "美国"},
+            {"n": "法国","v": "法国"},
+            {"n": "英国","v": "英国"},
+            {"n": "日本","v": "日本"},
+            {"n": "韩国","v": "韩国"},
+            {"n": "泰国","v": "泰国"},
+            {"n": "印度","v": "印度"},
+            {"n": "意大利","v": "意大利"},
+            {"n": "西班牙","v": "西班牙"},
+            {"n": "加拿大","v": "加拿大"},
+            {"n": "其他","v": "其他"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"},
+            {"n": "2009","v": "2009"},
+            {"n": "2008","v": "2008"},
+            {"n": "2007","v": "2007"},
+            {"n": "2006","v": "2006"},
+            {"n": "2005","v": "2005"},
+            {"n": "2004","v": "2004"}
+          ]
+        },
+        {
+          "key": "by",
+          "name": "排序",
+          "value": [
+            {"n": "更新","v": "time"},
+            {"n": "人气","v": "hits"},
+            {"n": "评分","v": "score"}
+          ]
+        }
+      ],
+      "3": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "大陆","v": "大陆"},
+            {"n": "香港","v": "香港"},
+            {"n": "台湾","v": "台湾"},
+            {"n": "美国","v": "美国"},
+            {"n": "法国","v": "法国"},
+            {"n": "英国","v": "英国"},
+            {"n": "日本","v": "日本"},
+            {"n": "韩国","v": "韩国"},
+            {"n": "泰国","v": "泰国"},
+            {"n": "印度","v": "印度"},
+            {"n": "意大利","v": "意大利"},
+            {"n": "西班牙","v": "西班牙"},
+            {"n": "加拿大","v": "加拿大"},
+            {"n": "其他","v": "其他"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"},
+            {"n": "2009","v": "2009"},
+            {"n": "2008","v": "2008"},
+            {"n": "2007","v": "2007"},
+            {"n": "2006","v": "2006"},
+            {"n": "2005","v": "2005"},
+            {"n": "2004","v": "2004"}
+          ]
+        },
+        {
+          "key": "by",
+          "name": "排序",
+          "value": [
+            {"n": "更新","v": "time"},
+            {"n": "人气","v": "hits"},
+            {"n": "评分","v": "score"}
+          ]
+        }
+      ],
+      "1": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "大陆","v": "大陆"},
+            {"n": "香港","v": "香港"},
+            {"n": "台湾","v": "台湾"},
+            {"n": "美国","v": "美国"},
+            {"n": "法国","v": "法国"},
+            {"n": "英国","v": "英国"},
+            {"n": "日本","v": "日本"},
+            {"n": "韩国","v": "韩国"},
+            {"n": "泰国","v": "泰国"},
+            {"n": "印度","v": "印度"},
+            {"n": "意大利","v": "意大利"},
+            {"n": "西班牙","v": "西班牙"},
+            {"n": "加拿大","v": "加拿大"},
+            {"n": "其他","v": "其他"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2021","v": "2021"},
+            {"n": "2020","v": "2020"},
+            {"n": "2019","v": "2019"},
+            {"n": "2018","v": "2018"},
+            {"n": "2017","v": "2017"},
+            {"n": "2016","v": "2016"},
+            {"n": "2015","v": "2015"},
+            {"n": "2014","v": "2014"},
+            {"n": "2013","v": "2013"},
+            {"n": "2012","v": "2012"},
+            {"n": "2011","v": "2011"},
+            {"n": "2010","v": "2010"},
+            {"n": "2009","v": "2009"},
+            {"n": "2008","v": "2008"},
+            {"n": "2007","v": "2007"},
+            {"n": "2006","v": "2006"},
+            {"n": "2005","v": "2005"},
+            {"n": "2004","v": "2004"}
+          ]
+        },
+        {
+          "key": "by",
+          "name": "排序",
+          "value": [
+            {"n": "更新","v": "time"},
+            {"n": "人气","v": "hits"},
+            {"n": "评分","v": "score"}
+          ]
+        }
+      ]
+    }
+  }
