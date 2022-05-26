@@ -2,7 +2,6 @@
 
 
 {"sites": [
-  {"name":"XPath"},
 {"key":"csp_xpath___在线之家","name":"在线之家〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/zxzj.json"},
 {"key":"csp_xpath___乐猪影视","name":"乐猪影视〔X〕","type":3,"api":"csp_XPathMac"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/lezhutv.json"},
 {"key":"csp_xpath___九四神马","name":"九四神马〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/94sm.json"},
@@ -11,10 +10,8 @@
 {"key":"csp_xpath___极品影视","name":"极品影视〔X〕","type":3,"api":"csp_XPathMac"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/jpys.json"},
 {"key":"csp_xpath___师兄影视","name":"师兄影视〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/tvci.json"},
 {"key":"csp_xpath___动漫巴士","name":"动漫巴士〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/dm84.json"},
-  {"name":"爬虫"},
 {"key":"csp_N0ys____九零影视","name":"九零影视〔P〕","type":3,"api":"csp_N0ys"       ,"searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_Auete___奥特影视","name":"奥特影视〔P〕","type":3,"api":"csp_Auete"      ,"searchable":1,"quickSearch":0,"filterable":1},
-  {"name":"直链"},
 {"key": "wabc(腾讯直采)","name": "wabc(腾讯直采)(官)","type": 1,"api": "https://wabc.ml/mao/1.php/provide/vod/","playUrl": "parse:parwix1","searchable": 1,"quickSearch": 1},
 {"key": "8090资源","name": "8090资源(官)","type": 1,"api": "http://zy.yilans.net:8090/api.php/provide/vod/","playUrl": "https://www.8090.la/8090/?url=","searchable": 1,"quickSearch": 1},
 {"key": "6U资源","name": "6U资源(官)","type": 1,"api": "http://zy.ataoju.com/inc/apijson_vod.php","playUrl": "parse:parwix1","searchable": 0,"quickSearch": 0},
@@ -80,7 +77,6 @@
 {"key": "酷猫影视","name": "酷猫影视(聚)","type": 1,"api": "https://www.pgcms10.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
 {"key": "胖猫影视","name": "胖猫影视(聚)","type": 1,"api": "http://www.pangmaotv.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
 {"key": "嘛哩嘛哩","name": "嘛哩嘛哩(聚)","type": 1,"api": "https://malimali3.com/api.php/provide/vod/","playUrl": "parse:parwix1","searchable": 1,"quickSearch": 1,"categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫"]},  
-  {"name":"AppYs"},
 {"key":"csp_AppYsV2_超级剧场","name":"超级剧场〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ytys3456.com/mogai_api.php/v1.vod"},
 {"key":"csp_AppYsV2_超级电影","name":"超级电影〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://qqtvapp.com/xgapp.php/v1/"},
 {"key":"csp_appysv2_益达影院","name":"益达影院〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
@@ -555,9 +551,7 @@
 			"url": "https://app.okmedcos.com/4k/?url=",
 			"ext": {
 				"flag": ["CL4K", "qq", "腾讯", "pptv", "PPTV"]
-			}
-
-],
+			}],
 
 
 
