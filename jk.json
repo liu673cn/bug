@@ -226,7 +226,9 @@
 
 
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"],
-"spider": "https://wuji888.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
+//"spider": "https://wuji888.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
+"spider": "https://liu673cn.github.io/mao/jar/custom_spider_t3.jar",
+
 
 
 
