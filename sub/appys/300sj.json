@@ -1,0 +1,16 @@
+{ //以大佬给的代码改的，简单给小白搞
+  "extUrl": "https://300ys.xyz/mogai_api.php/v1.vod", //api接口
+  "parser": {  
+	//播放源有啥需要解析就写， 列如下：
+	//"播放源": "解析",
+	//json或web解析都行
+    "youku": "http://api.vip123kan.vip/?url=",
+    "qiyi": "http://json.52mhe.com/home/api?type=ys&uid=3882795&key=ajkmopvwzCDEGHSTU9&url=",
+    "qq": "http://api.vip123kan.vip/?url=",
+    “duoduozy": "",
+    "rx": "https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url=",
+    "renrenmi": "https://languangyingshiziyuan.1080zy.top/rrmi.php/?url=",
+    "mgtv": "http://json.52mhe.com/home/api?type=ys&uid=3882795&key=ajkmopvwzCDEGHSTU9&url=",
+    "letv": "https://www.2g88.vip/mgyy.php?url="
+  }
+}
