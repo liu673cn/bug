@@ -8,11 +8,11 @@
 {"key": "Auete","name": "Auete〔S〕","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tangsan99999.github.io/sub/setup/Auete.json"},
 {"key": "Cokemv","name": "Cokemv〔S〕","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tangsan99999.github.io/sub/setup/Cokemv.json"},
 {"name":"Xpath"},
-{"key": "csp_xpath_在线之家","name": "在线之家〔X〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://liu673cn.github.io/mao/sub/xpath/zxzj.json"},
-{"key": "csp_xpath_789看片","name": "789看片〔X〕","type": 3,"api": "csp_XPathRec","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://liu673cn.github.io/mao/sub/xpath/789ba.json"},
-{"key": "csp_xpath_Gimy","name": "Gimy影院〔X〕","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://liu673cn.github.io/mao/sub/xpath/Gimy.json"},
-{"key": "csp_xpath_乐猪TV","name": "乐猪TV〔X〕","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://liu673cn.github.io/mao/sub/xpath/lezhutv.json"},
-{"key": "csp_xpath_Age动漫","name": "Age动漫〔X〕","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://liu673cn.github.io/mao/sub/xpath/agefans.json"},
+{"key": "csp_xpath_在线之家","name": "在线之家〔X〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tangsan99999.github.io/sub/xpath/zxzj.json"},
+{"key": "csp_xpath_789看片","name": "789看片〔X〕","type": 3,"api": "csp_XPathRec","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tangsan99999.github.io/sub/xpath/789ba.json"},
+{"key": "csp_xpath_Gimy","name": "Gimy影院〔X〕","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tangsan99999.github.io/sub/xpath/Gimy.json"},
+{"key": "csp_xpath_乐猪TV","name": "乐猪TV〔X〕","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://tangsan99999.github.io/sub/xpath/lezhutv.json"},
+{"key": "csp_xpath_Age动漫","name": "Age动漫〔X〕","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tangsan99999.github.io/sub/xpath/agefans.json"},
 {"name":"Biubiu"},
 {"key": "csp_biubiu_01","name": "LIBVIO影视〔B〕","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://liu673cn.github.io/mao/sub/biubiu/01_libvio.json"},
 {"key": "csp_biubiu_02","name": "周末电影〔B〕","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://liu673cn.github.io/mao/sub/biubiu/02_zzzlike.json"},
@@ -463,5 +463,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://liu673cn.github.io/mao/jar/custom_spider_t3.jar"
+  "spider": "https://tangsan99999.github.io/custom_spider.jar"
 }
