@@ -8,7 +8,7 @@
 {"key": "csp_biubiu_06","name": "九亿资源","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://liu673cn.github.io/mao/sub/biubiu/06_9eii.json"},
 {"key": "csp_biubiu_07","name": "剧 白 白","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://liu673cn.github.io/mao/sub/biubiu/07_jubaibai.json"},
 {"key": "csp_biubiu_08","name": "天空资源","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://liu673cn.github.io/mao/sub/biubiu/08_tkys.json"},
-{"key": "csp_biubiu_09","name": "饭团影院",""type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://liu673cn.github.io/mao/sub/biubiu/09_fantuan.json"},
+{"key": "csp_biubiu_09","name": "饭团影院","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://liu673cn.github.io/mao/sub/biubiu/09_fantuan.json"},
 {"key": "csp_biubiu_10","name": "影视工厂","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://liu673cn.github.io/mao/sub/biubiu/10_ysgc.json"},
 
 {"key": "csp_biubiu_11","name": "口袋影院","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://liu673cn.github.io/mao/sub/biubiu/11_koudaitv.json"},
@@ -346,5 +346,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://tangsan99999.github.io/custom_spider.jar"
+  "spider": "https://liu673cn.github.io/mao/jar/custom_spider_t3.jar"
 }
