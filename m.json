@@ -154,8 +154,9 @@
       "type": 2,
       "url": "Sequence"
     },
+{"name": "Pro","type": 1,"url": "http://api.vip123kan.vip/?url=","ext": {"flag": ["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"解析01","type":1,"url":"https://vip.parwix.com:4433/player/?url="},
-{"name":"解析02","type":1,"url":"https://vip.parwix.com:4433/player/?url="},
+{"name":"解析02","type":1,"url":"https://jx.parwix.com:4433/player/?url="},
 {"name":"解析03","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
 {"name":"解析04","type":1,"url":"http://jf.tcspvip.com:246/home/api?type=ys&uid=65404&key=bjoprtvyABGIMPXZ27&url="},
 {"name":"解析05","type":1,"url":"http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="},
