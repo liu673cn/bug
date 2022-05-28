@@ -1,7 +1,9 @@
 ###
 
 
-{"sites":[
+{
+"spider" : "https://liu673cn.github.io/mao/jar/sprider0521.txt",
+  "sites":[
 {"name":"xpath"},
 {"key":"csp_xpath___在线之家","name":"在线之家〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/zxzj.json"},
 {"key":"csp_xpath___乐猪影视","name":"乐猪影视〔X〕","type":3,"api":"csp_XPathMac"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/lezhutv.json"},
@@ -136,9 +138,10 @@
       ]
     }
   ],
+ 
 //解X匹配
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"],
-"spider" : "https://liu673cn.github.io/mao/jar/sprider0521.txt",
+ 
 //解X设置
   "parses": [
     {
