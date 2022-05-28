@@ -53,7 +53,6 @@
 {"key": "csp_biubiu_38","name": "奈落影院〔B〕","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://liu673cn.github.io/mao/sub/biubiu/38_newfii.json"},
 {"key": "csp_biubiu_39","name": "TV23影视〔B〕","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://liu673cn.github.io/mao/sub/biubiu/39_23wm.json"},
 {"name":"AppYs"},
-{"key": "csp_AppYs2_kunyu77","name": "kunyu77〔Z〕","type": 3,"api": "csp_AppYs2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://liu673cn.github.io/mao/sub/appys/01_kunyu77.json"},
 {"key": "csp_AppYs2_001","name": "独 播 社〔Z〕","type": 3,"api": "csp_AppYs2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://35ys.cc/api.php/v1.vod"},
 {"key": "csp_AppYs2_002","name": "钟特影视〔Z〕","type": 3,"api": "csp_AppYs2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://app.zteys.com/api.php/v1.vod"},
 {"key": "csp_AppYs2_003","name": "美剧虫〔Z〕","type": 3,"api": "csp_AppYs2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://meijuchong.com/api.php/v1.vod"},
