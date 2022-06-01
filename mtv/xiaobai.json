@@ -1,64 +1,22 @@
 {
   "sites": [
-    {
-      "key": "csp_biubiu_ysgc",
-      "name": "ysgc",
+    { // 解析自己找
+      "key": "360",
+      "name": "360",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://tangsan99999.github.io/XBiubiu/ysgc.json"
+      "filterable": 1
     },
     {
-      "key": "csp_biubiu_555",
-      "name": "555",
+      "key": "LiteApple",
+      "name": "小苹果",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://tangsan99999.github.io/XBiubiu/555.json"
-    },
-    {
-      "key": "csp_biubiu_lezhu",
-      "name": "lezhu",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://tangsan99999.github.io/XBiubiu/lezhutv.json"
-    },
-    { //列子，自己找Api
-      "key": "300看世界",
-      "name": "300看世界",
-      "type": 3,
-      "api": "csp_AppYs2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tangsan99999.github.io/sub/appys/300sj.json"
-    },
-    { //列子，自己找Api
-      "key": "钟特影视",
-      "name": "钟特影视",
-      "type": 3,
-      "api": "csp_AppYs2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://app.zteys.com/api.php/v1.vod"
-    },
-    { //列子，自己找Api
-      "key": "美剧虫",
-      "name": "美剧虫",
-      "type": 3,
-      "api": "csp_AppYs2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://meijuchong.com/api.php/v1.vod"
+      "filterable": 1
     },
     {
       "key": "七七",
@@ -70,14 +28,31 @@
       "filterable": 1
     },
     {
+      "key": "奈落影院",
+      "name": "奈落影院",
+      "type": 3,
+      "api": "csp_Newfii",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "在线之家",
+      "name": "在线之家",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "小宝影院",
       "name": "小宝影院",
       "type": 3,
       "api": "csp_Xiaoh",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tangsan99999.github.io/sub/setup/Xiaoh.json"
+      "filterable": 1
     },
     {
       "key": "Auete",
@@ -86,8 +61,7 @@
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tangsan99999.github.io/sub/setup/Auete.json"
+      "filterable": 1
     },
     {
       "key": "Cokemv",
@@ -96,22 +70,71 @@
       "api": "csp_Cokemv",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tangsan99999.github.io/sub/setup/Cokemv.json"
+      "filterable": 1
     },
     {
-      "key": "在线之家",
-      "name": "在线之家",
+      "key": "csp_biubiu_ysgc",
+      "name": "影视工厂(XB)",
       "type": 3,
-      "api": "csp_XPathFilter",
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://tangsan99999.github.io/XBiubiu/ysgc.json"
+    },
+    {
+      "key": "csp_biubiu_555",
+      "name": "555影院(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://tangsan99999.github.io/XBiubiu/555.json"
+    },
+    {
+      "key": "csp_biubiu_lezhu",
+      "name": "乐猪(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://tangsan99999.github.io/XBiubiu/lezhutv.json"
+    },
+    { //列子，自己找Api
+      "key": "300看世界",
+      "name": "300看世界(v2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tangsan99999.github.io/sub/xpath/zxzj.json"
+      "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
+    },
+    { //列子，自己找Api
+      "key": "钟特影视",
+      "name": "钟特影视(v2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://app.zteys.com/api.php/v1.vod"
+    },
+    { //列子，自己找Api
+      "key": "美剧虫",
+      "name": "美剧虫(v1)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://meijuchong.com/api.php/v1.vod"
     },
     {
       "key": "789看片",
-      "name": "789看片",
+      "name": "789看片(XP)",
       "type": 3,
       "api": "csp_XPathRec",
       "searchable": 1,
@@ -121,7 +144,7 @@
     },
     {
       "key": "Gimy",
-      "name": "Gimy",
+      "name": "Gimy(XP)",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -131,7 +154,7 @@
     },
     {
       "key": "乐猪TV",
-      "name": "乐猪TV",
+      "name": "乐猪TV(XP)",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
@@ -141,7 +164,7 @@
     },
     {
       "key": "Age动漫",
-      "name": "Age动漫",
+      "name": "Age动漫(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -166,7 +189,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1BhbmRvcmEyMjc3L25pdGVAbWFzdGVyL2xpdmUvbGl2ZS50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly90YW5nc2FuOTk5OTkuZ2l0aHViLmlvL2xpdmUvTXR2LnR4dA=="
           ]
         }
       ]
