@@ -111,7 +111,7 @@
 {"key":"csp_xml___055","name":"TVB云播（采）"   ,"type":1,"api":"http://www.tvyb02.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"csp_xml___056","name":"趣看采集（采）"   ,"type":1,"api":"https://qkmp4.cn/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"csp_xml___057","name":"酷猫影视（采）"   ,"type":1,"api":"https://www.pgcms10.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
-{"key":"csp_xml___058","name":"人人资源（采）"   ,"type":1,"api":"http://www.rrzyw.cc/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1}
+{"key":"csp_xml___058","name":"人人资源（采）"   ,"type":1,"api":"http://www.rrzyw.cc/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"csp_xml___059","name":"松鼠资源（采）"   ,"type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"csp_xml___060","name":"奥特曼资源（采）"   ,"type":1,"api":"https://aotemanzy.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"csp_xml___061","name":"极速官采（采）"   ,"type":1,"api":"http://gc.zhuijuba.vip/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
