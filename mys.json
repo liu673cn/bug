@@ -5,7 +5,6 @@
 {"key": "七七","name": "七七〔P〕","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0 },
 {"name":"Setup"},
-{"key": "小宝影院","name": "小宝影院〔S〕","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tangsan99999.github.io/sub/setup/Xiaoh.json"},
 {"key": "Auete","name": "Auete〔S〕","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tangsan99999.github.io/sub/setup/Auete.json"},
 {"key": "Cokemv","name": "Cokemv〔S〕","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tangsan99999.github.io/sub/setup/Cokemv.json"},
 {"name":"Xpath"},
