@@ -1,0 +1,474 @@
+{
+  "author":"takagen99",
+  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+  "homeUrl": "https://olevod.com",
+  "dcVipFlag": "true",
+  "pCfgJs": "https://olevod.com/static/js/playerconfig.js",
+  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
+  "cateNode": "//ul[contains(@class,'top_nav clearfix')]//li/a[contains(@href,'type')and not(contains(@href,'5'))]",
+  "cateName": "/text()",
+  "cateId": "/@href",
+  "cateIdR": "/index.php/vod/type/id/(\\d+).html",
+  "cateManual": {
+    "电影": "1",
+    "国产剧": "202",
+    "港台剧": "203",	
+    "欧美剧": "201",
+    "日韩剧": "204",
+    "综艺": "3",
+    "日漫": "401",
+    "国漫": "402",
+    "欧美": "403",	
+    "动漫": "4"
+  },
+  
+// Home Summary ================================================  
+  "homeVodNode": "//div[contains(@class, 'pannel')]//ul[contains(@class,'vodlist vodlist_wi list_v12 clearfix')]/li/a[contains(@class,'vodlist_thumb')]",
+  "homeVodName": "/@title",
+  "homeVodId": "/@href",
+  "homeVodIdR": "/index.php/vod/detail/id/(\\w+).html",
+  "homeVodImg": "/@data-original",
+  "homeVodImgR": "\\S+(http\\S+)",
+  "homeVodMark": "/span[@class='pic_text text_right']/em/text()",
+  
+// Category Summary ================================================    
+  "cateUrl": "https://olevod.com/index.php/vod/show{area}/id/{cateId}/page/{catePg}{year}.html",
+  "cateVodNode": "//ul[contains(@class,'vodlist vodlist_wi')]//li//a[contains(@class,'vodlist_thumb')]",
+  "cateVodName": "/@title",
+  "cateVodId": "/@href",
+  "cateVodIdR": "/index.php/vod/detail/id/(\\w+).html",
+  "cateVodImg": "/@data-original",
+  "cateVodImgR": "\\S+(http\\S+)",
+  "cateVodMark": "/span[@class='pic_text text_right']/em/text()",
+  
+// Category Details ================================================   
+  "dtUrl": "https://olevod.com/index.php/vod/detail/id/{vid}.html",
+  "dtNode": "//div[contains(@class,'hot_banner')]",
+  "dtName": "//div[@class='content_box clearfix']/div/a/@title",
+  "dtNameR": "",
+  "dtImg": "//div[@class='content_box clearfix']/div/a/@data-original",
+  "dtImgR": "\\S+(http\\S+)",
+  "dtYear": "//div[contains(@class,'content_detail')]//span[contains(@class,'text_muted hidden_xs') and contains(text(), '年份')]/following-sibling::*/text()",
+  "dtYearR": "",
+  "dtArea": "//div[contains(@class,'content_detail')]//span[contains(@class,'text_muted hidden_xs') and contains(text(), '地区')]/following-sibling::*/text()",
+  "dtAreaR": "",
+  "dtCate": "//div[contains(@class,'content_detail')]//span[contains(@class,'text_muted hidden_xs') and contains(text(), '类型')]/following-sibling::*/text()",
+  "dtCateR": "",
+  "dtMark": "//div[contains(@class,'content_detail')]//span[contains(text(), '状态')]/following-sibling::*/text()",
+  "dtMarkR": "",
+  "dtActor": "//div[contains(@class,'content_detail')]//span[contains(text(), '主演')]/following-sibling::*/text()",
+  "dtActorR": "",
+  "dtDirector": "//div[contains(@class,'content_detail')]//span[contains(text(), '导演')]/following-sibling::*/text()",
+  "dtDirectorR": "",
+  "dtDesc": "///div[contains(@class,'content_detail')]//span[contains(@class,'left text_muted') and contains(text(), '简介')]/parent::text()",
+  "dtDescR": "",
+  
+// Playlist =====================================================
+  "dtFromNode": "//div[contains(@class,'play_source_tab')]/a",
+  "dtFromName": "/@alt",
+  "dtFromNameR": "",
+  "dtUrlNode": "//div[contains(@class,'playlist_full')]/ul[contains(@class,'content_playlist clearfix')]",
+  "dtUrlSubNode": "//li/a",
+  "dtUrlId": "/@href",
+  "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
+  "dtUrlName": "/text()",
+  "dtUrlNameR": "",
+  "playUrl": "https://olevod.com/index.php/vod/play/id/{playUrl}.html",
+  "playUa": "",
+  
+// Search Results ================================================   
+  "searchUrl": "https://olevod.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "scVodNode": "json:list",
+  "scVodName": "name",
+  "scVodId": "id",
+  "scVodIdR": "",
+  "scVodImg": "pic",
+  "scVodMark": "",
+  
+// Filters =======================================================
+    "filter": {
+      "1": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "大陆","v": "/area/大陆"},
+            {"n": "香港","v": "/area/香港"},
+            {"n": "台湾","v": "/area/台湾"},        
+            {"n": "美国","v": "/area/美国"},
+            {"n": "英国","v": "/area/英国"},
+            {"n": "日本","v": "/area/日本"},
+            {"n": "韩国","v": "/area/韩国"},
+            {"n": "泰国","v": "/area/泰国"},
+            {"n": "印度","v": "/area/印度"},
+            {"n": "法国","v": "/area/法国"},
+            {"n": "加拿大","v": "/area/加拿大"},
+            {"n": "西班牙","v": "/area/西班牙"},
+            {"n": "德国","v": "/area/德国"},
+            {"n": "俄罗斯","v": "/area/俄罗斯"},
+            {"n": "意大利","v": "/area/意大利"},
+            {"n": "新加坡","v": "/area/新加坡"},
+            {"n": "马来西亚","v": "/area/马来西亚"},        
+            {"n": "其他","v": "/area/其他"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "/year/2022"},              
+            {"n": "2021","v": "/year/2021"},
+            {"n": "2020","v": "/year/2020"},
+            {"n": "2019","v": "/year/2019"},
+            {"n": "2018","v": "/year/2018"},
+            {"n": "2017","v": "/year/2017"},
+            {"n": "2016","v": "/year/2016"},
+            {"n": "2015","v": "/year/2015"},
+            {"n": "2014","v": "/year/2014"},
+            {"n": "2013","v": "/year/2013"},
+            {"n": "2012","v": "/year/2012"},
+            {"n": "2011","v": "/year/2011"},
+            {"n": "2010","v": "/year/2010"},
+            {"n": "2009","v": "/year/2009"},
+            {"n": "2008","v": "/year/2008"},
+            {"n": "2007","v": "/year/2007"},
+            {"n": "2006","v": "/year/2006"},
+            {"n": "2005","v": "/year/2005"},            
+            {"n": "2004","v": "/year/2004"}
+          ]
+        }
+      ],
+      "2": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "大陆","v": "/area/大陆"},
+            {"n": "香港","v": "/area/香港"},
+            {"n": "台湾","v": "/area/台湾"},        
+            {"n": "美国","v": "/area/美国"},
+            {"n": "英国","v": "/area/英国"},
+            {"n": "日本","v": "/area/日本"},
+            {"n": "韩国","v": "/area/韩国"},
+            {"n": "泰国","v": "/area/泰国"},     
+            {"n": "其他","v": "/area/其他"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "/year/2022"},              
+            {"n": "2021","v": "/year/2021"},
+            {"n": "2020","v": "/year/2020"},
+            {"n": "2019","v": "/year/2019"},
+            {"n": "2018","v": "/year/2018"},
+            {"n": "2017","v": "/year/2017"},
+            {"n": "2016","v": "/year/2016"},
+            {"n": "2015","v": "/year/2015"},
+            {"n": "2014","v": "/year/2014"},
+            {"n": "2013","v": "/year/2013"},
+            {"n": "2012","v": "/year/2012"},
+            {"n": "2011","v": "/year/2011"},
+            {"n": "2010","v": "/year/2010"},
+            {"n": "2009","v": "/year/2009"},
+            {"n": "2008","v": "/year/2008"},
+            {"n": "2007","v": "/year/2007"},
+            {"n": "2006","v": "/year/2006"},
+            {"n": "2005","v": "/year/2005"},            
+            {"n": "2004","v": "/year/2004"}
+          ]
+        }
+      ],
+      "202": [
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "/year/2022"},              
+            {"n": "2021","v": "/year/2021"},
+            {"n": "2020","v": "/year/2020"},
+            {"n": "2019","v": "/year/2019"},
+            {"n": "2018","v": "/year/2018"},
+            {"n": "2017","v": "/year/2017"},
+            {"n": "2016","v": "/year/2016"},
+            {"n": "2015","v": "/year/2015"},
+            {"n": "2014","v": "/year/2014"},
+            {"n": "2013","v": "/year/2013"},
+            {"n": "2012","v": "/year/2012"},
+            {"n": "2011","v": "/year/2011"},
+            {"n": "2010","v": "/year/2010"},
+            {"n": "2009","v": "/year/2009"},
+            {"n": "2008","v": "/year/2008"},
+            {"n": "2007","v": "/year/2007"},
+            {"n": "2006","v": "/year/2006"},
+            {"n": "2005","v": "/year/2005"},            
+            {"n": "2004","v": "/year/2004"}
+          ]
+        }
+      ],
+      "203": [
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "/year/2022"},              
+            {"n": "2021","v": "/year/2021"},
+            {"n": "2020","v": "/year/2020"},
+            {"n": "2019","v": "/year/2019"},
+            {"n": "2018","v": "/year/2018"},
+            {"n": "2017","v": "/year/2017"},
+            {"n": "2016","v": "/year/2016"},
+            {"n": "2015","v": "/year/2015"},
+            {"n": "2014","v": "/year/2014"},
+            {"n": "2013","v": "/year/2013"},
+            {"n": "2012","v": "/year/2012"},
+            {"n": "2011","v": "/year/2011"},
+            {"n": "2010","v": "/year/2010"},
+            {"n": "2009","v": "/year/2009"},
+            {"n": "2008","v": "/year/2008"},
+            {"n": "2007","v": "/year/2007"},
+            {"n": "2006","v": "/year/2006"},
+            {"n": "2005","v": "/year/2005"},            
+            {"n": "2004","v": "/year/2004"}
+          ]
+        }
+      ],
+      "201": [
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "/year/2022"},              
+            {"n": "2021","v": "/year/2021"},
+            {"n": "2020","v": "/year/2020"},
+            {"n": "2019","v": "/year/2019"},
+            {"n": "2018","v": "/year/2018"},
+            {"n": "2017","v": "/year/2017"},
+            {"n": "2016","v": "/year/2016"},
+            {"n": "2015","v": "/year/2015"},
+            {"n": "2014","v": "/year/2014"},
+            {"n": "2013","v": "/year/2013"},
+            {"n": "2012","v": "/year/2012"},
+            {"n": "2011","v": "/year/2011"},
+            {"n": "2010","v": "/year/2010"},
+            {"n": "2009","v": "/year/2009"},
+            {"n": "2008","v": "/year/2008"},
+            {"n": "2007","v": "/year/2007"},
+            {"n": "2006","v": "/year/2006"},
+            {"n": "2005","v": "/year/2005"},            
+            {"n": "2004","v": "/year/2004"}
+          ]
+        }
+      ],
+      "204": [
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "/year/2022"},              
+            {"n": "2021","v": "/year/2021"},
+            {"n": "2020","v": "/year/2020"},
+            {"n": "2019","v": "/year/2019"},
+            {"n": "2018","v": "/year/2018"},
+            {"n": "2017","v": "/year/2017"},
+            {"n": "2016","v": "/year/2016"},
+            {"n": "2015","v": "/year/2015"},
+            {"n": "2014","v": "/year/2014"},
+            {"n": "2013","v": "/year/2013"},
+            {"n": "2012","v": "/year/2012"},
+            {"n": "2011","v": "/year/2011"},
+            {"n": "2010","v": "/year/2010"},
+            {"n": "2009","v": "/year/2009"},
+            {"n": "2008","v": "/year/2008"},
+            {"n": "2007","v": "/year/2007"},
+            {"n": "2006","v": "/year/2006"},
+            {"n": "2005","v": "/year/2005"},            
+            {"n": "2004","v": "/year/2004"}
+          ]
+        }
+      ],
+      "3": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "大陆","v": "/area/大陆"},
+            {"n": "香港","v": "/area/香港"},
+            {"n": "台湾","v": "/area/台湾"},        
+            {"n": "美国","v": "/area/美国"},
+            {"n": "英国","v": "/area/英国"},
+            {"n": "日本","v": "/area/日本"},
+            {"n": "韩国","v": "/area/韩国"},
+            {"n": "泰国","v": "/area/泰国"},     
+            {"n": "其他","v": "/area/其他"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "/year/2022"},              
+            {"n": "2021","v": "/year/2021"},
+            {"n": "2020","v": "/year/2020"},
+            {"n": "2019","v": "/year/2019"},
+            {"n": "2018","v": "/year/2018"},
+            {"n": "2017","v": "/year/2017"},
+            {"n": "2016","v": "/year/2016"},
+            {"n": "2015","v": "/year/2015"},
+            {"n": "2014","v": "/year/2014"},
+            {"n": "2013","v": "/year/2013"},
+            {"n": "2012","v": "/year/2012"},
+            {"n": "2011","v": "/year/2011"},
+            {"n": "2010","v": "/year/2010"},
+            {"n": "2009","v": "/year/2009"},
+            {"n": "2008","v": "/year/2008"},
+            {"n": "2007","v": "/year/2007"},
+            {"n": "2006","v": "/year/2006"},
+            {"n": "2005","v": "/year/2005"},            
+            {"n": "2004","v": "/year/2004"}
+          ]
+        }
+      ],
+      "401": [
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "/year/2022"},              
+            {"n": "2021","v": "/year/2021"},
+            {"n": "2020","v": "/year/2020"},
+            {"n": "2019","v": "/year/2019"},
+            {"n": "2018","v": "/year/2018"},
+            {"n": "2017","v": "/year/2017"},
+            {"n": "2016","v": "/year/2016"},
+            {"n": "2015","v": "/year/2015"},
+            {"n": "2014","v": "/year/2014"},
+            {"n": "2013","v": "/year/2013"},
+            {"n": "2012","v": "/year/2012"},
+            {"n": "2011","v": "/year/2011"},
+            {"n": "2010","v": "/year/2010"},
+            {"n": "2009","v": "/year/2009"},
+            {"n": "2008","v": "/year/2008"},
+            {"n": "2007","v": "/year/2007"},
+            {"n": "2006","v": "/year/2006"},
+            {"n": "2005","v": "/year/2005"},            
+            {"n": "2004","v": "/year/2004"}
+          ]
+        }
+      ],
+      "402": [
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "/year/2022"},              
+            {"n": "2021","v": "/year/2021"},
+            {"n": "2020","v": "/year/2020"},
+            {"n": "2019","v": "/year/2019"},
+            {"n": "2018","v": "/year/2018"},
+            {"n": "2017","v": "/year/2017"},
+            {"n": "2016","v": "/year/2016"},
+            {"n": "2015","v": "/year/2015"},
+            {"n": "2014","v": "/year/2014"},
+            {"n": "2013","v": "/year/2013"},
+            {"n": "2012","v": "/year/2012"},
+            {"n": "2011","v": "/year/2011"},
+            {"n": "2010","v": "/year/2010"},
+            {"n": "2009","v": "/year/2009"},
+            {"n": "2008","v": "/year/2008"},
+            {"n": "2007","v": "/year/2007"},
+            {"n": "2006","v": "/year/2006"},
+            {"n": "2005","v": "/year/2005"},            
+            {"n": "2004","v": "/year/2004"}
+          ]
+        }
+      ],
+      "403": [
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "/year/2022"},              
+            {"n": "2021","v": "/year/2021"},
+            {"n": "2020","v": "/year/2020"},
+            {"n": "2019","v": "/year/2019"},
+            {"n": "2018","v": "/year/2018"},
+            {"n": "2017","v": "/year/2017"},
+            {"n": "2016","v": "/year/2016"},
+            {"n": "2015","v": "/year/2015"},
+            {"n": "2014","v": "/year/2014"},
+            {"n": "2013","v": "/year/2013"},
+            {"n": "2012","v": "/year/2012"},
+            {"n": "2011","v": "/year/2011"},
+            {"n": "2010","v": "/year/2010"},
+            {"n": "2009","v": "/year/2009"},
+            {"n": "2008","v": "/year/2008"},
+            {"n": "2007","v": "/year/2007"},
+            {"n": "2006","v": "/year/2006"},
+            {"n": "2005","v": "/year/2005"},            
+            {"n": "2004","v": "/year/2004"}
+          ]
+        }
+      ],
+      "4": [
+        {
+          "key": "area",
+          "name": "地区",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "大陆","v": "/area/大陆"},
+            {"n": "香港","v": "/area/香港"},
+            {"n": "台湾","v": "/area/台湾"},        
+            {"n": "美国","v": "/area/美国"},
+            {"n": "英国","v": "/area/英国"},
+            {"n": "日本","v": "/area/日本"},
+            {"n": "韩国","v": "/area/韩国"},
+            {"n": "泰国","v": "/area/泰国"},     
+            {"n": "其他","v": "/area/其他"}
+          ]
+        },
+        {
+          "key": "year",
+          "name": "年份",
+          "value": [
+            {"n": "全部","v": ""},
+            {"n": "2022","v": "/year/2022"},              
+            {"n": "2021","v": "/year/2021"},
+            {"n": "2020","v": "/year/2020"},
+            {"n": "2019","v": "/year/2019"},
+            {"n": "2018","v": "/year/2018"},
+            {"n": "2017","v": "/year/2017"},
+            {"n": "2016","v": "/year/2016"},
+            {"n": "2015","v": "/year/2015"},
+            {"n": "2014","v": "/year/2014"},
+            {"n": "2013","v": "/year/2013"},
+            {"n": "2012","v": "/year/2012"},
+            {"n": "2011","v": "/year/2011"},
+            {"n": "2010","v": "/year/2010"},
+            {"n": "2009","v": "/year/2009"},
+            {"n": "2008","v": "/year/2008"},
+            {"n": "2007","v": "/year/2007"},
+            {"n": "2006","v": "/year/2006"},
+            {"n": "2005","v": "/year/2005"},            
+            {"n": "2004","v": "/year/2004"}
+          ]
+        }
+      ]
+    }
+}
