@@ -24,8 +24,9 @@
 {"key":"csp_xpath_agemys","name":"AGE动漫1（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/agemys.json"},
 {"key":"csp_xpath_agefans","name":"AGE动漫2（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/agefans.json"},
 {"key":"csp_xpath_dm84","name":"动漫巴士（X）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/dm84.json"},
-{"key": "csp_xpath_yinghua","name": "樱花动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://liu673cn.github.io/mao/sub/xpath/yinghua.json"},
-//
+{"key":"csp_xpath_yinghua1","name":"樱花动漫1（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/yinghua.json"},
+{"key":"csp_xpath_yinghua2","name":"樱花动漫2(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/yinghua2.json"},
+    //
 {"key":"csp_xpath_saohuo","name":"骚火电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/saohuotv.json"},
 {"key":"csp_xpath_xiaoxiong","name":"小熊影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xpath/xiaoxiong.json"},   
 {"key":"csp_Xbiubiu_Lgyy","name":"蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xpath/lgyy.json"},
