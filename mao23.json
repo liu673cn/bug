@@ -8,8 +8,7 @@
 {"key":"csp_biubiu_真不卡cerrd","name":"真不卡1(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/真不卡cerrd(ns).json"},
 {"key":"csp_biubiu_真不卡zhenbuka3","name":"真不卡2(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/真不卡zhenbuka3(ns).json"},
 {"key":"csp_biubiu_奇优影院ns","name":"奇优影院(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/奇优影院(NS).json"},
-
-    //
+//
 //{"key":"csp_xpath_huohuo99","name":"火火影视（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xp/huohuo99.json"},
 //{"key":"csp_xpath_pianba","name":"片吧影院（X）","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xp/pianba.json"},
 //{"key":"csp_xpath_axx2","name":"爱西西影视（X）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xp/Aixixi.json"},
@@ -19,14 +18,13 @@
 //{"key": "csp_xpath_88kanqiu","name": "球赛直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/88kanqiu.json"},
 //{"key": "csp_xpath_1090","name": "90影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/1090.json"},  
 //{"key": "csp_xpath_kelatv","name": "克拉TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/kelatv.json"},
-    //
+//
 {"key": "csp_xpath_omofun","name": "omofun动漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://liu673cn.github.io/mao/sub/xpath/omofun.json"},
 {"key":"csp_xpath_agemys","name":"AGE动漫1（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/agemys.json"},
 {"key":"csp_xpath_agefans","name":"AGE动漫2（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/agefans.json"},
 {"key":"csp_xpath_dm84","name":"动漫巴士（X）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/dm84.json"},
 {"key":"csp_xpath_yinghua1","name":"樱花动漫1（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/yinghua.json"},
 {"key":"csp_xpath_yinghua2","name":"樱花动漫2(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/yinghua2.json"},
-    //
 {"key":"csp_xpath_saohuo","name":"骚火电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/saohuotv.json"},
 {"key":"csp_xpath_xiaoxiong","name":"小熊影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xpath/xiaoxiong.json"},   
 {"key":"csp_Xbiubiu_Lgyy","name":"蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xpath/lgyy.json"},
@@ -39,7 +37,6 @@
 {"key":"csp_xpath_kyikan","name": "看一看","type": 3,"api":"csp_XPath","searchable": 1,"quickSearch": 1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/kyikan.json"},
 {"key":"csp_xpath_yanet","name":"鸭奈飞（X）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xpath/yanet.json"},
 {"key":"csp_xpath_yanetflix","name":"鸭奈非（X）","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/yanetflix.json"},
-    //  
 {"key":"csp_xpath_94sm","name":"94神马（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/94sm.json"},
 {"key":"csp_xpath_zj883","name":"追剧网（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/zj883.json"},
 {"key":"csp_xpath_lkvod","name":"来看点播（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/lkvod.json"},
