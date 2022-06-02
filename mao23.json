@@ -213,7 +213,7 @@
 {"key": "csp_AppYs2_008","name": "零刻影院（Z）","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ys.ling00.cn/api.php/v1.vod"},
 {"key": "csp_AppYs2_010","name": "段友影视2（Z）","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://shangjihuoke.com/api.php/tv.vod"},
 {"key":"csp_appysv2_影视猫","name":"影视猫（Z）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vip.wscyun.com/api.php/v1.vod"},
-{"key":"csp_appys_影视大全","name":"影视大全（Z）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xc.xixi2yy.xyz/mogai_api.php/v1.vod"},
+{"key":"csp_appys_影视大全","name":"影视大全（Z）","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xc.xixi2yy.xyz/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_影库","name":"影库（Z）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yingkudy.com/lvdou_api.php/v1.vod"},
 {"key":"csp_appys_月儿影视","name":"月儿影视（Z）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yue52.xyz/api.php/v1.vod"},
 {"key":"csp_appysv2_小鸟动漫","name":"小鸟动漫（Z）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
