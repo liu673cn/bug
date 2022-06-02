@@ -15,6 +15,17 @@
 //{"key":"csp_xpath_jpys","name":"极品影视（X）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xp/jpys.json"},
 //{"key":"csp_hdmoli","name":"hdmoli（H）","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xp/hdmoli.json"},
 //
+{"key": "csp_xpath_age","name": "AGE动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/agefans.json"},
+{"key": "csp_xpath_omofun","name": "omofun动漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/omofun.json"},
+{"key": "csp_xpath_dm84","name": "动漫巴士","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/dm84.json"},
+{"key": "csp_xpath_yinghua","name": "樱花动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/yinghua.json"},
+{"key": "csp_xpath_lezhutv","name": "乐猪TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/lezhutv.json"},
+{"key": "csp_xpath_saohuo","name": "骚火TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/saohuotv.json"},
+{"key": "csp_xpath_kelatv","name": "克拉TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/kelatv.json"},
+{"key": "csp_xpath_xiaoxiong","name": "小熊影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/xpath/xiaoxiong.json"},   
+    
+    
+    
 {"key":"csp_xpath_94sm","name":"94神马（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/94sm.json"},
 {"key":"csp_xpath_zj883","name":"追剧网（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/zj883.json"},
 {"key":"csp_xpath_lkvod","name":"来看点播（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xpath/lkvod.json"},
