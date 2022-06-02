@@ -3,6 +3,7 @@
 "spider": "https://liu673cn.github.io/mao/jar/xb.txt",
   "sites": [
 {"name":"Xpath"},
+{"key":"csp_biubiu_GAOAA","name":"🥒GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/bb/GAOAA.json"},
 {"key":"csp_xpath_libv","name":"Libvio（F）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xpath/libv.json"},
 {"key": "csp_xpath_zxzj","name": "在线之家（F）"  ,"type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://liu673cn.github.io/mao/sub/xpath/zxzj.json"},
 {"key":"csp_xpath_zxzj2","name":"在线之家2（F）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xpath/zxzj2.json"},
