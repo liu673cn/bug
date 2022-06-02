@@ -54,7 +54,6 @@
 {"key":"csp_appysv2_益达影视","name":"益达影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_月色影视","name":"月色影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://69ty.cc/mogai_api.php/v1.vod"},
 {"name":"官方解析"},
-{"name":"官方解析"},
 {"key":"csp_xml___001","name":"WaBc腾讯（采）"   ,"type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"csp_xml___002","name":"诺迅资源（采）"   ,"type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_xml___003","name":"8090 资源（采）"   ,"type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","playUrl":"https://www.8090.la/8090/?url=","searchable":1,"quickSearch":1},
