@@ -7,7 +7,9 @@
 {"key":"csp_xpath_zxzj2","name":"在线之家（X）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xpath/zxzj2.json"},
 {"key":"csp_biubiu_真不卡cerrd","name":"真不卡1(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/真不卡cerrd(ns).json"},
 {"key":"csp_biubiu_真不卡zhenbuka3","name":"真不卡2(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/真不卡zhenbuka3(ns).json"},
-//
+{"key":"csp_biubiu_奇优影院ns","name":"奇优影院(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/奇优影院(NS).json"},
+
+    //
 //{"key":"csp_xpath_huohuo99","name":"火火影视（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xp/huohuo99.json"},
 //{"key":"csp_xpath_pianba","name":"片吧影院（X）","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xp/pianba.json"},
 //{"key":"csp_xpath_axx2","name":"爱西西影视（X）","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xp/Aixixi.json"},
@@ -158,7 +160,6 @@
 {"key":"csp_biubiu_大象TV","name":"大象TV（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/大象TV.json"},
 {"key":"csp_biubiu_4kan电影网","name":"4kan电影网（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/4kan电影网.json"},
 {"key":"csp_biubiu_蓝莓影视","name":"蓝莓影视（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/蓝莓影视.json"},
-{"key":"csp_biubiu_奇优影院（不支持搜）","name":"奇优影院（不支持搜）（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/奇优影院（不支持搜）.json"},
 {"key":"csp_biubiu_影渣渣","name":"影渣渣（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/影渣渣.json"},
 {"key":"csp_biubiu_牛马TV","name":"牛马TV（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/牛马TV.json"},
 {"key":"csp_biubiu_飘花播播","name":"飘花播播（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/飘花播播.json"},
