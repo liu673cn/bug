@@ -82,7 +82,8 @@
 {"key":"csp_xpath_dmntv","name":"弹幕影院（X）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xpath/dmntv.json"},
 //
 {"name":"XBiubiu"},
-    //{"key":"csp_biubiu_稀饭影视","name":"稀饭影视（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/bb/稀饭影视.json"},
+//{"key":"csp_biubiu_奇粹影院","name":"奇粹影院（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/bb/奇粹影院.json"},
+//{"key":"csp_biubiu_稀饭影视","name":"稀饭影视（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/bb/稀饭影视.json"},
 //{"key":"csp_biubiu_大师兄影视","name":"大师兄影视（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/bb/大师兄影视.json"},
 //{"key":"csp_biubiu_虎猫","name":"虎猫（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/bb/虎猫.json"},
 {"key":"csp_biubiu_思古影视","name":"思古影视（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/bb/思古影视.json"},
@@ -97,8 +98,6 @@
 {"key":"csp_biubiu_1080Kkk","name":"1080Kkk（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/bb/1080Kkk.json"},
 {"key":"csp_biubiu_北川影视","name":"北川影视（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/bb/北川影视.json"},
 {"key":"csp_biubiu_火火影视","name":"火火影视（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/bb/火火影视.json"},
-
-{"key":"csp_biubiu_奇粹影院","name":"奇粹影院（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/bb/奇粹影院.json"},
 {"key":"csp_biubiu_hdmoli","name":"hdmoli（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/bb/hdmoli.json"},
 //
 {"key":"csp_biubiu_LIBVIO","name":"LIBVIO（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/LIBVIO.json"},
