@@ -9,7 +9,6 @@
 {"key":"csp_biubiu_真不卡zhenbuka3","name":"真不卡2(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/真不卡zhenbuka3(ns).json"},
 {"key":"csp_biubiu_奇优影院ns","name":"奇优影院(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/奇优影院(NS).json"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"csp_biubiu_88ys","name":"88影视网（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/88ys.json"},
 //
 //{"key":"csp_xpath_huohuo99","name":"火火影视（X）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xp/huohuo99.json"},
 //{"key":"csp_xpath_pianba","name":"片吧影院（X）","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/xp/pianba.json"},
