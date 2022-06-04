@@ -23,6 +23,7 @@
 {"key": "csp_xpath_乐猪TV","name": "乐猪TV〔X〕","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://tangsan99999.github.io/sub/xpath/lezhutv.json"},
 {"key": "csp_xpath_Age动漫","name": "Age动漫〔X〕","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tangsan99999.github.io/sub/xpath/agefans.json"},
 {"name":"Biubiu"},
+    {"key":"csp_biubiu_影视工厂","name":"影视工厂（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/影视工厂.json"},
     {"key":"csp_Xbiubiu_ysgc","name":"影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/ext/ysgc.json"},
 {"key":"csp_Xbiubiu_555","name":"555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/ext/555.json"},
 {"key":"csp_biubiu_LIBVIO","name":"LIBVIO（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/LIBVIO.json"},
