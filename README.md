@@ -14,3 +14,10 @@
 ### 最新版下载地址
 
 https://pan.lanzoui.com/b0c3cb92f
+
+### Github RAW 加速服务
+https://www.7ed.net/#/raw-cdn
+
+https://raw.githubusercontents.com/名字/仓库/main/文件.txt
+
+https://raw.githubusercontents.com/liu673cn/mao/sub/main/cat.json
