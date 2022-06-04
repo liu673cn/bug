@@ -1,6 +1,6 @@
 {
 "wallpaper":"",
-"spider": "https://liu673cn.github.io/mao/jar/xb.txt",
+"spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/xb.txt",
   "sites": [
 {"name":"Xpath"},
 {"key":"csp_xpath_libv","name":"Libvio（X）","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liu673cn.github.io/mao/sub/xpath/libv.json"},
