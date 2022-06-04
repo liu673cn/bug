@@ -2,7 +2,7 @@
 
 
 {
-"spider" : "https://liu673cn.github.io/mao/jar/sprider0521.txt",
+"spider" : "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/sprider0521.txt",
   "sites":[
 {"name":"xpath"},
 {"key":"csp_xpath___在线之家","name":"在线之家〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/zxzj.json"},
