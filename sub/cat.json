@@ -209,7 +209,7 @@
 {"key":"csp_appYsv2_飓风影视","name": "飓风影视（M）","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://jf.35ys.cc/lehailb_api.php/v1.vod"},
 {"key":"csp_appysv2_大熊","name":"大熊（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dxys2233.com/mogai_api.php/v1.vod"},
 {"key":"csp_appYsv2_零刻影院","name": "零刻影院（M）","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ys.ling00.cn/api.php/v1.vod"},
-{"key":"csp_appYsv2_瑞丰影视","name": "瑞丰影视（M）","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"
+{"key":"csp_appYsv2_瑞丰影视","name": "瑞丰影视（M）","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
 {"key":"csp_appYsv2_美剧虫","name": "美剧虫（M）","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://meijuchong.com/api.php/v1.vod"},
 {"key":"csp_appysv2_小鸟动漫","name":"小鸟动漫（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_小白动漫","name":"小白动漫（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.62.60.222:13579/xiaobai_api.php/v1.vod"},
