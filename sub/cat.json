@@ -195,7 +195,6 @@
 {"key":"csp_appysv2_叮当TV","name":"叮当TV（M）","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.hyddys.top/api.php/iptv/vod/"},
 {"key":"csp_appysv2_爱西西TV","name":"爱西西TV（M）","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv2.aixixi.vip/api.php/iptv/vod/"},
 {"key":"csp_appys_大威电影","name":"大威电影（Z）","type":3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vip.davdy.com/ruifenglb_api.php/v1.vod"},
-
 //
 {"key":"csp_appysv2_天空TV","name":"天空TV（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
 {"key":"csp_appysv2_1080KK","name":"1080KK（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.250idc.com/mogai_api.php/v1.vod"},
@@ -242,7 +241,6 @@
 {"key":"csp_appys_U5影视","name":"U5影视（Z）","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://appx.uy07.com/api.php/v1.vod"},
 {"key":"csp_appys_MX影视","name":"MX影视（Z）","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
 {"key":"csp_appys_影视阁","name":"影视阁（M）","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://216.98.10.85/api.php/iptv/vod/"},
-
 //解析慢
 {"key":"csp_appysv2_影库","name":"影库（Z）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yingkudy.com/lvdou_api.php/v1.vod"},
 {"key": "csp_AppYs2_段友影视","name": "段友影视2（Z）","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://shangjihuoke.com/api.php/tv.vod"},
@@ -262,7 +260,6 @@
 {"key":"csp_appys_蜗牛动漫","name":"蜗牛动漫（Z）","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod"},
 {"key":"csp_appys_龙猫追剧","name":"龙猫追剧（Z）","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lb.ybnxcx.com/api.php/v1.vod"},
 {"key":"csp_appys_橘子影视","name":"橘子影视（Z）","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://jz.juzidy.vip/mogai_api.php/v1.vod"}
-
   ],
   "lives": [
     {
