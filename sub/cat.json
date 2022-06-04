@@ -1,6 +1,6 @@
 {
 //"spider": "https://liu673cn.github.io/mao/jar/sprider0601.txt",
-"spider": "https://melor.coding.net/p/x/d/m/git/raw/master/jar/sprider0601.txt",
+"spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/sprider0601.txt",
   "sites": [
 {"name":"爬虫"},
 {"key": "csp_Zxzj"       ,"name":"在线之家〔P〕","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},    
