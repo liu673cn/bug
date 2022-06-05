@@ -71,20 +71,20 @@ https://raw.githubusercontents.com/liu673cn/mao/main/sub/cat.json
   "zhuangtaiqian": "更新：</span>",  //状态前关键词
   "zhuangtaihou": "</p>",  //状态后关键词
   "daoyanqian": "导演：</span>",  //导演前关键词
-  "daoyanhou": "</p>",
+  "daoyanhou": "</p>",  //导演后
   "zhuyanqian": "主演：</span>",  //主演前关键词
-  "zhuyanhou": "</p>",
+  "zhuyanhou": "</p>",  //主演后
   "juqingqian": "简介：</span>",  //剧情前关键词
-  "juqinghou": "</span>",  //剧情后关键词
-  "bfyshifouercijiequ": "0",  //截取的播放列表数组是否需要二次截取，0不需要，1需要
-  "bfyjiequqian": "空",  //不需要二次截取就填空
-  "bfyjiequhou": "空",
+  "juqinghou": "</span>",  //剧情后
+  "bfyshifouercijiequ": "0",  //二次截取的播放列表数组，是否需要，0不需要，1需要
+  "bfyjiequqian": "空",  //二次截取前,不需要就填空
+  "bfyjiequhou": "空",  //二次截取后
   "bfyjiequshuzuqian": "<a",  //播放剧集数组前关键词
-  "bfyjiequshuzuhou": "/a>",  //播放剧集数组后关键词
+  "bfyjiequshuzuhou": "/a>",  //播放剧集数组后
   "bfbiaotiqian": ">",  //播放剧集标题前关键词
-  "bfbiaotihou": "<",  //状播放剧集标题后关键词
+  "bfbiaotihou": "<",  //状播放剧集标题后
   "bflianjieqian": "href=\"",  //播放剧集链接前关键词
-  "bflianjiehou": "\""  //播放剧集链接后关键词
+  "bflianjiehou": "\""  //播放剧集链接后
 }
 
 </code></pre>
