@@ -23,7 +23,4 @@ https://raw.githubusercontents.com/名字/仓库/main(分支)/子目录/txt.txt
 https://raw.githubusercontents.com/liu673cn/mao/main/sub/cat.json
 
 ## 截图
-
-主页 | 播放界面
----------|---------
-![home](art/home.jpg) | ![play](https://raw.githubusercontents.com/liu673cn/mao/main/xbb.txt)
+<input type="button" value="点我试试" onClick="window.open('[弹出页面.htm](https://raw.githubusercontents.com/liu673cn/mao/main/xbb.txt)','blank_','scrollbars=yes,resizable=yes,width=650,height=450')">
