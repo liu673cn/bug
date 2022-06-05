@@ -21,3 +21,7 @@ https://www.7ed.net/#/raw-cdn
 https://raw.githubusercontents.com/名字/仓库/main(分支)/子目录/txt.txt
 
 https://raw.githubusercontents.com/liu673cn/mao/main/sub/cat.json
+
+
+
+<pre><code class="language-猫影视更新后空壳解决方案">123123</code></pre>
