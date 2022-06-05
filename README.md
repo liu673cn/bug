@@ -71,9 +71,9 @@ https://raw.githubusercontents.com/liu673cn/mao/main/sub/cat.json
   "zhuangtaiqian": "更新：</span>",  //状态前关键词
   "zhuangtaihou": "</p>",  //状态后关键词
   "daoyanqian": "导演：</span>",  //导演前关键词
-  "daoyanhou": "</p>",  //导演后
+  "daoyanhou": "</、p>",  //导演后
   "zhuyanqian": "主演：</span>",  //主演前关键词
-  "zhuyanhou": "</p>",  //主演后
+  "zhuyanhou": "</、p>",  //主演后
   "juqingqian": "简介：</span>",  //剧情前关键词
   "juqinghou": "</span>",  //剧情后
   "bfyshifouercijiequ": "0",  //二次截取的播放列表数组，是否需要，0不需要，1需要
