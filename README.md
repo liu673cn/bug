@@ -26,4 +26,4 @@ https://raw.githubusercontents.com/liu673cn/mao/main/sub/cat.json
 
 主页 | 播放界面
 ---------|---------
-![home](https://raw.githubusercontents.com/liu673cn/tingshu/main/art/home.jpg) | ![play](https://raw.githubusercontents.com/liu673cn/mao/main/xbb.txt)
+![home](https://raw.githubusercontents.com/liu673cn/tingshu/main/art/home.jpg) | ![play](raw.githubusercontents.com/liu673cn/mao/main/xbb.txt)
