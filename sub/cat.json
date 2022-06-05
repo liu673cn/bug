@@ -101,7 +101,6 @@
 {"key":"csp_biubiu_天空资源","name":"天空资源（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/天空资源.json"},
 {"key":"csp_biubiu_饭团影院","name":"饭团影院（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/饭团影院.json"},
 //
-{"key":"csp_biubiu_思古影视1","name":"思古影视1（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/思古影视1.json"},
 {"key":"csp_biubiu_思古影视2","name":"思古影视2（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/思古影视2.json"},
 {"key":"csp_biubiu_影视之光","name":"影视之光（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/bb/影视之光.json"},
 {"key":"csp_biubiu_克拉TV","name":"克拉TV（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/bb/克拉TV.json"},
