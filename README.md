@@ -36,7 +36,7 @@ https://raw.githubusercontents.com/liu673cn/mao/main/sub/cat.json
   "jiequqian": "空",  //不需要二次截取就填空
   "jiequhou": "空",  //不需要二次截取就填空
   "jiequshuzuqian": "class=\"stui-vodlist__box",  //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuhou": "</span>",  //截取的列表数组的后关键词
+  "jiequshuzuhou": "<span>",  //截取的列表数组的后关键词</span>
   "tupianqian": "original=\"",  //列表中资源的图片前关键词
   "tupianhou": "\"",  //列表中资源的图片后关键词
   "biaotiqian": "title=\"",  //列表中资源的标题前关键词
@@ -69,13 +69,13 @@ https://raw.githubusercontents.com/liu673cn/mao/main/sub/cat.json
   "bfjiequshuzuqian": "class=\"stui-content__playlist",  //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "</ul>",  //播放截取的列表数组的后关键词
   "zhuangtaiqian": "更新：</span>",  //状态前关键词
-  "zhuangtaihou": "</p/>",  //状态后关键词</p>
+  "zhuangtaihou": "<p>",  //状态后关键词</p>
   "daoyanqian": "导演：</span>",  //导演前关键词
-  "daoyanhou": "</p/>",  //导演后</p>
+  "daoyanhou": "<p>",  //导演后</p>
   "zhuyanqian": "主演：</span>",  //主演前关键词
-  "zhuyanhou": "</p/p>",  //主演后</p>
+  "zhuyanhou": "<p>",  //主演后</p>
   "juqingqian": "简介：</span>",  //剧情前关键词
-  "juqinghou": "</span>",  //剧情后
+  "juqinghou": "<span>",  //剧情后</span>
   "bfyshifouercijiequ": "0",  //二次截取的播放列表数组，是否需要，0不需要，1需要
   "bfyjiequqian": "空",  //二次截取前,不需要就填空
   "bfyjiequhou": "空",  //二次截取后
