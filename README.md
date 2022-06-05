@@ -22,8 +22,3 @@ https://raw.githubusercontents.com/名字/仓库/main(分支)/子目录/txt.txt
 
 https://raw.githubusercontents.com/liu673cn/mao/main/sub/cat.json
 
-## 截图
-<pre><code>
-
-https://raw.githubusercontents.com/liu673cn/mao/main/xbb.txt
-</code></pre>
