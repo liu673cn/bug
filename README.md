@@ -24,5 +24,6 @@ https://raw.githubusercontents.com/liu673cn/mao/main/sub/cat.json
 
 ## 截图
 <pre><code>
-<input type="button" value="点我试试" onClick="window.open('https://raw.githubusercontents.com/liu673cn/mao/main/xbb.txt','blank_','scrollbars=yes,resizable=yes,width=650,height=450')">
+
+https://raw.githubusercontents.com/liu673cn/mao/main/xbb.txt
 </code></pre>
