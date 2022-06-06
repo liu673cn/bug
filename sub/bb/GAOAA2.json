@@ -7,7 +7,7 @@
   "houzhui": ".html",
   "shifouercijiequ": "1",
   "jiequqian": "class=\"row col5 clearfix",
-  "jiequhou": "<div class=\"wrap\">",
+  "jiequhou": "<div class=\"pagination\">",
   "jiequshuzuqian": "class=\"mod channel-list",
   "jiequshuzuhou": "</div>",
   "tupianqian": "original=\"",
