@@ -39,7 +39,7 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
   "jiequqian": "空", 
   "jiequhou": "空", 
   ```
-![b01](https://liu673cn.github.io/liu673cn/mao/sub/Xbb/b01.jpg) <br />
+![b01](https://liu673cn.github.io/mao/sub/Xbb/b01.jpg) <br />
 ------------------
 ```markdown
   "jiequshuzuqian": "class=\"stui-vodlist__box\"", //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
