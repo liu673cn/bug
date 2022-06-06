@@ -39,13 +39,13 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
   "jiequqian": "空", 
   "jiequhou": "空", 
   ```
-![b01](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/b01.jpg) <br />
+![b01](https://liu673cn.github.io/liu673cn/mao/sub/Xbb/b01.jpg) <br />
 ------------------
 ```markdown
   "jiequshuzuqian": "class=\"stui-vodlist__box\"", //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuhou": "</span>", //------截取的列表数组的后关键词
 ```
-![b02.1](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/b02.1.jpg)<br />
+![b02.1](https://liu673cn.github.io/mao/sub/Xbb/b02.1.jpg)<br />
 ```markdown
   "tupianqian": "data-original=\"", //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义 
   "tupianhou": "\"", //------列表中资源的图片后关键词
@@ -54,7 +54,7 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
   "lianjieqian": "href=\"",
   "lianjiehou": "\"", 
 ```
-![b02.2](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/b02.2.jpg)<br />
+![b02.2](https://liu673cn.github.io/mao/sub/Xbb/b02.2.jpg)<br />
 ------------------
 ```markdown
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=", //------搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
@@ -79,7 +79,7 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
   "bfjiequqian": "空", 
   "bfjiequhou": "空", 
 ```
-![b03](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/b03.jpg) <br />
+![b03](https://liu673cn.github.io/mao/sub/Xbb/b03.jpg) <br />
 ------------------
 ```markdown
   "bfjiequshuzuqian": "class=\"stui-content__playlist", //------播放截取的列表数组的前关键词 
@@ -96,7 +96,7 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
   "bfyjiequqian": "空", 
   "bfyjiequhou": "空", 
 ```
-![b04](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/b04.jpg) <br /> 
+![b04](https://liu673cn.github.io/mao/sub/Xbb/b04.jpg) <br /> 
 ------------------
 ```markdown
   "bfyjiequshuzuqian": "<a",//------下面的是播放链接关键词<a href="链接">第一集</a> 
