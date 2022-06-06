@@ -12,7 +12,7 @@
   "jiequqian": "空",
   "jiequhou": "空",
 //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuqian": "class=\"myui-vodlist\"",   
+  "jiequshuzuqian": "class=\"myui-vodlist__box\"",   
 //------ //截取的列表数组的后关键词
   "jiequshuzuhou": "</span>",
 //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
