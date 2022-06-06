@@ -42,7 +42,7 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
 ![b01](https://liu673cn.github.io/mao/sub/Xbb/b01.jpg) <br />
 ------------------
 ```markdown
-  "jiequshuzuqian": "class=\"*stui-vodlist__box*\"", //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+`  "jiequshuzuqian": "class=\"stui-vodlist__box\"", `//------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuhou": "</span>", //------截取的列表数组的后关键词
 ```
 ![b02.1](https://liu673cn.github.io/mao/sub/Xbb/b02.1.jpg)<br />
