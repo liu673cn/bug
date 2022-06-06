@@ -26,7 +26,7 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
 
 ### XBiubiu 使用方法
 ```markdown
-{ <br />
+{ 
   "name": "韩剧在线", //------填网站名称 
   "tihuan": "cnzz.com",  
   "url": "https://www.52kpop1.com",  //------填网站链接 
@@ -36,60 +36,65 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
   "shifouercijiequ": "0", 
   "jiequqian": "空", 
   "jiequhou": "空", 
+  ```
 ![b01](https://raw.githubusercontents.com/liu673cn/mao/main/Xbb/b01.jpg) <br />
-------------------
+```markdown
   "jiequshuzuqian": "class=\"stui-vodlist__box\"", //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuhou": "</.span>", //------截取的列表数组的后关键词
+  "jiequshuzuhou": "</span>", //------截取的列表数组的后关键词
   "tupianqian": "data-original=\"", //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义 
   "tupianhou": "\"", //------列表中资源的图片后关键词
   "biaotiqian": "title=\"",
-  "biaotihou": "\"", <br />
+  "biaotihou": "\"", 
   "lianjieqian": "href=\"",
-  "lianjiehou": "\"", <br />
+  "lianjiehou": "\"", 
+```
 ![b02](https://raw.githubusercontents.com/liu673cn/mao/main/Xbb/b02.jpg)
+```markdown
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=", //------搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/play/", //------搜索页影片跳转详情页的中间标识链接部分
   "ssmoshi": "0",
-  "sousuoshifouercijiequ": "0", <br />
-  "jspic": "pic", <br />
-  "jsname": "name", <br />
-  "jsid": "id", <br />
-  "ssjiequqian": "空", <br />
-  "ssjiequhou": "空", <br />
-  "ssjiequshuzuqian": "空", <br />
-  "ssjiequshuzuhou": "空", <br />
-  "sstupianqian": "空", <br />
-  "sstupianhou": "空", <br />
-  "ssbiaotiqian": "空", <br />
-  "ssbiaotihou": "空", <br />
-  "sslianjieqian": "空", <br />
-  "sslianjiehou": "空", <br />
-  "bfshifouercijiequ": "0", <br />
-  "bfjiequqian": "空", <br />
-  "bfjiequhou": "空", <br />
-![b03](https://raw.githubusercontents.com/liu673cn/mao/main/Xbb/b04.jpg) <br />
-------------------
-  "bfjiequshuzuqian": "class=\"stui-content__playlist", //------播放截取的列表数组的前关键词 <br />
-  "bfjiequshuzuhou": "</ul>", //------播放截取的列表数组的后关键词 <br />
-  "zhuangtaiqian": "更新：</.span>", //------下面的是详情内容可以不动 <br />
-  "zhuangtaihou": "</.p>", <br />
-  "daoyanqian": "导演：</.span>", <br />
-  "daoyanhou": "</.p>", <br />
-  "zhuyanqian": "主演：</.span>", <br />
+  "sousuoshifouercijiequ": "0", 
+  "jspic": "pic", 
+  "jsname": "name", 
+  "jsid": "id", 
+  "ssjiequqian": "空", 
+  "ssjiequhou": "空", 
+  "ssjiequshuzuqian": "空", 
+  "ssjiequshuzuhou": "空", 
+  "sstupianqian": "空", 
+  "sstupianhou": "空", 
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空", 
+  "sslianjieqian": "空", 
+  "sslianjiehou": "空", 
+  "bfshifouercijiequ": "0", 
+  "bfjiequqian": "空", 
+  "bfjiequhou": "空", 
+```
+![b03](https://raw.githubusercontents.com/liu673cn/mao/main/Xbb/b04.jpg) 
+```markdown
+  "bfjiequshuzuqian": "class=\"stui-content__playlist", //------播放截取的列表数组的前关键词 
+  "bfjiequshuzuhou": "</ul>", //------播放截取的列表数组的后关键词
+  "zhuangtaiqian": "更新：</span>", //------下面的是详情内容可以不动 
+  "zhuangtaihou": "</p>", 
+  "daoyanqian": "导演：</span>", 
+  "daoyanhou": "</p>",
+  "zhuyanqian": "主演：</span>", 
   "zhuyanhou": "</p>", <br />
-  "juqingqian": "简介：</.span>", <br />
-  "juqinghou": "</.div>", <br />
-  "bfyshifouercijiequ": "0", <br />
-  "bfyjiequqian": "空", <br />
-  "bfyjiequhou": "空", <br />
-![b04](https://raw.githubusercontents.com/liu673cn/mao/main/Xbb/b04.jpg) <br /> <br />
------------------- 
-  "bfyjiequshuzuqian": "<a",//------下面的是播放链接关键词<a href="链接">第一集</a> <br />
-  "bfyjiequshuzuhou": "/a>", <br />
-  "bfbiaotiqian": ">", <br />
-  "bfbiaotihou": "<", <br />
-  "bflianjieqian": "href=\"", <br />
-  "bflianjiehou": "\"" <br />
+  "juqingqian": "简介：</span>",
+  "juqinghou": "</div>",
+  "bfyshifouercijiequ": "0", 
+  "bfyjiequqian": "空", 
+  "bfyjiequhou": "空", 
+```
+![b04](https://raw.githubusercontents.com/liu673cn/mao/main/Xbb/b04.jpg) <br /> 
+```markdown
+  "bfyjiequshuzuqian": "<a",//------下面的是播放链接关键词<a href="链接">第一集</a> 
+  "bfyjiequshuzuhou": "/a>", 
+  "bfbiaotiqian": ">", 
+  "bfbiaotihou": "<", 
+  "bflianjieqian": "href=\"",
+  "bflianjiehou": "\"" 
 } 
-------------------
+```
