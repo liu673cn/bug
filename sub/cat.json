@@ -9,6 +9,8 @@
 {"key":"csp_biubiu_奇优影院ns","name":"奇优影院(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/奇优影院(ns).json"},  
 {"key":"csp_biubiu_黑狐影视ns","name":"黑狐影视(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/黑狐影视(ns).json"},
 {"key":"csp_biubiu_韩剧佬","name":"韩剧佬（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/韩剧佬.json"},  
+{"key":"csp_biubiu_韩剧在线","name":"韩剧在线（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/韩剧在线.json"},  
+
     {"name":"爬虫"},
 {"key": "csp_Zxzj"       ,"name":"在线之家〔P〕","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},    
 {"key": "csp_LiteApple"  ,"name":"苹果影视〔P〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
