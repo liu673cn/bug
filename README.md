@@ -44,6 +44,9 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
 ```markdown
   "jiequshuzuqian": "class=\"stui-vodlist__box\"", //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuhou": "</span>", //------截取的列表数组的后关键词
+```
+![b02.1](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/b02.1.jpg)<br />
+```markdown
   "tupianqian": "data-original=\"", //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义 
   "tupianhou": "\"", //------列表中资源的图片后关键词
   "biaotiqian": "title=\"",
@@ -51,7 +54,6 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
   "lianjieqian": "href=\"",
   "lianjiehou": "\"", 
 ```
-![b02.1](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/b02.1.jpg)<br />
 ![b02.2](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/b02.2.jpg)<br />
 ------------------
 ```markdown
@@ -77,7 +79,7 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
   "bfjiequqian": "空", 
   "bfjiequhou": "空", 
 ```
-![b03](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/b03.jpg) 
+![b03](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/b03.jpg) <br />
 ------------------
 ```markdown
   "bfjiequshuzuqian": "class=\"stui-content__playlist", //------播放截取的列表数组的前关键词 
