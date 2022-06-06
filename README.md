@@ -25,6 +25,7 @@ https://raw.githubusercontents.com/liu673cn/mao/main/sub/cat.json
 https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
 
 ------------------
+
 ### XBiubiu 使用方法
 ```markdown
 { 
@@ -50,7 +51,8 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
   "lianjieqian": "href=\"",
   "lianjiehou": "\"", 
 ```
-![b02](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/b02.1.jpg)
+![b02.1](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/b02.1.jpg)<br />
+![b02.2](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/b02.2.jpg)<br />
 ------------------
 ```markdown
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=", //------搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
