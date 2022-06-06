@@ -5,9 +5,9 @@
   "shouye": "1",
     "fenlei": "#自拍$//video/zipai/index#无码$//movie/wuma/index",
   "houzhui": ".html",
-  "shifouercijiequ": "1",
-  "jiequqian": "class=\"row col5 clearfix\"",
-  "jiequhou": "<div class=\"pagination\">",
+  "shifouercijiequ": "0", 
+  "jiequqian": "空", 
+  "jiequhou": "空", 
   //
   "jiequshuzuqian": "class=\"preview-item\"",
   "jiequshuzuhou": "</div>",
