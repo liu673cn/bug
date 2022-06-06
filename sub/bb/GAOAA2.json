@@ -8,7 +8,8 @@
   "shifouercijiequ": "1",
   "jiequqian": "class=\"row col5 clearfix\"",
   "jiequhou": "<div class=\"pagination\">",
-  "jiequshuzuqian": "class=\"mod channel-list\"",
+  //
+  "jiequshuzuqian": "class=\"preview-item\"",
   "jiequshuzuhou": "</div>",
   "tupianqian": "original=\"",
   "tupianhou": "\"",
