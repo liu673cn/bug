@@ -27,30 +27,30 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
 ### XBiubiu 使用方法
 ```markdown
 { <br />
-  "name": "韩剧在线", //------填网站名称 <br />
-  "tihuan": "cnzz.com",  <br />
-  "url": "https://www.52kpop1.com",  //------填网站链接 <br />
-  "shouye": "4", <br />
-  "fenlei": "电影$/vodshow/1--------#韩剧$/vodshow/2--------#韩综$/vodshow/3--------#最新推荐$/vodshow/4--------", //------网站列表的分类 <br />
-  "houzhui": "---.html", //------网站翻页链接的后缀 <br />
-  "shifouercijiequ": "0", <br />
-  "jiequqian": "空", <br />
-  "jiequhou": "空", <br />
+  "name": "韩剧在线", //------填网站名称 
+  "tihuan": "cnzz.com",  
+  "url": "https://www.52kpop1.com",  //------填网站链接 
+  "shouye": "4", 
+  "fenlei": "电影$/vodshow/1--------#韩剧$/vodshow/2--------#韩综$/vodshow/3--------#最新推荐$/vodshow/4--------", //------网站列表的分类 
+  "houzhui": "---.html", //------网站翻页链接的后缀 
+  "shifouercijiequ": "0", 
+  "jiequqian": "空", 
+  "jiequhou": "空", 
 ![b01](https://raw.githubusercontents.com/liu673cn/mao/main/Xbb/b01.jpg) <br />
 ------------------
-  "jiequshuzuqian": "class=\"stui-vodlist__box\"", //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义 <br />
-  "jiequshuzuhou": "</.span>", //------截取的列表数组的后关键词 <br />
-  "tupianqian": "data-original=\"", //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义 <br />
-  "tupianhou": "\"", //------列表中资源的图片后关键词 <br />
-  "biaotiqian": "title=\"", <br />
+  "jiequshuzuqian": "class=\"stui-vodlist__box\"", //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuhou": "</.span>", //------截取的列表数组的后关键词
+  "tupianqian": "data-original=\"", //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义 
+  "tupianhou": "\"", //------列表中资源的图片后关键词
+  "biaotiqian": "title=\"",
   "biaotihou": "\"", <br />
-  "lianjieqian": "href=\"", <br />
+  "lianjieqian": "href=\"",
   "lianjiehou": "\"", <br />
-![b02](https://raw.githubusercontents.com/liu673cn/mao/main/Xbb/b02.jpg) <br />
-  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=", //------搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。 <br />
-  "sousuohou": "&limit=500", <br />
-  "sousuohouzhui": "/play/", //------搜索页影片跳转详情页的中间标识链接部分 <br />
-  "ssmoshi": "0", <br />
+![b02](https://raw.githubusercontents.com/liu673cn/mao/main/Xbb/b02.jpg)
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=", //------搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/play/", //------搜索页影片跳转详情页的中间标识链接部分
+  "ssmoshi": "0",
   "sousuoshifouercijiequ": "0", <br />
   "jspic": "pic", <br />
   "jsname": "name", <br />
