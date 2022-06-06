@@ -10,7 +10,7 @@
   "jiequhou": "空",
 "jiequshuzuqian": "class=\"video-pic loading\"",
   "jiequshuzuhou": "player",
-  "tupianqian": "original=\"",
+  "tupianqian": "data-prefix src=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
   "biaotihou": "\"",
