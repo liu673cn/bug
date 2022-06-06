@@ -13,7 +13,7 @@
   "jiequhou": "<div class=\"wrap\">",
   //
   "jiequshuzuqian": "class=\"preview-item\"",
-  "jiequshuzuhou": "class=\"preview-div"",
+  "jiequshuzuhou": "preview-div",
   "tupianqian": "original=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
