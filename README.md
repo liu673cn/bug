@@ -31,7 +31,7 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
   "tihuan": "cnzz.com",  
   "url": "https://www.52kpop1.com",  //------填网站链接 
   "shouye": "4", 
-  "fenlei": "电影$/vodshow/1--------#韩剧$/vodshow/2--------#韩综$/vodshow/3--------#最新推荐$/vodshow/4--------", //------网站列表的分类 
+  "fenlei": "电影$/vodshow/1--------#韩剧$/vodshow/2--------#韩综$/vodshow/3--------", //------网站列表的分类 
   "houzhui": "---.html", //------网站翻页链接的后缀 
   "shifouercijiequ": "0", 
   "jiequqian": "空", 
