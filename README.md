@@ -24,6 +24,7 @@ https://raw.githubusercontents.com/liu673cn/mao/main/sub/cat.json
 
 https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
 
+`
 ------------------
 
 ### XBiubiu 使用方法
@@ -42,12 +43,12 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
 ![b01](https://liu673cn.github.io/mao/sub/Xbb/b01.jpg) <br />
 ------------------
 ```markdown
-`  "jiequshuzuqian": "class=\"stui-vodlist__box\"", `//------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuqian": "class=\" `stui-vodlist__box` \"", //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuhou": "</span>", //------截取的列表数组的后关键词
 ```
 ![b02.1](https://liu673cn.github.io/mao/sub/Xbb/b02.1.jpg)<br />
 ```markdown
-  "tupianqian": "data-original=\"", //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义 
+  "tupianqian": " `data-original=` \"", //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义 
   "tupianhou": "\"", //------列表中资源的图片后关键词
   "biaotiqian": "title=\"",
   "biaotihou": "\"", 
@@ -59,7 +60,7 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
 ```markdown
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=", //------搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
   "sousuohou": "&limit=500",
-  "sousuohouzhui": "/play/", //------搜索页影片跳转详情页的中间标识链接部分
+  "sousuohouzhui": " `/play/ `", //------搜索页影片跳转详情页的中间标识链接部分
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0", 
   "jspic": "pic", 
@@ -82,7 +83,7 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
 ![b03](https://liu673cn.github.io/mao/sub/Xbb/b03.jpg) <br />
 ------------------
 ```markdown
-  "bfjiequshuzuqian": "class=\"stui-content__playlist", //------播放截取的列表数组的前关键词 
+  "bfjiequshuzuqian": "class=\" `stui-content__playlist` ", //------播放截取的列表数组的前关键词 
   "bfjiequshuzuhou": "</ul>", //------播放截取的列表数组的后关键词
   "zhuangtaiqian": "更新：</span>", //------下面的是详情内容可以不动 
   "zhuangtaihou": "</p>", 
