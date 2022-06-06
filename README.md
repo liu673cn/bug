@@ -47,6 +47,7 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
   "jiequshuzuhou": "</span>", //------截取的列表数组的后关键词
 ```
 ![b02.1](https://liu673cn.github.io/mao/sub/Xbb/b02.1.jpg)<br />
+------------------
 ```资源图片
   "tupianqian": "data-original=\"", //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义 
   "tupianhou": "\"", //------列表中资源的图片后关键词
