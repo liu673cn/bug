@@ -27,7 +27,7 @@ https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
 `
 ------------------
 
-### XBiubiu 使用方法
+### XBiubiu `使用方法`
 ```markdown
 { 
   "name": "韩剧在线", //------填网站名称 
