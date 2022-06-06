@@ -24,8 +24,8 @@ https://raw.githubusercontents.com/liu673cn/mao/main/sub/cat.json
 
 https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
 
-## XBiubiu 使用方法
-------------------
+### XBiubiu 使用方法
+```markdown
 { <br />
   "name": "韩剧在线", //------填网站名称 <br />
   "tihuan": "cnzz.com",  <br />
