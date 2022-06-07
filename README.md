@@ -24,7 +24,6 @@ https://raw.githubusercontents.com/liu673cn/mao/main/sub/cat.json
 
 https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/cat.json
 
-`
 ------------------
 
 ### XBiubiu `使用方法`
