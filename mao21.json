@@ -2,7 +2,6 @@
 
 
 {
-//"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/sprider0521.txt",
 "spider" : "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/sprider0521.txt",
   "sites":[
 {"name":"xpath"},
