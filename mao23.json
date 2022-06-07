@@ -278,13 +278,7 @@
 {"key":"csp_appys_大威电影","name":"大威电影（Z）","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vip.davdy.com/ruifenglb_api.php/v1.vod"},
 {"key":"csp_appys_U5影视","name":"U5影视（Z）","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://appx.uy07.com/api.php/v1.vod"},
 {"key":"csp_appys_MX影视","name":"MX影视（Z）","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
-{"key":"csp_appys_影视阁","name":"影视阁（M）","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://216.98.10.85/api.php/iptv/vod/"},
-{"key":"csp_biubiu_GAOAA","name":"GAOAA（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/bb/GAOAA.json"},
-{"key":"csp_biubiu_GAOAA2","name":"GAOAA2（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/bb/GAOAA2.json"},
-    //
-{"key":"环","name":"*环","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},
-{"key":"狼","name":"*狼","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"富","name":"*富","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":0,"quickSearch":0}
+{"key":"csp_appys_影视阁","name":"影视阁（M）","type":3,"api": "csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://216.98.10.85/api.php/iptv/vod/"}
 //
   ],
   "lives": [
