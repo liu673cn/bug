@@ -1,5 +1,6 @@
+//http://fj365.ml/m.json
 {
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
+"wallpaper":"",
 "spider": "http://fj365.ml/bb/xb.txt?raw=true",
 "sites":[
 //{"key":"csp_xpath_saohuotv","name":"骚火电影(XP)022/5/29更新接口","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/6/saohuotv2.json"},
