@@ -1,5 +1,5 @@
 {
-"spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/custom_spider_t3.jar",
+"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/sprider0601.txt",
   "sites": [
 {"name":"爬虫"},
 {"key": "360","name": "360","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
