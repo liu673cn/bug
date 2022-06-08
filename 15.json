@@ -1,7 +1,6 @@
-{"sites": [
-   
+{
+"sites": [  
 //爬虫线路
-
 {"key": "teyond__zh__首页推荐","name": "首页推荐〔P〕","type": 3,"api": "csp_LiteApple"     ,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "teyond__zh__焦炭影视","name": "焦炭影视〔P〕","type": 3,"api": "csp_Cokemv"        ,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "teyond__zh__七七影院","name": "七七影院〔P〕","type": 3,"api": "csp_Kunyu77"       ,"searchable": 1,"quickSearch": 1,"filterable": 1},
