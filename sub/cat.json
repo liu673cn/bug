@@ -1,7 +1,6 @@
 {
 "wallpaper":"",
-//"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/sprider0601.txt",
-"spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/sprider0601.txt",
+"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/sprider0601.txt",
   "sites": [
     {"name":"NS"},
 {"key":"csp_biubiu_真不卡zhenbuka3","name":"真不卡1(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/真不卡zhenbuka3(ns).json"},
