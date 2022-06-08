@@ -2,8 +2,8 @@
 
 
 {
-"spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/sprider0601.txt",
-"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/sprider0601.txt",
+"spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/custom_spider_jk.jar",
+//"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/custom_spider_jk.jar",
   "sites":[
 {"name":"xpath"},
 {"key":"csp_xpath___在线之家","name":"在线之家〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/zxzj.json"},
