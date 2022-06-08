@@ -15,6 +15,7 @@
 {"key":"csp_Buka","name":"不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xbiubiu_libvio","name":"LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/ext/libvio.json"},
 {"key":"csp_Xbiubiu_ysgc","name":"影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/ext/ysgc.json"},
 {"key":"csp_Xbiubiu_555","name":"555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/ext/555.json"},
 {"key":"csp_Fantuan","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
