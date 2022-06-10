@@ -24,7 +24,7 @@ https://raw.fastgit.org/
 
 https://raw-gh.gcdn.mirr.one/
 
-https://cdn.jsdelivr.net/gh/liu673cn/mao@main/
+https://cdn.jsdelivr.net/gh/liu673cn/mao@main/   子目录/txt.txt
 
 ------------------
 
