@@ -20,11 +20,9 @@ https://www.7ed.net/#/raw-cdn
 
 https://raw.githubusercontents.com/名字/仓库/main(分支)/子目录/txt.txt
 
-https://cdn.jsdelivr.net/gh/liu673cn/mao@main/
-
-https://raw.githubusercontents.com/
-
 https://raw-gh.gcdn.mirr.one/
+
+https://cdn.jsdelivr.net/gh/liu673cn/mao@main/
 
 ------------------
 
