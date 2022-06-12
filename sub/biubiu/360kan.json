@@ -4,14 +4,14 @@
   "url": "https://www.360kan.com", 
   "shouye": "4", 
   "fenlei": "电影$/dianying/list#电视剧$/dianshi/list#综艺$/zongyi/list#动漫$/dongman/list",
-  "houzhui": "/", 
+  "houzhui": "?pageno=1", 
   "shifouercijiequ": "0", 
   "jiequqian": "空", 
   "jiequhou": "空", 
-  "jiequshuzuqian": "class=\"feature-item\"", //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuhou": "</span>", //------截取的列表数组的后关键词
-  "tupianqian": "src=\"", //------列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义 
-  "tupianhou": "\"", //------列表中资源的图片后关键词
+  "jiequshuzuqian": "class=\"feature-item\"",
+  "jiequshuzuhou": "</span>",
+  "tupianqian": "src=\"", 
+  "tupianhou": "\"", //
   "biaotiqian": "title=\"",
   "biaotihou": "\"", 
   "lianjieqian": "href=\"",
