@@ -1,0 +1,106 @@
+{
+	"ua": "",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://www.kelatv.com/",
+    // 分类节点
+	"cateNode": "",
+    // 分类名
+	"cateName": "",
+    // 分类id
+	"cateId": "",
+    // 分类id二次处理正则
+	"cateIdR": "",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {"电影": "dianying","国产剧": "guocanju", "香港剧": "xianggangju","欧美剧": "oumeiju","日本剧": "ribenju","韩国剧": "hanguoju","TV动漫": "tvban", "剧场动漫": "juchangban", "ova动漫": "tebieban"},
+    // 首页推荐视频的节点
+	"homeVodNode": "//li[contains(@class,'layui-col-md2')]/a[@class='video-pic']",
+    // 首页推荐视频的名称
+	"homeVodName": "/img/@alt",
+    // 二次处理正则
+    "homeVodNameR": "",
+    // 首页推荐视频的id
+	"homeVodId": "/@href",
+    // 二次处理正则
+	"homeVodIdR": "/detail/(\\w+).html",
+    // 首页推荐视频的图片
+	"homeVodImg": "/img/@data-original",
+    // 二次处理正则
+    "homeVodImgR": "",
+    // 首页推荐视频的简介
+	"homeVodMark": "/span[@class='play-continu']/text()",
+    // 二次处理正则
+    "homeVodMarkR": "",
+    // 分类页地址 {cateId} 分类id {catePg} 当前页  
+	"cateUrl": "https://www.kelatv.com/list/{cateId}______{catePg}.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//div[@class='list-pl']/ul/li/a",
+	"cateVodName": "/img/@alt",
+	"cateVodId": "/@href",
+	"cateVodIdR": "/detail/(\\w+).html",
+	"cateVodImg": "/img/@data-original",
+	"cateVodMark": "/span[@class='play-continu']/text()",
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://www.kelatv.com/detail/{vid}.html",
+  
+    // 详情节点
+	"dtNode": "//body",
+    // 视频名
+	"dtName": "//div[@class='txt-title']/h1/text()",
+	"dtNameR": "",
+    // 视频图片
+	"dtImg": "//div[@class='detail-con-pic']/img/@src",
+	"dtImgR": "\\S+(http\\S+)",
+    // 视频分类
+	"dtCate": "",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "//div[@class='txt-list']//span[contains(text(),'年代')]/text()",
+	"dtYearR": "\\年份：(\\S+)",
+    // 视频地区
+	"dtArea": "//div[@class='txt-list']//span[contains(text(),'地区')]/text()",
+	"dtAreaR": "\\地区：(\\S+)",
+    // 视频状态
+	"dtMark": "",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "//div[@class='txt-list']/p[contains(text(),'主演')]",
+	"dtActorR": "\\主演：(\\S+)",
+    // 导演
+	"dtDirector": "//div[@class='txt-list']/p[contains(text(),'导演')]/text()",
+	"dtDirectorR": "\\导演：(\\S+)",
+    // 视频简介
+	"dtDesc": "//div[@class='bt-content']/p[1]/text()",
+	"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "//ul[@class='layui-tab-title']/li",
+    // 播放源名称
+	"dtFromName": "/text()",
+    // 二次处理正则
+	"dtFromNameR": "",
+    
+    // 播放列表节点
+	"dtUrlNode": "//div[@class='layui-tab-content']/ul",
+    // 播放地址节点
+	"dtUrlSubNode": "/li/a",
+    // 播放地址
+	"dtUrlId": "/@href",
+    // 二次处理正则
+	"dtUrlIdR": "/play/(\\S+).html",
+    // 剧集名称
+	"dtUrlName": "/text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "https://www.kelatv.com/play/{playUrl}.html",
+    // 解析webview的user-agent
+	"playUa": "",
+    // 搜索地址
+	"searchUrl": "https://www.kelatv.com/index.php?s=home-search-index-wd-{wd}",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+  "scVodNode": "//div[@class='seach-video']/div/a[contains(@class,'video-pic')]",
+  "scVodName": "/@title",
+  "scVodId": "/@href",
+  "scVodIdR": "/detail/(\\w+).html",
+  "scVodImg": "/@data-original",
+  "scVodMark": ""
+}      

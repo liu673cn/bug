@@ -1,0 +1,110 @@
+{
+	"ua": "",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://www.kyikan.cc/",
+    // 分类节点
+	"cateNode": "//ul[@class='top-nav']/li/a[contains(@href, 'vodtypehtml')]",
+    // 分类名
+	"cateName": "/text()",
+    // 分类id
+	"cateId": "/@href",
+    // 分类id二次处理正则
+	"cateIdR": "/vodtypehtml/(\\w+)/",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {
+        "综艺": "daluzongyi","国产剧": "guochanju", "港台剧": "gangtaiju","欧美剧": "oumeiju","日韩剧": "rihanju", "泰剧": "taiguoju","海外剧": "haiwaiju",  
+        "动作片": "dongzuopian", "喜剧片": "xijupian","爱情片": "aiqingpian", "科幻片": "kehuanpian","恐怖片": "kongbupian", 
+        "剧情片": "juqingpian","纪录片": "jlup", "战争片": "zhanzhengpian","微电影": "weidianying", "惊悚片": "jingsong","悬疑片": "xuanyi",
+        "TV动漫": "tvban", "电影动漫": "dyban","剧场动漫": "juchang","国语动漫": "jingdianguoyu"
+                  },
+    // 首页推荐视频的节点
+	"homeVodNode": "//div[@class='index-tj-l']/ul/li/a[@class='link-hover']",
+    // 首页推荐视频的名称
+	"homeVodName": "/@title",
+    // 二次处理正则
+    "homeVodNameR": "",
+    // 首页推荐视频的id
+	"homeVodId": "/@href",
+    // 二次处理正则
+	"homeVodIdR": "/vodhtml/(\\w+)/",
+    // 首页推荐视频的图片
+	"homeVodImg": "/img/@data-original",
+    // 二次处理正则
+    "homeVodImgR": "",
+    // 首页推荐视频的简介
+	"homeVodMark": "/p[@class='other']/i/text()",
+    // 二次处理正则
+    "homeVodMarkR": "",
+    // 分类页地址 {cateId} 分类id {catePg} 当前页  
+	"cateUrl": "https://www.kyikan.cc/vodtypehtml/{cateId}/",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//div[contains(@class,'index-area')]/ul/li/a[@class='link-hover']",
+	"cateVodName": "/@title",
+	"cateVodId": "/@href",
+	"cateVodIdR": "/vodhtml/(\\w+)/",
+	"cateVodImg": "/img/@data-original",
+	"cateVodMark": "/p[@class='other']/i/text()",
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://www.kyikan.cc/vodhtml/{vid}/",
+  
+    // 详情节点
+	"dtNode": "//div[@class='main']",
+    // 视频名
+	"dtName": "//dt[@class='name']/text()",
+	"dtNameR": "",
+    // 视频图片
+	"dtImg": "//div[@class='ct-l']/img[@class='lazy']/@data-original",
+	"dtImgR": "",
+    // 视频分类
+	"dtCate": "//span[contains(text(),'类型')]/following-sibling::*/text()",
+	"dtCateR": "",
+    // 视频年份
+	"dtYear": "//span[contains(text(),'年份')]/following-sibling::*/text()",
+	"dtYearR": "",
+    // 视频地区
+	"dtArea": "//span[contains(text(),'地区')]/following-sibling::*/text()",
+	"dtAreaR": "",
+    // 视频状态
+	"dtMark": "",
+	"dtMarkR": "",
+    // 主演
+	"dtActor": "//span[contains(text(),'主演')]/following-sibling::*/text()",
+	"dtActorR": "",
+    // 导演
+	"dtDirector": "//span[contains(text(),'导演')]/following-sibling::*/text()",
+	"dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "//span[@class='js']/text()",
+	"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "//li[@id='tab81']",
+    // 播放源名称
+	"dtFromName": "/text()",
+    // 二次处理正则
+	"dtFromNameR": "",
+    
+    // 播放列表节点
+	"dtUrlNode": "//div[contains(@class,'videourl')]/ul",
+    // 播放地址节点
+	"dtUrlSubNode": "/li/a",
+    // 播放地址
+	"dtUrlId": "/@href",
+    // 二次处理正则
+	"dtUrlIdR": "/(\\S+)",
+    // 剧集名称
+	"dtUrlName": "/text()",
+    // 二次处理正则
+	"dtUrlNameR": "",
+    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "https://www.kyikan.cc/{playUrl}",
+    // 解析webview的user-agent
+	"playUa": "",
+    // 搜索地址
+    "searchUrl": "https://www.kyikan.cc/index.php?m=vod-search&wd={wd}",
+    "scVodNode": "//div[contains(@class,'index-area')]/ul/li/a[@class='link-hover']",
+    "scVodName": "/@title",
+    "scVodId": "/@href",
+    "scVodIdR": "/vodhtml/(\\w+)/",
+    "scVodImg": "/img/@data-original",
+    "scVodMark": "/p[@class='other']/i/text()"
+}      

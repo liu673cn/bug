@@ -1,0 +1,322 @@
+{
+  "author":"Tangsan99999",
+  "ua": "",
+  "homeUrl": "http://hancheng.tv/",
+  "dcVipFlag": "true",
+  "pCfgJs": "http://hancheng.tv/static/js/playerconfig.js",
+  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
+  "cateNode": "//div[contains(@class,'xiaoyinqing')]/a[contains(@href, 'type') and not(contains(@href,'26') or contains(@href,'27'))]",
+  "cateName": "/text()",
+  "cateId": "/@href",
+  "cateIdR": "/index.php/vod/type/id/(\\w+).html",
+  "cateManual": {},
+  "homeVodNode": "//div[contains(@class,'public')]/div/div[contains(@class,'pack-ykpack')]",
+  "homeVodName": "//div[contains(@class,'pack-title')]/a/text()",
+  "homeVodId": "//div[contains(@class,'pack-title')]/a/@href",
+  "homeVodIdR": "/index.php/vod/detail/id/(\\w+).html",
+  "homeVodImg": "//div[@class='ec-jabj eclazy']/@data-original",
+  "homeVodImgR": "\\S+(http\\S+)",
+  "homeVodMark": "//span[@class='pack-prb']/span/text()",
+  "cateUrl": "http://hancheng.tv/index.php/vod/show/id/{cateId}/area/{area}/page/{catePg}/year/{year}/by/{by}.html",
+  "cateVodNode": "//div[contains(@class,'pack-ykpack')]",
+  "cateVodName": "//a[contains(@class,'channelname')]/text()",
+  "cateVodId": "//a[contains(@class,'channelname')]/@href",
+  "cateVodIdR": "/index.php/vod/detail/id/(\\w+).html",
+  "cateVodImg": "//div[@class='ec-jabj eclazy']/@data-original",
+  "cateVodImgR": "\\S+(http\\S+)",
+  "cateVodMark": "//span[@class='pack-prb']/span/text()",
+  "dtUrl": "http://hancheng.tv/index.php/vod/detail/id/{vid}.html",
+  "dtNode": "//body",
+  "dtName": "//div[contains(@class,'s-top-info')]/h1/text()",
+  "dtNameR": "",
+  "dtImg": "//div[contains(@class,'s-cover')]/a/img/@src",
+  "dtImgR": "\\S+(http\\S+)",
+  "dtCate": "//p[contains(text(), '类型')]/a/text()",
+  "dtCateR": "",
+  "dtYear": "//p[contains(text(), '年代')]/a/text()",
+  "dtYearR": "",
+  "dtArea": "//p[contains(text(), '地区')]/a/text()",
+  "dtAreaR": "",
+  "dtMark": "//p[contains(text(), '更新')]/text()",
+  "dtMarkR": "",
+  "dtActor": "//p[contains(text(), '演员')]/*/text()",
+  "dtActorR": "",
+  "dtDirector": "//p[contains(text(), '导演')]/*/text()",
+  "dtDirectorR": "",
+  "dtDesc": "//div[contains(@class,'desc_txt')]/span/text()",
+  "dtDescR": "",
+  "dtFromNode": "//div[contains(@class,'swiper-wrapper')]/a",
+  "dtFromName": "/@alt",
+  "dtFromNameR": "",
+  "dtUrlNode": "//div[@class='playlist_notfull']",
+  "dtUrlSubNode": "/ul/li/a",
+  "dtUrlId": "@href",
+  "dtUrlIdR": "/vod/play/id/(\\S+).html",
+  "dtUrlName": "/text()",
+  "dtUrlNameR": "",
+  "playUrl": "http://hancheng.tv/index.php/vod/play/id/{playUrl}.html",
+  "playUa": "",
+  "searchUrl": "http://hancheng.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "scVodNode": "json:list",
+  "scVodName": "name",
+  "scVodId": "id",
+  "scVodIdR": "",
+  "scVodImg": "pic",
+  "scVodMark": "",
+  "filter": {
+    "20": [
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "大陆","v": "大陆"},
+          {"n": "港台","v": "港台"},
+          {"n": "日韩","v": "日韩"},
+          {"n": "欧美","v": "欧美"},
+          {"n": "新马泰","v": "新马泰"},
+          {"n": "其它","v": "其它"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014-2011","v": "2014-2011"},
+          {"n": "2010-2000","v": "2010-2000"},
+          {"n": "90年代80年代更早","v": "90年代80年代更早"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "时间","v": "time"},
+          {"n": "人气","v": "hits"},
+          {"n": "评分","v": "score"}
+        ]
+      }
+    ],
+    "21": [
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "大陆","v": "大陆"},
+          {"n": "港台","v": "港台"},
+          {"n": "日韩","v": "日韩"},
+          {"n": "欧美","v": "欧美"},
+          {"n": "新马泰","v": "新马泰"},
+          {"n": "其它","v": "其它"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014-2011","v": "2014-2011"},
+          {"n": "2010-2000","v": "2010-2000"},
+          {"n": "90年代80年代更早","v": "90年代80年代更早"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "时间","v": "time"},
+          {"n": "人气","v": "hits"},
+          {"n": "评分","v": "score"}
+        ]
+      }
+    ],
+    "22": [
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "大陆","v": "大陆"},
+          {"n": "港台","v": "港台"},
+          {"n": "日韩","v": "日韩"},
+          {"n": "欧美","v": "欧美"},
+          {"n": "新马泰","v": "新马泰"},
+          {"n": "其它","v": "其它"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014-2011","v": "2014-2011"},
+          {"n": "2010-2000","v": "2010-2000"},
+          {"n": "90年代80年代更早","v": "90年代80年代更早"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "时间","v": "time"},
+          {"n": "人气","v": "hits"},
+          {"n": "评分","v": "score"}
+        ]
+      }
+    ],
+    "23": [
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "大陆","v": "大陆"},
+          {"n": "港台","v": "港台"},
+          {"n": "日韩","v": "日韩"},
+          {"n": "欧美","v": "欧美"},
+          {"n": "新马泰","v": "新马泰"},
+          {"n": "其它","v": "其它"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014-2011","v": "2014-2011"},
+          {"n": "2010-2000","v": "2010-2000"},
+          {"n": "90年代80年代更早","v": "90年代80年代更早"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "时间","v": "time"},
+          {"n": "人气","v": "hits"},
+          {"n": "评分","v": "score"}
+        ]
+      }
+    ],
+    "24": [
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "大陆","v": "大陆"},
+          {"n": "港台","v": "港台"},
+          {"n": "日韩","v": "日韩"},
+          {"n": "欧美","v": "欧美"},
+          {"n": "新马泰","v": "新马泰"},
+          {"n": "其它","v": "其它"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014-2011","v": "2014-2011"},
+          {"n": "2010-2000","v": "2010-2000"},
+          {"n": "90年代80年代更早","v": "90年代80年代更早"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "时间","v": "time"},
+          {"n": "人气","v": "hits"},
+          {"n": "评分","v": "score"}
+        ]
+      }
+    ],
+    "25": [
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "大陆","v": "大陆"},
+          {"n": "港台","v": "港台"},
+          {"n": "日韩","v": "日韩"},
+          {"n": "欧美","v": "欧美"},
+          {"n": "新马泰","v": "新马泰"},
+          {"n": "其它","v": "其它"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014-2011","v": "2014-2011"},
+          {"n": "2010-2000","v": "2010-2000"},
+          {"n": "90年代80年代更早","v": "90年代80年代更早"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "时间","v": "time"},
+          {"n": "人气","v": "hits"},
+          {"n": "评分","v": "score"}
+        ]
+      }
+    ]
+  }
+}
