@@ -17,6 +17,7 @@
 {"key": "csp_AliPanSou"  ,"name":"阿里喵搜〔搜〕","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "push_agent"     ,"name":"推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0 },
     {"name":"NS"},
+{"key":"csp_biubiu_360影院","name":"360影院〔B〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/360kan.json"},
 {"key":"csp_biubiu_真不卡zhenbuka3","name":"真不卡1(NS)〔B〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/真不卡zhenbuka3(ns).json"},
 {"key":"csp_biubiu_真不卡cerrd","name":"真不卡2(NS)〔B〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/真不卡cerrd(ns).json"},
 {"key":"csp_biubiu_奇优影院ns","name":"奇优影院(NS)〔B〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/奇优影院(ns).json"},  
