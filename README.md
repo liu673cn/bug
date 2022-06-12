@@ -1,15 +1,8 @@
-## 猫影视TV211正式版
+## 猫影视TV2.1.1 Beta5版
 
-本版依旧是做细节改善，图解新功能，优化用户体验。
+猫影视tv使用的人非常多，是采用空壳+接口的方式运行，可能是作者出于风险的考虑，最近屏蔽了一批又一批接口，基本上只要哪个接口使用的人多一点，那么很快就会被屏蔽，无法加载jar，也就无法使用。
 
-1、配置本地缓存：
-在设置页面-当前配置接口，多了一个配置缓存（上个版本就已经具备），戳一下可以调出菜单选项，开启后，以后用新版覆盖安装，可以保留原来的配置接口，也就是说用户的配置接口是支持缓存在本地的，如果关闭了，那就不会缓存到本地。
-
-2、内置壁纸更新：
-更丰富多样了，以前基本就几种，现在有好多种了。
-
-3、新增推送功能：
-手机“推送”电视观看方式（前提条件：必须是手机、电视同一局域网）
+猫影视近日又针对目前这种情况，推出了一个支持调用本地接口文件的版本，无需网络接口——猫影视TV_2.1.1_Beta5+本地接口
 
 ### 最新版下载地址
 
@@ -18,12 +11,12 @@ https://pan.lanzoui.com/b0c3cb92f
 ### Github RAW 加速服务
 https://www.7ed.net/#/raw-cdn
 
-https://raw.githubusercontents.com/   名字/仓库/main(分支)/子目录/txt.txt
+https://raw.githubusercontents.com/   用户/仓库/main(分支)/子目录/txt.txt
 
 https://raw.fastgit.org/
 
 https://raw-gh.gcdn.mirr.one/
 
-https://cdn.jsdelivr.net/gh/liu673cn/mao@main/   子目录/txt.txt
+https://cdn.jsdelivr.net/gh/ 用户/仓库@main/子目录/txt.txt
 
 ------------------
