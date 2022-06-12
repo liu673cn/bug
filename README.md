@@ -15,7 +15,7 @@ clan://localhost/根目录下文件夹/m.json
 >>>xpath/  
 >>>m.json  
 
-![b01](https://liu673cn.github.io/mao/sub/Xbb/mao01.jpg) <br />
+![mao01](https://liu673cn.github.io/mao/sub/Xbb/mao01.jpg) <br />
 ------------------
 
 打开猫影视—【设置】—【当前接口】添加
