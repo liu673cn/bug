@@ -7,12 +7,15 @@
 本地接口文件复制到电视本地空间内部存储目录下面（一定是根目录emulated/0下面）
 
 clan://localhost/根目录下文件夹/m.json
+
 >根目录emulated/0
->>catvod  
+>>catvod 
+>>>jar   
 >>>biubiu  
 >>>xpath  
 >>>m.json  
-
+![b01](https://liu673cn.github.io/mao/sub/Xbb/mao01.jpg) <br />
+------------------
 
 打开猫影视—【设置】—【当前接口】添加
 
