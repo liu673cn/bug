@@ -34,8 +34,9 @@
 {"key":"csp_xml___0003","name":"诺迅资源（采）"   ,"type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_xml___0004","name":"8090 资源（采）"  ,"type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","playUrl":"https://www.8090.la/8090/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_xml___0006","name":"M3U8资源（采）"   ,"type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml___058","name":"人人资源（采）"   ,"type":1,"api":"http://www.rrzyw.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml___061","name":"极速官采（采）"   ,"type":1,"api":"http://gc.zhuijuba.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___058","name":"人人资源（采）"   ,"type":1,"api":"https://www.rrzyw.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___0058","name":"人人资源1（采）"   ,"type":1,"api":"http://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___061","name":"追剧吧（采）"   ,"type":1,"api":"http://gc.zhuijuba.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 //
 {"key":"csp_xml___070","name":"小 猫 咪（采）"   ,"type":1,"api":"https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"csp_xml___073","name":"畅视影视（采）"   ,"type":1,"api":"http://app.reboju.net/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
