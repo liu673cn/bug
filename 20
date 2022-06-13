@@ -3,7 +3,7 @@
 "spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/sprider0601.txt",
   "sites": [
     {"name":"爬虫"},
-{"key":"csp_xml___001","name":"WaBc腾讯（采）"   ,"type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
+{"key":"csp_xml___001","name":"WaBc腾讯（采）"   ,"type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___002","name":"诺迅资源（采）"   ,"type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
 {"key": "csp_Buka"       ,"name":"真不卡〔P〕","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
 {"key": "csp_CZSPP"      ,"name":"厂长资源〔P〕","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
