@@ -1,6 +1,6 @@
 ## 猫影视TV2.1.1 Beta6版
 
-CatVodTV_v2.1.1.Beta6_2A.apk
+CatVodTV_v2.1.1.Beta6_2.apk
 
 猫影视tv使用的人非常多，是采用空壳+接口的方式运行，可能是作者出于风险的考虑，最近屏蔽了一批又一批接口，基本上只要哪个接口使用的人多一点，那么很快就会被屏蔽，无法加载jar，也就无法使用。
 
@@ -9,6 +9,8 @@ CatVodTV_v2.1.1.Beta6_2A.apk
 扫码页面也有变化
 
 ### 最好把接口下载下来，在本地使用
+
+https://raw.githubusercontents.com/liu673cn/mao/20
 
 本地接口文件复制到电视本地空间内部存储目录下面（一定是根目录emulated/0下面）
 
