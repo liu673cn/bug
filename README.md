@@ -12,6 +12,8 @@ CatVodTV_v2.1.1.Beta6_2.apk
 
 https://liu673cn.github.io/mao/20
 
+clan://localhost/Download/20
+
 本地接口文件复制到电视本地空间内部存储目录下面（一定是根目录emulated/0下面）
 
 clan://localhost/根目录下文件夹/m.json
