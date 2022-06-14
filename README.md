@@ -10,7 +10,7 @@ CatVodTV_v2.1.1.Beta6_2.apk
 
 ### 最好把接口下载下来，在本地使用
 
-https://raw.githubusercontents.com/liu673cn/mao/main/20
+https://liu673cn.github.io/mao/20
 
 本地接口文件复制到电视本地空间内部存储目录下面（一定是根目录emulated/0下面）
 
