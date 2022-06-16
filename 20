@@ -15,7 +15,7 @@
 {"key": "csp_Qicui"      ,"name":"🐞奇粹影视〔P〕","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key": "csp_GitCafe"    ,"name":"🐞阿里纸条〔云〕","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},  
 {"key": "csp_AliPanSou"  ,"name":"🐞阿里喵搜〔搜〕","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "push_agent"     ,"name":"推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0 },
+{"key": "push_agent"     ,"name":"🕸推送🕸","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0 },
     {"name":"NS"},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/虎牙.json"},
 {"key":"csp_xpath_huyam","name":"🐻虎牙M〔X〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/huya.json"},
