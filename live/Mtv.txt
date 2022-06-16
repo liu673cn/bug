@@ -573,7 +573,7 @@ Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 卡塔尔-AlKassSports4,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 蒙古-HHGZ,http://spacetv.in/stream/WUQP6BVK17/56.m3u8
 柬埔寨-SEATV,https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
-🇺🇸美国,#genre#
+美国,#genre#
 ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 CBS新闻,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
 CGTN(Opt-1),http://live.cgtn.com/500/prog_index.m3u8
@@ -607,7 +607,7 @@ moviesphere,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 BostonUniversity,http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 彭博财经台,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-🇨🇦加拿大,#genre#
+加拿大,#genre#
 TheShoppingChannel,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 CME财经一号,http://69.57.222.151:8082/45/stream.m3u8
 5AABTV,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
@@ -618,20 +618,20 @@ CA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 Inwonder,https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
 PrimeAsiaTV,http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-🇩🇪德国,#genre#
+德国,#genre#
 BadenTV,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 MDF.1,http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
 OffenerKanalMagdeburg,http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
 pop10,http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
 QVC,http://ios-stream.qvc.de/qvc.m3u8
-🇮🇹意大利,#genre#
+意大利,#genre#
 RadioCapitalTiVu,http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
 RadioItaliaTV,http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 SkyTG24,http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
 SuperTV,http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 TVRS,http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 VideoBrescia,http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
-🇷🇺俄罗斯,#genre#
+俄罗斯,#genre#
 Astrakhan24(Opt-2),http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 HDFashion,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 KrasnajaLinija,http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
@@ -664,7 +664,7 @@ TVBRICS(CN),http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 UniverTV,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
 TVPRO,http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 莫斯科电视,http://96.9.77.79:1935/live/SEATV/playlist.m3u8
-🇫🇷法国,#genre#
+法国,#genre#
 PersianaCinema,http://51.210.199.15/hls/stream.m3u8
 PersianaComedy,http://51.210.199.27/hls/stream.m3u8
 PersianaDocumentary,http://51.210.199.23/hls/stream.m3u8
@@ -683,7 +683,7 @@ KH-BayonTV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 KH-FreshNewsTV,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
 KH-PNN,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
 KH-TVK,http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8
-🇬🇧英国,#genre#
+英国,#genre#
 Afrobeats247,https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 AlarabyTV,https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 ComedyChannel,https://uksono1-samsunguk.amagi.tv/playlist.m3u8
@@ -4704,7 +4704,7 @@ Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 卡塔尔-AlKassSports4,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 蒙古-HHGZ,http://spacetv.in/stream/WUQP6BVK17/56.m3u8
 柬埔寨-SEATV,https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
-🇺🇸美国,#genre#
+美国,#genre#
 ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 CBS新闻,https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_700.m3u8
 CGTN(Opt-1),http://live.cgtn.com/500/prog_index.m3u8
@@ -4738,7 +4738,7 @@ moviesphere,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 WOW!TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 BostonUniversity,http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 彭博财经台,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-🇨🇦加拿大,#genre#
+加拿大,#genre#
 TheShoppingChannel,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 CME财经一号,http://69.57.222.151:8082/45/stream.m3u8
 5AABTV,http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
@@ -4749,20 +4749,20 @@ CA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 Inwonder,https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
 PrimeAsiaTV,http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-🇩🇪德国,#genre#
+德国,#genre#
 BadenTV,http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 MDF.1,http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
 OffenerKanalMagdeburg,http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
 pop10,http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
 QVC,http://ios-stream.qvc.de/qvc.m3u8
-🇮🇹意大利,#genre#
+意大利,#genre#
 RadioCapitalTiVu,http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
 RadioItaliaTV,http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 SkyTG24,http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
 SuperTV,http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 TVRS,http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 VideoBrescia,http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
-🇷🇺俄罗斯,#genre#
+俄罗斯,#genre#
 Astrakhan24(Opt-2),http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 HDFashion,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 KrasnajaLinija,http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
@@ -4795,7 +4795,7 @@ TVBRICS(CN),http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 UniverTV,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
 TVPRO,http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 莫斯科电视,http://96.9.77.79:1935/live/SEATV/playlist.m3u8
-🇫🇷法国,#genre#
+法国,#genre#
 PersianaCinema,http://51.210.199.15/hls/stream.m3u8
 PersianaComedy,http://51.210.199.27/hls/stream.m3u8
 PersianaDocumentary,http://51.210.199.23/hls/stream.m3u8
@@ -4814,7 +4814,7 @@ KH-BayonTV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 KH-FreshNewsTV,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
 KH-PNN,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
 KH-TVK,http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8
-🇬🇧英国,#genre#
+英国,#genre#
 Afrobeats247,https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 AlarabyTV,https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 ComedyChannel,https://uksono1-samsunguk.amagi.tv/playlist.m3u8
