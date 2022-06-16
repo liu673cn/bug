@@ -7,14 +7,21 @@ CatVodTV_v2.1.1.Beta6_2.apk
 猫影视近日又针对目前这种情况，推出了一个支持调用本地接口文件的版本，无需网络接口——猫影视TV_2.1.1_Beta5+本地接口
 
 扫码页面也有变化
+### 最新版下载地址
 
-### 最好把接口下载下来，在本地使用
+https://pan.lanzoui.com/b0c3cb92f
 
-https://liu673cn.github.io/mao/20  
-华为鸿蒙系统存储位置  
-clan://localhost/Download/Browser/20  
+### 打开猫影视—【设置】—【当前接口】添加  
 
-本地接口文件复制到电视本地空间内部存储目录下面（一定是根目录emulated/0下面）
+最好把接口下载下来，在本地使用  
+
+他人整理的本地化接口：https://wwn.lanzoum.com/b0310qvah 密码: 76c2  
+
+https://liu673cn.github.io/mao/20  单文件  
+华为鸿蒙系统存储位置   
+clan://localhost/Download/Browser/20   
+
+本地接口文件复制到电视本地空间内部存储目录下面（一定是根目录emulated/0下面） 
 
 clan://localhost/根目录下文件夹/m.json
 
@@ -27,12 +34,6 @@ clan://localhost/根目录下文件夹/m.json
 
 ![mao01](https://liu673cn.github.io/mao/sub/Xbb/mao01.jpg) <br />
 ------------------
-
-打开猫影视—【设置】—【当前接口】添加
-
-### 最新版下载地址
-
-https://pan.lanzoui.com/b0c3cb92f
 
 ### Github RAW 加速服务
 https://www.7ed.net/#/raw-cdn
