@@ -3,9 +3,10 @@
 "spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/sprider0601.txt",
   "sites": [
     {"name":"爬虫"},
-{"key": "csp_Buka"       ,"name":"🦋真不卡〔P〕","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
+
 {"key": "csp_CZSPP"      ,"name":"🦋厂长资源〔P〕","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_77"         ,"name":"🦋酷云七七〔P〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_Buka"       ,"name":"🦋真不卡〔P〕","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
 {"key": "csp_Zxzj"       ,"name":"🦋在线之家〔P〕","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},    
 {"key": "csp_LiteApple"  ,"name":"🦋苹果影视〔P〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_DiDuan"     ,"name":"🦋低端影视〔P〕","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
