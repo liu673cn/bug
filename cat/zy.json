@@ -1,12 +1,36 @@
 //https://raw.githubusercontents.com/cuiocean/ZY-Player-Resources/main/Sites/Sites.json
 [
   {
-    "key": "快播云",
-    "id": 1,
-    "name": "快播云",
-    "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+    "key": "WaBc腾讯",
+    "id": 0,
+    "name": "WaBc腾讯",
+    "api": "https://wabc.ml/mao/1.php/provide/vod/",
     "download": "",
-    "jiexiUrl": "https://jx.7kjx.com/?url=",
+    "jiexiUrl": "https://jx.parwix.com:4433/player/?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+    {
+    "key": "诺迅资源",
+    "id": 01,
+    "name": "诺迅资源",
+    "api": "https://wabc.ml/mao/2.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "https://www.nxflv.com/?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+    {
+    "key": "M3U8资源",
+    "id": 1,
+    "name": "M3U8资源",
+    "api": "http://www.zycaiji.net:7788/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "https://jx.parwix.com:4433/player/?url=",
     "group": "默认",
     "isActive": true,
     "status": "可用",
