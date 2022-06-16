@@ -18,7 +18,7 @@ https://pan.lanzoui.com/b0c3cb92f
 
 最好把接口下载下来，在本地使用  
 
-他人整理的本地化接口：https://wwn.lanzoum.com/b0310qvah 密码: 76c2  
+各路大神整理的本地化接口：https://wwn.lanzoum.com/b0310qvah 密码: 76c2  
 
 https://liu673cn.github.io/mao/20  单文件  
 华为鸿蒙系统存储位置   
@@ -36,6 +36,7 @@ clan://localhost/根目录下文件夹/m.json
 >>>m.json  
 
 ![mao01](https://liu673cn.github.io/mao/sub/Xbb/mao01.jpg) <br />
+![mao01](https://liu673cn.github.io/mao/sub/Xbb/mao02.jpg) <br />
 ------------------
 
 ### Github RAW 加速服务
