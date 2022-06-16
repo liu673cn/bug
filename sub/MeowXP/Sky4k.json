@@ -1,0 +1,531 @@
+{
+  "author": "Tangsan99999",
+  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+  "homeUrl": "https://movie.sky4k.ga",
+  "dcVipFlag": "true",
+  "pCfgJs": "https://movie.sky4k.ga/static/js/playerconfig.js",
+  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
+  "cateNode": "//ul[@class='vi-nav swiper-wrapper clearfix']/li/a[contains(@href, '.html') and not(contains(@href, 'topic'))]",
+  "cateName": "/text()",
+  "cateId": "/@href",
+  "cateIdR": "/vodshow/(\\d+)-----------.html",
+  "cateManual": {},
+  "homeVodNode": "//ul[@class='dx-list dx-left']/li[@class='dx-vod']",
+  "homeVodName": "/a/@title",
+  "homeVodId": "/a/@href",
+  "homeVodIdR": "/voddetail/(\\w+).html",
+  "homeVodImg": "/a/@data-original",
+  "homeVodImgR": "\\S+(http\\S+)",
+  "homeVodMark": "/span[contains(@class,'vod_remarks')]/text()",
+  "cateUrl": "https://movie.sky4k.ga/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+  "cateVodNode": "//li[@class='dx-vod']",
+  "cateVodName": "/a/@title",
+  "cateVodId": "/a/@href",
+  "cateVodIdR": "/voddetail/(\\w+).html",
+  "cateVodImg": "/a/@data-original",
+  "cateVodImgR": "\\S+(http\\S+)",
+  "cateVodMark": "/span[contains(@class,'vod_remarks')]/text()",
+  "dtUrl": "https://movie.sky4k.ga/voddetail/{vid}.html",
+  "dtNode": "//div[@class='container detail']",
+  "dtName": "/div[@class='detail-objs']/div[@class='obj-info']/h1/text()",
+  "dtNameR": "",
+  "dtImg": "/div[@class='detail-objs']/div[@class='obj-pic']/a[@class='picHover']/img/@src",
+  "dtImgR": "",
+  "dtCate": "//div[@class='tag-link']/a/text()",
+  "dtCateR": "",
+  "dtYear": "//a[@class='tag-link'][2]/text()",
+  "dtYearR": "",
+  "dtArea": "//a[@class='tag-link'][3]/text()",
+  "dtAreaR": "",
+  "dtMark": "//label[contains(text(),'Date')]/following-sibling::*/text()",
+  "dtMarkR": "",
+  "dtActor": "//label[contains(text(),'Actor')]/following-sibling::*/a/text()",
+  "dtActorR": "",
+  "dtDirector": "//label[contains(text(),'Director')]/following-sibling::*/a/text()",
+  "dtDirectorR": "",
+  "dtDesc": "//div[@class='vod_content']/text()[1]",
+  "dtDescR": "",
+  "dtFromNode": "//div[@class='playlist']/div/div[@class='play-title']/div[@class='player_info']/h2",
+  "dtFromName": "/text()",
+  "dtFromNameR": "\\S+\\.(\\S+) \\(",
+  "dtUrlNode": "//div[contains(@class,'play_li fn-clear')]",
+  "dtUrlSubNode": "/a",
+  "dtUrlId": "@href",
+  "dtUrlIdR": "/vodplay/(\\S+).html",
+  "dtUrlName": "/text()",
+  "dtUrlNameR": "",
+  "playUrl": "https://movie.sky4k.ga/vodplay/{playUrl}.html",
+  "playUa": "",
+  "searchUrl": "https://movie.sky4k.ga/vodsearch/-------------.html?wd={wd}",
+  "scVodNode": "//li[@class='dx-vod']",
+  "scVodName": "/a/@title",
+  "scVodId": "/a/@href",
+  "scVodIdR": "/voddetail/(\\w+).html",
+  "scVodImg": "/a/@data-original",
+  "scVodImgR": "\\S+(http\\S+)",
+  "scVodMark": "/span[contains(@class,'vod_remarks')]/text()",
+  "filter": {
+    "1": [
+      {
+        "key": "cateId",
+        "name": "Sort",
+        "value": [
+          {
+            "n": "All",
+            "v": ""
+          },
+          {
+            "n": "BiliBili",
+            "v": "21"
+          },
+          {
+            "n": "Action",
+            "v": "6"
+          },
+          {
+            "n": "Comendy",
+            "v": "7"
+          },
+          {
+            "n": "Romance",
+            "v": "8"
+          },
+          {
+            "n": "Sci-Fi",
+            "v": "9"
+          },
+          {
+            "n": "Horror",
+            "v": "10"
+          },
+          {
+            "n": "Drama",
+            "v": "11"
+          },
+          {
+            "n": "War",
+            "v": "12"
+          }
+        ]
+      },
+      {
+        "key": "area",
+        "name": "Country",
+        "value": [
+          {
+            "n": "All",
+            "v": ""
+          },
+          {
+            "n": "CN",
+            "v": "大陆"
+          },
+          {
+            "n": "HK",
+            "v": "香港"
+          },
+          {
+            "n": "TW",
+            "v": "台湾"
+          },
+          {
+            "n": "US",
+            "v": "美国"
+          },
+          {
+            "n": "FR",
+            "v": "法国"
+          },
+          {
+            "n": "EN",
+            "v": "英国"
+          },
+          {
+            "n": "JP",
+            "v": "日本"
+          },
+          {
+            "n": "KR",
+            "v": "韩国"
+          }
+        ]
+      },
+      {
+        "key": "year",
+        "name": "Year",
+        "value": [
+          {
+            "n": "All",
+            "v": ""
+          },
+          {
+            "n": "2021",
+            "v": "2021"
+          },
+          {
+            "n": "2020",
+            "v": "2020"
+          },
+          {
+            "n": "2019",
+            "v": "2019"
+          },
+          {
+            "n": "2018",
+            "v": "2018"
+          },
+          {
+            "n": "2017",
+            "v": "2017"
+          },
+          {
+            "n": "2016",
+            "v": "2016"
+          },
+          {
+            "n": "2015",
+            "v": "2015"
+          },
+          {
+            "n": "2014",
+            "v": "2014"
+          },
+          {
+            "n": "2013",
+            "v": "2013"
+          },
+          {
+            "n": "2012",
+            "v": "2012"
+          }
+        ]
+      },
+      {
+        "key": "by",
+        "name": "By",
+        "value": [
+          {
+            "n": "Time",
+            "v": "time"
+          },
+          {
+            "n": "Hits",
+            "v": "hits"
+          },
+          {
+            "n": "Score",
+            "v": "score"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "key": "cateId",
+        "name": "Sort",
+        "value": [
+          {
+            "n": "All",
+            "v": ""
+          },
+          {
+            "n": "Bilibili",
+            "v": "22"
+          },
+          {
+            "n": "CN",
+            "v": "13"
+          },
+          {
+            "n": "HK/TW",
+            "v": "14"
+          },
+          {
+            "n": "KR/JP",
+            "v": "15"
+          },
+          {
+            "n": "US/UK",
+            "v": "16"
+          }
+        ]
+      },
+      {
+        "key": "year",
+        "name": "Year",
+        "value": [
+          {
+            "n": "All",
+            "v": ""
+          },
+          {
+            "n": "2021",
+            "v": "2021"
+          },
+          {
+            "n": "2020",
+            "v": "2020"
+          },
+          {
+            "n": "2019",
+            "v": "2019"
+          },
+          {
+            "n": "2018",
+            "v": "2018"
+          },
+          {
+            "n": "2017",
+            "v": "2017"
+          },
+          {
+            "n": "2016",
+            "v": "2016"
+          },
+          {
+            "n": "2015",
+            "v": "2015"
+          },
+          {
+            "n": "2014",
+            "v": "2014"
+          },
+          {
+            "n": "2013",
+            "v": "2013"
+          },
+          {
+            "n": "2012",
+            "v": "2012"
+          }
+        ]
+      },
+      {
+        "key": "by",
+        "name": "By",
+        "value": [
+          {
+            "n": "Time",
+            "v": "time"
+          },
+          {
+            "n": "Hits",
+            "v": "hits"
+          },
+          {
+            "n": "Score",
+            "v": "score"
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "key": "area",
+        "name": "Country",
+        "value": [
+          {
+            "n": "All",
+            "v": ""
+          },
+          {
+            "n": "CN",
+            "v": "内地"
+          },
+          {
+            "n": "HK/TW",
+            "v": "港台"
+          },
+          {
+            "n": "JP/KR",
+            "v": "日韩"
+          },
+          {
+            "n": "US/UK",
+            "v": "欧美"
+          }
+        ]
+      },
+      {
+        "key": "year",
+        "name": "Year",
+        "value": [
+          {
+            "n": "All",
+            "v": ""
+          },
+          {
+            "n": "2021",
+            "v": "2021"
+          },
+          {
+            "n": "2020",
+            "v": "2020"
+          },
+          {
+            "n": "2019",
+            "v": "2019"
+          },
+          {
+            "n": "2018",
+            "v": "2018"
+          },
+          {
+            "n": "2017",
+            "v": "2017"
+          },
+          {
+            "n": "2016",
+            "v": "2016"
+          },
+          {
+            "n": "2015",
+            "v": "2015"
+          },
+          {
+            "n": "2014",
+            "v": "2014"
+          },
+          {
+            "n": "2013",
+            "v": "2013"
+          },
+          {
+            "n": "2012",
+            "v": "2012"
+          }
+        ]
+      },
+      {
+        "key": "by",
+        "name": "By",
+        "value": [
+          {
+            "n": "Time",
+            "v": "time"
+          },
+          {
+            "n": "Hits",
+            "v": "hits"
+          },
+          {
+            "n": "Score",
+            "v": "score"
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "key": "cateId",
+        "name": "Sort",
+        "value": [
+          {
+            "n": "All",
+            "v": ""
+          },
+          {
+            "n": "Bilibili",
+            "v": "23"
+          }
+        ]
+      },
+      {
+        "key": "area",
+        "name": "Country",
+        "value": [
+          {
+            "n": "All",
+            "v": ""
+          },
+          {
+            "n": "CN",
+            "v": "国产"
+          },
+          {
+            "n": "JP",
+            "v": "日本"
+          },
+          {
+            "n": "US",
+            "v": "欧美"
+          },
+          {
+            "n": "Other",
+            "v": "其他"
+          }
+        ]
+      },
+      {
+        "key": "year",
+        "name": "Year",
+        "value": [
+          {
+            "n": "All",
+            "v": ""
+          },
+          {
+            "n": "2021",
+            "v": "2021"
+          },
+          {
+            "n": "2020",
+            "v": "2020"
+          },
+          {
+            "n": "2019",
+            "v": "2019"
+          },
+          {
+            "n": "2018",
+            "v": "2018"
+          },
+          {
+            "n": "2017",
+            "v": "2017"
+          },
+          {
+            "n": "2016",
+            "v": "2016"
+          },
+          {
+            "n": "2015",
+            "v": "2015"
+          },
+          {
+            "n": "2014",
+            "v": "2014"
+          },
+          {
+            "n": "2013",
+            "v": "2013"
+          },
+          {
+            "n": "2012",
+            "v": "2012"
+          }
+        ]
+      },
+      {
+        "key": "by",
+        "name": "By",
+        "value": [
+          {
+            "n": "Time",
+            "v": "time"
+          },
+          {
+            "n": "Hits",
+            "v": "hits"
+          },
+          {
+            "n": "Score",
+            "v": "score"
+          }
+        ]
+      }
+    ]
+  }
+}
