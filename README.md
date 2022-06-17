@@ -20,7 +20,7 @@ https://pan.lanzoui.com/b0c3cb92f
 
 各路大神整理的本地化接口：https://wwn.lanzoum.com/b0310qvah 密码: 76c2  
 
-https://liu673cn.github.io/mao/20  单文件  
+[https://liu673cn.github.io/mao/20](https://liu673cn.coding.net/p/x/d/mao/git/raw/main/cat/20?download=true)  单文件  
 华为鸿蒙系统存储位置   
 clan://localhost/Download/Browser/20   
 
