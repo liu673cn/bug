@@ -1,4 +1,4 @@
-## 猫影视TV2.1.1 Beta6版V4
+## :fa-stack-overflow: 猫影视TV2.1.1 Beta6版V4
 
 CatVodTV_v2.1.1.Beta6_20220615094256.apk  优化ijk播放  
 
@@ -10,11 +10,11 @@ CatVodTV_v2.1.1.Beta6_20220615094256.apk  优化ijk播放
 
 对本地接口的导入做出部分优化。增加电视本地存储权限一键获取；增加本地接口文件上传到电视本地与自动解压（仅支持zip）
 
-### 最新版下载地址
+### :fa-film: 最新版下载地址
 
 https://pan.lanzoui.com/b0c3cb92f
 
-### 打开猫影视—【设置】—【当前接口】添加  
+### :fa-arrows: 打开猫影视—【设置】—【当前接口】添加  
 
 最好把接口下载下来，在本地使用，若使用网络接口，不知道可以使用多久
 
@@ -39,7 +39,7 @@ clan://localhost/根目录下文件夹/m.json
 ![mao01](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/mao02.jpg) <br />
 ------------------
 
-### Github RAW 加速服务
+### :fa-share-alt: Github RAW 加速服务
 https://www.7ed.net/#/raw-cdn
 
 https://raw.githubusercontents.com/   用户/仓库/main(分支)/子目录/txt.txt
@@ -50,4 +50,5 @@ https://raw-gh.gcdn.mirr.one/
 
 https://cdn.jsdelivr.net/gh/ 用户/仓库@main/子目录/txt.txt
 
+### :fa-lightbulb-o: 以上为互联网流传资源
 ------------------
