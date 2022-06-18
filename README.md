@@ -12,7 +12,7 @@ CatVodTV_v2.1.1.Beta6_20220615094256.apk  优化ijk播放
 
 ### 最新版下载地址---V4优化ijk播放
 
-[https://pan.lanzoui.com/b0c3cb92f](CatVodTV_v2.1.1.Beta6_20220615094256.apk)
+[CatVodTV_v2.1.1.Beta6_20220615094256.apk](https://pan.lanzoui.com/b0c3cb92f)
 
 ### 打开猫影视—【设置】—【当前接口】添加  
 
