@@ -18,15 +18,15 @@ CatVodTV_v2.1.1.Beta6_20220615094256.apk  优化ijk播放
 
 最好把接口下载下来，在本地使用，若使用网络接口，不知道可以使用多久
 
-- 1). 网络接口---有时效性
+- 1.  网络接口---有时效性
 https://liu673cn.github.io/mao/20
 
-- 2). 本地接口---将网络接口下载到本地使用  
+- 2.  本地接口---将网络接口下载到本地使用  
 华为鸿蒙系统存储位置  
 clan://localhost/Download/Browser/  
 [本地接口---CatVodTV0615.zip](https://liu673cn.coding.net/p/x/d/mao/git/raw/main/cat/CatVodTV0615.zip?download=true)  
 
-- 3). 全局本地化接口---大神整理  
+- 3.  全局本地化接口---大神整理  
 https://wwn.lanzoum.com/b0310qvah 密码: 76c2  
 
 ![mao01](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/mao01.jpg) <br />
