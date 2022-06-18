@@ -24,7 +24,7 @@ https://liu673cn.github.io/mao/20
 - 2.本地接口---将网络接口下载到本地使用  
 华为鸿蒙系统存储位置  
 clan://localhost/Download/Browser/  
-[CatVodTV0615.zip](https://liu673cn.coding.net/p/x/d/mao/git/raw/main/cat/20?download=true)    [CatVodTV0615.zip](https://liu673cn.coding.net/p/x/d/mao/git/raw/main/cat/CatVodTV0615.zip?download=true)  
+[20](https://liu673cn.coding.net/p/x/d/mao/git/raw/main/cat/20?download=true)    [CatVodTV0615.zip](https://liu673cn.coding.net/p/x/d/mao/git/raw/main/cat/CatVodTV0615.zip?download=true)  
 
 - 3.全局本地化接口---大神整理  
 https://wwn.lanzoum.com/b0310qvah 密码: 76c2  
