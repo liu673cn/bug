@@ -26,7 +26,7 @@ https://liu673cn.github.io/mao/20
 clan://localhost/Download/Browser/  
 [本地接口---CatVodTV0615.zip](https://liu673cn.coding.net/p/x/d/mao/git/raw/main/cat/CatVodTV0615.zip?download=true)  
 
-- 3. 全局本地化接口---大神整理  
+- Ⅲ. 全局本地化接口---大神整理  
 https://wwn.lanzoum.com/b0310qvah 密码: 76c2  
 
 ![mao01](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/mao01.jpg) <br />
