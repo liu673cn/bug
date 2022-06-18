@@ -33,10 +33,10 @@ clan://localhost/根目录下文件夹/m.json
 >>>jar/   
 >>>biubiu/  
 >>>xpath/  
->>>m.json  
+>>>m.json   
 
-![mao01](https://liu673cn.github.io/mao/sub/Xbb/mao01.jpg) <br />
-![mao01](https://liu673cn.github.io/mao/sub/Xbb/mao02.jpg) <br />
+![mao01](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/mao01.jpg) <br />
+![mao01](https://raw.githubusercontents.com/liu673cn/mao/main/sub/Xbb/mao02.jpg) <br />
 ------------------
 
 ### Github RAW 加速服务
