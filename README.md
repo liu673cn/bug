@@ -22,7 +22,7 @@ CatVodTV_v2.1.1.Beta6_20220615094256.apk  优化ijk播放
 https://liu673cn.github.io/mao/20
 
 - 2.本地接口---将网络接口下载到本地使用
-[https://liu673cn.github.io/mao/20](https://liu673cn.coding.net/p/x/d/mao/git/raw/main/cat/20?download=true)  
+[20](https://liu673cn.coding.net/p/x/d/mao/git/raw/main/cat/20?download=true)  
 华为鸿蒙系统存储位置  
 clan://localhost/Download/Browser/  
 [本地接口---CatVodTV0615.zip](https://liu673cn.coding.net/p/x/d/mao/git/raw/main/cat/CatVodTV0615.zip?download=true)  
