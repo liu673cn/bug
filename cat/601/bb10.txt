@@ -1,5 +1,4 @@
-{
-"zhuyejiekou":[
+{"zhuyejiekou":[
 {"name":"南府追剧(高清M)","url":"http://iapp.nfuxs.club/nfuxs.php/v1.vod"},
 {"name":"默认库(高清M)","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"极酷视频(高清M)","url":"https://jiku.vip/mogai_api.php/v1.vod"},
@@ -22,8 +21,7 @@
 {"name":"暖光影视(高清M","url":"https://app.bl210.com/api.php/v1.vod"},
 {"name":"HG影视(高清M)","url":"http://bbq.1006.tk/api.php/v1.vod"},
 {"name":"瑞丰资源(高清M)","url":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
-{"name":"躺平影视(高清M)","url":"http://www.lltpys.com/api.php/app/"}
-],
+{"name":"躺平影视(高清M)","url":"http://www.lltpys.com/api.php/app/"}],
 "caijizhan":[
 {"name":"七七采集","url":"http://api.kunyu77.com/api.php"},
 {"name":"7788资源","url":"http://www.zycaiji.net:7788/api.php"},
@@ -103,7 +101,7 @@
 {"name":"🔞番号资源","url":"http://fhapi9.com/api.php/provide/vod/"},
 {"name":"🔞鲨鱼资源","url":"https://shayuapi.com/api.php/provide/vod/"},
 {"name":"🔞速度资源","url":"http://www.ggmmzy.com:9999/inc/xml"},
-{"name":"🔞KK写真资源","url":"https://kkzy.me/api.php/provide/vod/"},  
+{"name":"🔞KK写真资源","url":"https://kkzy.me/api.php/provide/vod/"},
 //
 {"name":"🔞环亚","url":"http://wmcj8.com/inc/sapi.php"},
 {"name":"🔞狼少年","url":"http://cjmygzy.com/inc/sapi.php?ac=videolist"},
@@ -129,7 +127,7 @@
 {"name":"🔞S猫资源","url":"https://api.maozyapi.com/inc/api.php"},
 {"name":"🔞1024资源","url":"https://www.1024nf.com/api.php/provide/vod/at/xml"},
 {"name":"🔞4000资源","url":"https://www.4000zy.com/inc/api.php"},
-{"name":"🔞小姐姐","url":"https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml"},  
+{"name":"🔞小姐姐","url":"https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml"},
 //
 {"name":"🔞caiji01","url":"http://caiji01.com/home/cjapi/cfd2/mc/vod/xml"},
 {"name":"🔞caiji02","url":"http://caiji02.com/home/cjapi/cfas/mc/vod/xml"},
@@ -173,7 +171,7 @@
 {"name":"🔞茄子资源","url":"http://www.ckzy.com/api.php/provide/vod/at/xml"},
 {"name":"🔞佳丽","url":"https://jialiapi.com/api.php/provide/vod/at/xml"},
 {"name":"🔞富二代资源","url":"http://f2dcj6.com/sapi/?ac=videolist"},
-{"name":"🔞番号资源","url":"http://fhapi9.com/api.php/provide/vod/},
+{"name":"🔞番号资源","url":"http://fhapi9.com/api.php/provide/vod/"},
 {"name":"🔞艺术","url":"http://122ap.com/inc/api.php"},
 {"name":"🔞美少女资源","url":"https://www.msnii.com/api/json.php"},
 {"name":"🔞黄AV资源","url":"https://www.pgxdy.com/api/json.php"},
