@@ -22,7 +22,7 @@
 {"name":"暖光影视(高清M","url":"https://app.bl210.com/api.php/v1.vod"},
 {"name":"HG影视(高清M)","url":"http://bbq.1006.tk/api.php/v1.vod"},
 {"name":"瑞丰资源(高清M)","url":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
-{"name":"躺平影视(高清M)","url":"http://www.lltpys.com/api.php/app/"}
+{"name":"躺平影视(高清M)","url":"http://www.lltpys.com/api.php/app/"},
 ],
 "caijizhan":[
 {"name":"七七采集","url":"http://api.kunyu77.com/api.php"},
