@@ -313,21 +313,8 @@
     }
   ],
   "parses": [
-    {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
+{"name":"自动解析","type":3,"url":"Demo"},
+{"name": "自动线路","type": 2,"url": "Parallel"},
 {"name": "Pro","type": 1,"url": "http://api.vip123kan.vip/?url=","ext": {"flag": ["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name": "parwix1","type":1,"url": "https://jx.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name": "parwix2","type":1,"url": "https://jx.parwix.com:4433/player/analysis.php?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
