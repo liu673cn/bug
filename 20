@@ -9,7 +9,7 @@
 {"key": "csp_Kmys","name": "酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_PHP_WMKK","name":"完美看看PHP","type":1,  "api": "http://api.flypotato.xyz/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"csp_Buka1","name":"不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Buka"       ,"name":"🐞真不卡〔P〕","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
+{"key": "csp_Buka"       ,"name":"🐞真不卡〔P〕","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Zxzj"       ,"name":"🐞在线之家〔P〕","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},  
 {"key": "csp_LiteApple"  ,"name":"🐞苹果影视〔P〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_DiDuan"     ,"name":"🐞低端影视〔P〕","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
