@@ -2,8 +2,8 @@
 "spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/sprider0601.txt",
 
 "sites": [
-{"key": "csp_CZSPP"      ,"name":"🐞厂长资源〔P〕","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_77"         ,"name":"🐞酷云七七〔P〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_CZSPP"      ,"name":"🐞厂长资源〔P〕","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_Buka"       ,"name":"🐞真不卡〔P〕","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
 {"key": "csp_Zxzj"       ,"name":"🐞在线之家〔P〕","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},    
 {"key": "csp_LiteApple"  ,"name":"🐞苹果影视〔P〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -14,7 +14,6 @@
 {"key": "csp_Qicui"      ,"name":"🐞奇粹影视〔P〕","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key": "csp_GitCafe"    ,"name":"🐞阿里纸条〔云〕","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},  
 {"key": "csp_AliPanSou"  ,"name":"🐞阿里喵搜〔搜〕","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "push_agent"     ,"name":"🛴推 送🕸","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0 },
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/虎牙.json"},
 {"key":"csp_xpath_huyam","name":"🐻虎牙M〔X〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/huya.json"},
 {"key":"csp_xpath_huyag","name":"🦊虎牙G〔X〕","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/huya2.json"},
