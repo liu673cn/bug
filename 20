@@ -2,12 +2,12 @@
 "spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/custom_spider.jar",
 
 "sites": [
+{"key":"csp_PHP_WMKK"    ,"name":"🛴完美看看","type":1,  "api": "http://api.flypotato.xyz/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_CZSPP"      ,"name":"🐞厂长资源〔P〕","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_77"         ,"name":"🐞酷云七七〔P〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "360_spider"     ,"name":"🐞360影视〔P〕","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_kuaikan"    ,"name":"🐞快看影视〔P〕","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Kmys"       ,"name":"🐞酷猫影视〔P〕","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_PHP_WMKK"    ,"name":"完美看看PHP","type":1,  "api": "http://api.flypotato.xyz/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_Buka"       ,"name":"🐞真不卡〔P〕","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Zxzj"       ,"name":"🐞在线之家〔P〕","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},  
 {"key": "csp_DiDuan"     ,"name":"🐞低端影视〔P〕","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
