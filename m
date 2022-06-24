@@ -28,7 +28,6 @@
 {"key": "csp_xpath_nmys","name": "农民影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/nmys.json"},
 {"key": "csp_xpath_huya","name": "虎牙直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/huya.json"},
 {"key": "csp_xpath_88kanqiu","name": "球赛直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/88kanqiu.json"},
-//{"key": "csp_xpath_gaze","name": "注视影视","type": 3,"api": "csp_XPathGaze","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/gaze.json"},
 {"key": "csp_xpath_2gangju","name": "爱港剧","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/2gangju.json"},
 {"key":"csp_Lgyy","name":"蓝光影院","type":3,"api":"csp_Languang","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/lgyy.json"},
 {"key":"csp_zxzj","name":"在线之家","type":3,"api":"csp_XpathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/zxzj.json"},
