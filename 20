@@ -1,5 +1,5 @@
 {
-"spider": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/custom_spider.jar",
+"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/custom_spider.jar",
 
 "sites": [
 {"key": "csp_CZSPP"      ,"name":"🐞厂长资源〔P〕","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
