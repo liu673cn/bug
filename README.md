@@ -10,15 +10,15 @@
 
 ### 下载地址
 
- TVbox开源版---密123  https://tsq.lanzouf.com/b0c4nr91c#123  
+ - TVbox开源版---密123  https://tsq.lanzouf.com/b0c4nr91c#123  
 
- 猫影视TV999内置源版.apk https://pan.lanzoui.com/b0c3cb92f  
+ - 猫影视TV999内置源版  https://pan.lanzoui.com/b0c3cb92f  
 
 ### 一款半自动工具Vivi TV Pro  
 
-[下载地址1：](https://pan.quark.cn/s/4825cc5154be)  
+- 下载地址1： https://pan.quark.cn/s/4825cc5154be  
 
-[下载地址2：](https://wklb258.lanzouu.com/iFrim06ttc1i)  
+- 下载地址2：https://wklb258.lanzouu.com/iFrim06ttc1i  
 
 ### 设置  
 
@@ -28,7 +28,7 @@
 2.开启存储权限——将你的猫影视站源接口文件放到根目录下  
 - 本地配置规则 clan://localhost/mao.json(文件)  
 
-3.开启存储权限——将你的猫影视站源接口文件放到根目录下  
+3.使用半自动工具ViViTV 第三方工具箱，一键安装软件，一键配置接口 
 - 本地配置规则 clan://localhost/mao.json(文件)  
 
 ![TVbox01](https://raw.githubusercontents.com/liu673cn/mao/main/sub/TVbox/TVbox01.jpg) <br />
