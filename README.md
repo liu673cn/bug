@@ -14,12 +14,21 @@
 
 [猫影视TV999内置源版.apk](https://pan.lanzoui.com/b0c3cb92f)
 
-### 设置
+### 一款半自动工具Vivi TV Pro  
+
+[下载地址1：](https://pan.quark.cn/s/4825cc5154be)  
+
+[下载地址2：](https://wklb258.lanzouu.com/iFrim06ttc1i)  
+
+### 设置  
 
 1.配置地址---输入站源---确定即可  
 - URL站源规则 http://  
 
 2.开启存储权限——将你的猫影视站源接口文件放到根目录下  
+- 本地配置规则 clan://localhost/mao.json(文件)  
+
+3.开启存储权限——将你的猫影视站源接口文件放到根目录下  
 - 本地配置规则 clan://localhost/mao.json(文件)  
 
 ![TVbox01](https://raw.githubusercontents.com/liu673cn/mao/main/sub/TVbox/TVbox01.jpg) <br />
