@@ -1,4 +1,4 @@
-## TVbox-版本更新 可能换名字（空壳）
+## 1. TVbox-版本更新 可能换名字（空壳）
 
 - 猫影视开发者宣布停用后，它的开源版TVBOX，根据官方代码仓生成的安卓应用。
 
@@ -8,27 +8,27 @@
 
 - 设置——配置地址——输入你的站源规则——确定即可；
 
-### 下载地址
+### 2. 下载地址
 
  - TVbox开源版---密123  https://tsq.lanzouf.com/b0c4nr91c#123  
 
  - 猫影视TV999内置源版  https://pan.lanzoui.com/b0c3cb92f  
 
-### 一款半自动工具Vivi TV Pro  
+### 3. 一款半自动工具Vivi TV Pro  
 
 - 下载地址1： https://pan.quark.cn/s/4825cc5154be  
 
 - 下载地址2：https://wklb258.lanzouu.com/iFrim06ttc1i  
 
-### 设置  
+### 4. 使用设置  
 
-1. 配置地址---输入站源---确定即可  
+1). 配置地址---输入站源---确定即可  
 - URL站源规则 http://  
 
-2. 开启存储权限——将你的猫影视站源接口文件放到根目录下  
+2). 开启存储权限——将你的猫影视站源接口文件放到根目录下  
 - 本地配置规则 clan://localhost/mao.json(文件)  
 
-3. 使用半自动工具ViViTV 第三方工具箱，一键安装软件，一键配置接口 
+3). 使用半自动工具ViViTV 第三方工具箱，一键安装软件，一键配置接口 
 - 本地配置规则 clan://localhost/mao.json(文件)  
 
 ![TVbox01](https://raw.githubusercontents.com/liu673cn/mao/main/sub/TVbox/TVbox01.jpg) <br />
