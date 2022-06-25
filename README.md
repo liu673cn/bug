@@ -52,5 +52,5 @@ https://raw-gh.gcdn.mirr.one/
 https://cdn.jsdelivr.net/gh/ 用户/仓库@main/子目录/txt.txt
 
 --------
-### 以上为互联网流传资源
+### 以上为互联网流传资源，不保证内容的真实性和可靠性。
 
