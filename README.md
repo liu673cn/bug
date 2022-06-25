@@ -25,7 +25,7 @@
 - URL站源规则 http://  
 
 2). 开启存储权限——将你的猫影视站源接口文件放到根目录下  
-- 本地配置规则 clan://localhost/mao.json(文件)  
+- 本地配置规则 clan://localhost/Download/BroWser/20 
 
 3). 使用半自动工具ViViTV  
 - 一款实时更新的第三方工具箱，一键安装软件，一键配置接口   
