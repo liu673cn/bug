@@ -30,7 +30,7 @@
 {"key":"csp_xpath_huyag","name":"🦊虎牙G","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/huya2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🐟斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/斗鱼.json"},
 {"key":"csp_xpath_酷奇mv","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/酷奇MV.json"},
-{"key":"csp_xml___8090","name":"💢8090 资源"  ,"type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","playUrl":"https://www.8090.la/8090/?url=","searchable":1,"quickSearch":1},
+{"key":"csp_xml___8090","name":"💢8090 资源"  ,"type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___小猫咪","name":"💢小 猫 咪"   ,"type":1,"api":"https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___追剧官采","name":"💢追剧官采"   ,"type":1,"api":"http://gc.zhuijuba.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_biubiu_真不卡zhenbuka3","name":"🐛真不卡1(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/真不卡zhenbuka3(ns).json"},
