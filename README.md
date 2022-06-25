@@ -31,13 +31,15 @@
 3). 使用半自动工具ViViTV 第三方工具箱，一键安装软件，一键配置接口 
 - 本地配置规则 clan://localhost/mao.json(文件)  
 
+--------
 ![TVbox01](https://raw.githubusercontents.com/liu673cn/mao/main/sub/TVbox/TVbox01.jpg) <br />
 ![TVbox02](https://raw.githubusercontents.com/liu673cn/mao/main/sub/TVbox/TVbox02.jpg) <br />
 ![TVbox03](https://raw.githubusercontents.com/liu673cn/mao/main/sub/TVbox/TVbox03.jpg) <br />
 ![TVbox04](https://raw.githubusercontents.com/liu673cn/mao/main/sub/TVbox/TVbox04.jpg) <br />
 ![TVbox05](https://raw.githubusercontents.com/liu673cn/mao/main/sub/TVbox/TVbox05.jpg) <br />
 ![TVbox06](https://raw.githubusercontents.com/liu673cn/mao/main/sub/TVbox/TVbox06.jpg) <br />
-------------------
+
+--------
 
 ### Github RAW 加速服务
 https://www.7ed.net/#/raw-cdn
@@ -50,5 +52,6 @@ https://raw-gh.gcdn.mirr.one/
 
 https://cdn.jsdelivr.net/gh/ 用户/仓库@main/子目录/txt.txt
 
+--------
 ### 以上为互联网流传资源
-------------------
+
