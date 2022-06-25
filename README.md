@@ -22,13 +22,13 @@
 
 ### 设置  
 
-1.配置地址---输入站源---确定即可  
+1. 配置地址---输入站源---确定即可  
 - URL站源规则 http://  
 
-2.开启存储权限——将你的猫影视站源接口文件放到根目录下  
+2. 开启存储权限——将你的猫影视站源接口文件放到根目录下  
 - 本地配置规则 clan://localhost/mao.json(文件)  
 
-3.使用半自动工具ViViTV 第三方工具箱，一键安装软件，一键配置接口 
+3. 使用半自动工具ViViTV 第三方工具箱，一键安装软件，一键配置接口 
 - 本地配置规则 clan://localhost/mao.json(文件)  
 
 ![TVbox01](https://raw.githubusercontents.com/liu673cn/mao/main/sub/TVbox/TVbox01.jpg) <br />
