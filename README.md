@@ -12,8 +12,6 @@
 
  - TVbox开源版---密123  https://tsq.lanzouf.com/b0c4nr91c#123  
 
- - TVBoxpro内置_0626  https://wklb258.lanzouu.com/i82XT06yitjc
-
  - 猫影视TV999内置源版  https://pan.lanzoui.com/b0c3cb92f  
 
 ### 3. 半自动工具Vivi TV Pro  
