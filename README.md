@@ -31,12 +31,12 @@
 - 一款实时更新的第三方工具箱，一键安装软件，一键配置接口   
 
 --------
-![TVbox01](https://raw.fastgit.org/liu673cn/mao/main/sub/TVbox/TVbox01.jpg) <br />
-![TVbox02](https://raw.fastgit.org/liu673cn/mao/main/sub/TVbox/TVbox02.jpg) <br />
-![TVbox03](https://raw.fastgit.org/liu673cn/mao/main/sub/TVbox/TVbox03.jpg) <br />
-![TVbox04](https://raw.fastgit.org/liu673cn/mao/main/sub/TVbox/TVbox04.jpg) <br />
-![TVbox05](https://raw.fastgit.org/liu673cn/mao/main/sub/TVbox/TVbox05.jpg) <br />
-![TVbox06](https://raw.fastgit.org/liu673cn/mao/main/sub/TVbox/TVbox06.jpg) <br />
+![TVbox01](https://liu673cn.github.io/mao/sub/TVbox/TVbox01.jpg) <br />
+![TVbox02](https://liu673cn.github.io/mao/sub/TVbox/TVbox02.jpg) <br />
+![TVbox03](https://liu673cn.github.io/mao/sub/TVbox/TVbox03.jpg) <br />
+![TVbox04](https://liu673cn.github.io/mao/sub/TVbox/TVbox04.jpg) <br />
+![TVbox05](https://liu673cn.github.io/mao/sub/TVbox/TVbox05.jpg) <br />
+![TVbox06](https://liu673cn.github.io/mao/sub/TVbox/TVbox06.jpg) <br />
 
 --------
 
