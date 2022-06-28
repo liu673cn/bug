@@ -1,9 +1,9 @@
 {
   "name": "98播播网",
-  "url": "https://98bbw.com/",
+  "url": "https://98bbw.com",
   //"User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
-  "fenlei": "电影$/vod/type/id/1#国产剧$/vod/type/id/2#韩剧$/vod/type/id/3#美剧$/vod/type/id/4#日剧$$/vod/type/id/5#国产动漫$/vod/type/id/26#日本动漫$/vod/type/id/25#综艺$/vod/type/id/22#更新$/label/new",
+  "fenlei": "电影$/vod/show/id/1#国产剧$/vod/show/id/2#韩剧$/vod/show/id/3#美剧$/vod/show/id/4#日剧$$/vod/show/id/5#国产动漫$/vod/show/id/26#日本动漫$/vod/show/id/25#综艺$/vod/show/id/22#更新$/label/new",
   "houzhui": ".html",
   "shifouercijiequ": "0",
   "jiequqian": "空",
