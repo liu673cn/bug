@@ -27,7 +27,12 @@
 - URL站源规则 http://  
 
 2). 开启存储权限——将你的猫影视站源接口文件放到根目录下  
-- 本地配置规则 clan://localhost/Download/BroWser/20 
+- 本地配置规则 clan://localhost/Download/BroWser/   
+ TVBox.zip：https://pan.quark.cn/s/ac29d8ad60ed   
+本地配置地址 (三选一 \ 切换着看)   
+● 本地配置地址1：clan://localhost/TVBox/ts.json    
+● 本地配置地址2：clan://localhost/TVBox/bc.json   
+● 本地配置地址3：clan://localhost/TVBox/xm.json   
 
 3). 使用半自动工具ViViTV  
 - 一款实时更新的第三方工具箱，一键安装软件，一键配置接口   
