@@ -1,6 +1,4 @@
 {
-"spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/custom_spider.jar;md5;db70fafa9eea27f2701b218f1b08a3ac",
-
 "sites": [
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_CZSPP"      ,"name":"🐞厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
@@ -25,25 +23,25 @@
 {"key": "csp_Blixq"      ,"name":"戏曲","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_PHP_WMKK"    ,"name":"🛴完美看看","type":1,  "api": "http://api.flypotato.xyz/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 //
-{"key": "csp_xpath_nmys","name": "农民影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/nmys.json"},
-{"key": "csp_xpath_huya","name": "虎牙直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/huya.json"},
-{"key": "csp_xpath_88kanqiu","name": "球赛直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/88kanqiu.json"},
-{"key": "csp_xpath_2gangju","name": "爱港剧","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/2gangju.json"},
-{"key":"csp_Lgyy","name":"蓝光影院","type":3,"api":"csp_Languang","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/lgyy.json"},
-{"key":"csp_zxzj","name":"在线之家","type":3,"api":"csp_XpathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/zxzj.json"},
-{"key":"csp_Xbiubiu_libvio","name":"LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/ext/libvio.json"},
-{"key":"csp_Xbiubiu_tegou","name":"特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/ext/tegou.json"},
-{"key":"csp_Xbiubiu_ysgc","name":"影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/ext/ysgc.json"},
-{"key":"csp_Xbiubiu_555","name":"555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://flying-guys.coding.net/p/mao/d/jar/git/raw/master/ext/555.json"},
-{"key": "csp_xpath_age","name": "AGE动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/agefans.json"},
-{"key": "csp_xpath_dm84","name": "动漫巴士","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/dm84.json"},
-{"key": "csp_xpath_yinghua","name": "樱花动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/yinghua.json"},
-{"key": "csp_xpath_lezhutv","name": "乐猪TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/lezhutv.json"},
-{"key": "csp_xpath_saohuo","name": "骚火TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/saohuotv.json"},
-{"key": "csp_xpath_kelatv","name": "克拉TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/kelatv.json"},
-{"key": "csp_xpath_xiaoxiong","name": "小熊影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/xiaoxiong.json"},
-{"key": "csp_xpath_99ys","name": "久久影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/99ys.json"},
-{"key": "csp_xpath_1090","name": "90影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/1090.json"},
+{"key": "csp_xpath_nmys","name": "农民影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/nmys.json"},
+{"key": "csp_xpath_huya","name": "虎牙直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/huya.json"},
+{"key": "csp_xpath_88kanqiu","name": "球赛直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/88kanqiu.json"},
+{"key": "csp_xpath_2gangju","name": "爱港剧","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/2gangju.json"},
+{"key":"csp_Lgyy","name":"蓝光影院","type":3,"api":"csp_Languang","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/lgyy.json"},
+{"key":"csp_zxzj","name":"在线之家","type":3,"api":"csp_XpathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/zxzj.json"},
+{"key":"csp_Xbiubiu_libvio","name":"LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/biubiu//libvio.json"},
+{"key":"csp_Xbiubiu_tegou","name":"特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/biubiu//tegou.json"},
+{"key":"csp_Xbiubiu_ysgc","name":"影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/biubiu//ysgc.json"},
+{"key":"csp_Xbiubiu_555","name":"555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/biubiu//555.json"},
+{"key": "csp_xpath_age","name": "AGE动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/agefans.json"},
+{"key": "csp_xpath_dm84","name": "动漫巴士","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/dm84.json"},
+{"key": "csp_xpath_yinghua","name": "樱花动漫","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/yinghua.json"},
+{"key": "csp_xpath_lezhutv","name": "乐猪TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/lezhutv.json"},
+{"key": "csp_xpath_saohuo","name": "骚火TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/saohuotv.json"},
+{"key": "csp_xpath_kelatv","name": "克拉TV","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/kelatv.json"},
+{"key": "csp_xpath_xiaoxiong","name": "小熊影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/xiaoxiong.json"},
+{"key": "csp_xpath_99ys","name": "久久影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/99ys.json"},
+{"key": "csp_xpath_1090","name": "90影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw-gh.gcdn.mirr.one/liu673cn/mao/main/sub/xpath/1090.json"},
 {"key":"csp_xml_gc","name":"官采资源","type":1,  "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list","playUrl":"parse:自动解析","categories": ["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","综艺频道"]}
 
 
@@ -64,6 +62,8 @@
   ],
 
   "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","xigua","renrenmi","ltnb","CL4K","rx","dmplay","duoduozy","xfyun"],
+
+  "spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/custom_spider.jar",
 
   "parses": [
 {"name":"自动解析","type":3,"url":"Demo"},
