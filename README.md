@@ -24,7 +24,7 @@
 ### 4. 使用设置  
 
 1). 配置地址---输入站源---确定即可  
-- URL站源规则 `https://shuyuan.miaogongzi.net/shuyuan/1656675267.json`
+- URL站源规则 `https://shuyuan.miaogongzi.net/shuyuan/1656721538.json`
 
 2). 开启存储权限——将你的猫影视站源接口文件放到根目录下  
 - 本地配置规则 clan://localhost/Download/BroWser/   
