@@ -18,8 +18,8 @@
 
 ### 3. 半自动工具Vivi TV Pro  
 
-- 下载地址1：https://wklb258.lanzouu.com/iFrim06ttc1i  
-- 下载地址2： https://pan.quark.cn/s/4825cc5154be  
+- 下载地址1： https://wklb258.lanzouu.com/iDv8p0754huj  
+- 下载地址2： https://pan.quark.cn/s/c281c158f236  
 
 ### 4. 使用设置  
 
