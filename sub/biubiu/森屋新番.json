@@ -9,12 +9,12 @@
   "fenlei": "TV动画$/show/1/page/#BD动画$/show/2/page/#剧场版$/show/3/page/#欧美动漫$/show/37/page/", //网站列表的分类
   "houzhui": ".html", //网站翻页链接的后缀
 
-  "shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
-  "jiequqian": "空", //不需要二次截取就填空
-  "jiequhou": "空", //不需要二次截取就填空
-  "jiequshuzuqian": "class=\"module-item-pic\"", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuhou": "</div>", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
-  "tupianqian": "data-src=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
+  "shifouercijiequ": "1", //截取的列表数组是否需要二次截取，0不需要，1需要
+  "jiequqian": "class=\"module-items", //不需要二次截取就填空
+  "jiequhou": "class=\"fixedGroup", //不需要二次截取就填空
+  "jiequshuzuqian": "<a", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuhou": "</a>", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianqian": "data-original=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianhou": "\"", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
   "biaotiqian": "title=\"", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
   "biaotihou": "\"", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
