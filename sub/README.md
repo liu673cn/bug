@@ -12,13 +12,12 @@
 ```
   ![b01](https://liu673cn.github.io/mao/sub/Xbb/b01.jpg) <br />
   ------------------
+```列表数组二次截取
+  "shifouercijiequ": "0",  //------截取的列表数组是否需要二次截取，0不需要，1需要
+  "jiequqian": "空", //------截取关键词前
+  "jiequhou": "空", //------截取关键词后
 ```
-列表数组二次截取
-  "shifouercijiequ": "0", 
-  "jiequqian": "空", 
-  "jiequhou": "空", 
-```
-  ![b01](https://liu673cn.github.io/mao/sub/Xbb/b01.jpg) <br />
+  ![b01.1](https://liu673cn.github.io/mao/sub/Xbb/b01.1.jpg) <br />
 ------------------
 ```列表数组
   "jiequshuzuqian": "class=\"stui-vodlist__box\"", //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
