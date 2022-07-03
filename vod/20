@@ -102,9 +102,7 @@
 //
 //{"key":"csp_biubiu_思乐影视","name":"🐛思乐影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/思乐影视.json"},
 //{"key":"csp_biubiu_周末电影","name":"🐛周末电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/周末电影.json"},
-//{"key":"csp_biubiu_九亿资源","name":"🐛九亿资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/9亿资源.json"},
-//{"key":"csp_biubiu_饭团影院","name":"🐛饭团影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/饭团影院.json"},
-//{"key":"csp_biubiu_不开VIP","name":"🐛不开VIP","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/bb/不开VIP.json"},
+{"key":"csp_biubiu_九亿资源","name":"🐛九亿资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/9亿资源.json"},
 {"key":"csp_biubiu_小猫咪","name":"🐛小猫咪2","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/小猫咪.json"},
 //
 {"key":"csp_biubiu_喜鹊视频","name":"🐛喜鹊视频","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/mao/sub/biubiu/喜鹊视频.json"},
