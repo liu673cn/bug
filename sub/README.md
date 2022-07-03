@@ -9,11 +9,16 @@
   "shouye": "4", 
   "fenlei": "电影$/vodshow/1--------#韩剧$/vodshow/2--------#韩综$/vodshow/3--------", //------网站列表的分类 
   "houzhui": "---.html", //------网站翻页链接的后缀 
+```
+  ![b01](https://liu673cn.github.io/mao/sub/Xbb/b01.jpg) <br />
+  ------------------
+```
+列表数组二次截取
   "shifouercijiequ": "0", 
   "jiequqian": "空", 
   "jiequhou": "空", 
-  ```
-![b01](https://liu673cn.github.io/mao/sub/Xbb/b01.jpg) <br />
+```
+  ![b01](https://liu673cn.github.io/mao/sub/Xbb/b01.jpg) <br />
 ------------------
 ```列表数组
   "jiequshuzuqian": "class=\"stui-vodlist__box\"", //------截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
