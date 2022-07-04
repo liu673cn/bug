@@ -1,0 +1,101 @@
+{
+    "author": "ajk",
+    "ua": "",
+    // 首页地址 用于获取 分类和首页推荐
+    "homeUrl": "https://www.xqmi.top",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+    "cateManual": {
+        "推荐": "0",
+        "电影": "1",
+        "电视剧": "2",
+        "综艺": "3",
+        "动漫": "4",
+        "国产剧": "13",
+        "港台剧": "14",
+        "日韩剧": "15",
+        "欧美剧": "16",
+        "动作片": "6",
+        "喜剧片": "7",
+        "爱情片": "8",
+        "科幻片": "9",
+        "恐怖片": "10",
+        "剧情片": "11",
+        "战争片": "12"
+    },
+    // 首页推荐视频的节点
+    "homeVodNode": "//ul[@class='stui-vodlist clearfix']/li/a",
+    // 首页推荐视频的名称
+    "homeVodName": "/@title",
+    // 二次处理正则
+    "homeVodNameR": "",
+    // 首页推荐视频的id
+    "homeVodId": "/@href",
+    // 二次处理正则
+    "homeVodIdR": "/id/(\\w+).html",
+    // 首页推荐视频的图片
+    "homeVodImg": "/@data-original",
+    // 二次处理正则
+    "homeVodImgR": "",
+    // 首页推荐视频的简介
+    "homeVodMark": "/span[@class='pic-text text-right']/text()",
+    // 二次处理正则
+    "homeVodMarkR": "",
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+    "cateUrl": "https://www.xqmi.top/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+    "cateVodNode": "//ul[@class='stui-vodlist clearfix']/li/a",
+    "cateVodName": "/@title",
+    "cateVodId": "/@href",
+    "cateVodIdR": "/id/(\\w+).html",
+    "cateVodImg": "/@data-original",
+    "cateVodMark": "/span[@class='pic-text text-right']/text()",
+    // 详情页地址 用于获取详情页信息 及 播放列表和地址
+    "dtUrl": "https://www.xqmi.top/index.php/vod/play/id/{vid}.html",
+    // 详情节点
+    "dtNode": "//body",
+    // 视频名
+    "dtName": "//div[contains(@class,'video-title')]/h2[@class='title']/text()",
+    "dtNameR": "",
+    // 视频图片
+    "dtImg": "//a[contains(@class,'stui-vodlist__thumb')][1]/@data-original",
+    "dtImgR": "",
+    // 视频分类
+    "dtCate": "//span[contains(@class,'text-muted hidden-xs') and contains(text(), '类型：')]/following-sibling::*/text()",
+    "dtCateR": "",
+    // 视频年份
+    "dtYear": "//span[contains(@class,'text-muted hidden-xs') and contains(text(), '年份：')]/following-sibling::*/text()",
+    // 视频简介
+    "dtDesc": "//div[contains(@class,'stui-content__desc col-pd clearfix')]/text()",
+    "dtDescR": "",
+    // 播放源节点
+    "dtFromNode": "//div[contains(@class,'tabs')]/ul[@class='t-ul']",
+    // 播放源名称 多个重名播放源
+    "dtFromName": "concat('播放源',count(parent::*/preceding::*//div[contains(@class,'tabs')]/ul[@class='t-ul']) + 1)",
+    // 二次处理正则
+    "dtFromNameR": "(\\S+).0",
+    // 播放列表节点
+    "dtUrlNode": "//div[contains(@class,'tabs')]/div//ul",
+    // 播放地址节点
+    "dtUrlSubNode": "/li/a",
+    // 播放地址
+    "dtUrlId": "/@href",
+    // 二次处理正则
+    "dtUrlIdR": "/index.php/vod/play/id/(\\S+).html",
+    // 剧集名称
+    "dtUrlName": "/text()",
+    // 二次处理正则
+    "dtUrlNameR": "",
+    // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+    "playUrl": "https://www.xqmi.top/index.php/vod/play/id/{playUrl}.html",
+    // 解析webview的user-agent
+    "playUa": "",
+    // 搜索地址
+    "searchUrl": "https://www.xqmi.top/index.php/vod/search.html?wd={wd}",
+    // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
+    "scVodNode": "//ul[@class='stui-vodlist clearfix']/li/a",
+    "scVodName": "/@title",
+    "scVodId": "/@href",
+    "scVodIdR": "/id/(\\w+).html",
+    "scVodImg": "/@data-original",
+    "scVodMark": "/span[@class='pic-text text-right']/text()"
+}
