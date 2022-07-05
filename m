@@ -63,7 +63,7 @@
 
   "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","xigua","renrenmi","ltnb","CL4K","rx","dmplay","duoduozy","xfyun"],
 
-  "spider": "https://liu673cn.coding.net/p/x/d/mao/git/raw/main/jar/custom_spider.jar",
+  "spider": "https://liu673cn.github.io/mao/jar/custom_spider.jar",
 
   "parses": [
 {"name":"自动解析","type":3,"url":"Demo"},
