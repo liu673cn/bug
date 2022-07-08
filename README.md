@@ -1,4 +1,4 @@
-## 1. TVBox 1.0.0 开发阶段 版本更新频繁，可以等稳定再用，不需要提问报错。 
+## 1. TVBox 1.0.0 开发阶段 版本更新频繁。 
 
 - TVBox 开源版，[GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。
 
