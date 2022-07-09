@@ -9,19 +9,11 @@
 - 设置——配置地址——输入你的站源规则——确定即可；
 
 ### 2. 下载地址
-
  - TVbox开源版---密123  https://tsq.lanzouf.com/b0c4nr91c#123  
-
  - TVbox2022 https://pan.quark.cn/s/4990bab723a1
-
  - 猫影视TV999内置源版  https://pan.lanzoui.com/b0c3cb92f  
 
-### 3. 半自动工具Vivi TV Pro  
-
-- 下载地址： https://wklb258.lanzouu.com/iDv8p0754huj  
-
-### 4. 使用设置  
-
+### 3. 使用设置  
 1). 配置地址---输入站源---确定即可  
 - URL站源规则 `https://shuyuan.miaogongzi.net/shuyuan/1656721538.json`
 
