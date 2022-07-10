@@ -14,7 +14,7 @@
 - URL站源规则 `https://shuyuan.miaogongzi.net/shuyuan/1656721538.json`  
 
 2). 开启存储权限——将源接口文件放到根目录文件夹下  
-- 本地配置规则 clan://localhost/Download/BroWser/  
+- clan://localhost/Download/BroWser/  
 
 3). 自行制作 上传 获取链接
 - https://shuyuan.miaogongzi.net   
