@@ -1,5 +1,5 @@
-### 1. TVBox 开发阶段 版本更新频繁。 
-- TVBox 开源版，[GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
+### 1. TVBox 开源版。 
+- TVBox1.0.0 ，[GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
 - 移植了猫影视V6的内核，可以无缝对接电视直播、影视剧点播站源规则，就是说原来的接口可以直接用。  
 - 本地功能，这个版本也具备了，只需要开启存储权限，在配置地址栏输入本地规则地址即可。  
 - 设置——配置地址——输入你的站源规则——确定即可；  
@@ -15,10 +15,6 @@
 
 2). 开启存储权限——将你的猫影视站源接口文件放到根目录下  
 - 本地配置规则 clan://localhost/Download/BroWser/   
-本地配置地址 (三选一 \ 切换着看) [TVBox.Quark下载](https://pan.quark.cn/s/ac29d8ad60ed) [TVBox.Lanzou下载](https://melor.lanzoub.com/irfJ1071czne)   
-● 本地配置地址1：clan://localhost/TVBox/ts.json    
-● 本地配置地址2：clan://localhost/TVBox/bc.json   
-● 本地配置地址3：clan://localhost/TVBox/xm.json   
 
 3). 自行制作 上传 获取链接
 - https://shuyuan.miaogongzi.net   
