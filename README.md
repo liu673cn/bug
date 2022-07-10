@@ -20,8 +20,8 @@
 ● 本地配置地址2：clan://localhost/TVBox/bc.json   
 ● 本地配置地址3：clan://localhost/TVBox/xm.json   
 
-3). 自行制作 上传
-- https://shuyuan.miaogongzi.net/ 获取链接   
+3). 自行制作 上传 获取链接
+- https://shuyuan.miaogongzi.net   
 
 --------
 ![TVbox01](https://liu673cn.github.io/box/sub/TVbox/TVbox01.jpg) <br />
