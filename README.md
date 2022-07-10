@@ -15,10 +15,10 @@
 
 ### 3. 使用设置  
 1). 配置地址---输入站源---确定即可  
-- URL站源规则 `https://shuyuan.miaogongzi.net/shuyuan/1656721538.json`
+- URL站源规则 `https://shuyuan.miaogongzi.net/shuyuan/1656721538.json`  
 2). 开启存储权限——将你的猫影视站源接口文件放到根目录下  
 - 本地配置规则 clan://localhost/Download/BroWser/   
-本地配置地址 (三选一 \ 切换着看) [TVBox.Quark下载](https://pan.quark.cn/s/ac29d8ad60ed) [TVBox.Lanzou下载](https://melor.lanzoub.com/irfJ1071czne)    
+本地配置地址 (三选一 \ 切换着看) [TVBox.Quark下载](https://pan.quark.cn/s/ac29d8ad60ed) [TVBox.Lanzou下载](https://melor.lanzoub.com/irfJ1071czne)   
 ● 本地配置地址1：clan://localhost/TVBox/ts.json    
 ● 本地配置地址2：clan://localhost/TVBox/bc.json   
 ● 本地配置地址3：clan://localhost/TVBox/xm.json   
