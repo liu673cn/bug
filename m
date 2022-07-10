@@ -37,6 +37,7 @@
 {"key":"csp_biubiu_韩剧在线"    ,"name":"🐛韩剧在线","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/box/sub/biubiu/韩剧在线.json"},
 {"key":"csp_biubiu_akmeiju"    ,"name":"🐛爱看美剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liu673cn.github.io/box/sub/biubiu/akmeiju.json"},
 {"key":"csp_appysv2_gotka"      ,"name":"🐌速播影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
+{"key":"csp_appysv2_9E03"       ,"name":"🐌9E03影视(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_独优影视"   ,"name":"🐌独优影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key":"csp_appysv2_300看世界"  ,"name":"🐌300看世界(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://300ys.xyz/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_钟特影视"   ,"name":"🐌钟特影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.zteys.com/api.php/v1.vod"},
