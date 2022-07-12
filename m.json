@@ -494,17 +494,12 @@
 {"name": "解121","type":1,"url":"https://json.pangujiexi.com:12345/json.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果"]}},
 {"name": "解122","type": 1,"url": "https://www.pangujiexi.com/pangu/?url="}
 ],
-
 "lives": [
 {"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="
 ]}]}],
-
-//"spider":"https://raw.fastgit.org/liu673cn/box/main/jar/custom_spider.jar;md5;B45C4ECEA82BFE22D3E8B86A69E04407",
 "spider":"https://raw.fastgit.org/liu673cn/box/main/jar/spider2207.jar",
-
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
-
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
