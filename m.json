@@ -503,8 +503,8 @@
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9rZHMyLmNvZGluZy5uZXQvcC9rL2Qvay9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="
 ]}]}],
 
-"spider":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/jar/custom_spider.jar;md5;B45C4ECEA82BFE22D3E8B86A69E04407",
-
+//"spider":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/jar/custom_spider.jar;md5;B45C4ECEA82BFE22D3E8B86A69E04407",
+"spider":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/jar/spider0708.jar",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
