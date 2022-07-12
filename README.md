@@ -11,7 +11,7 @@
 
 ### 3. 使用设置  
 1). 配置地址---输入站源---确定即可  
-- URL站源规则 `https://raw.fastgit.org/liu673cn/box/main/m.json`  
+- URL站源规则 `https://liu673cn.github.io/box/m.json`  
 
 2). 开启存储权限——将源接口文件放到根目录文件夹下  
 - clan://localhost/Download/BroWser/  
