@@ -26,7 +26,16 @@
 ![TVbox04](https://liu673cn.github.io/box/sub/TVbox/TVbox04.jpg) <br />
 
 --------
+### 4.TVBox进阶必备利器
+直播源批量检测工具  
+https://tsq.lanzouf.com/b0c4p2fba  
+密码:123  
 
+MXPlayer-Pro-1.46.10高级解锁版  
+https://tsq.lanzouf.com/b0c4p1nyf  
+密码:123  
+
+--------
 ### Github RAW 加速服务
 https://www.7ed.net/#/raw-cdn
 
