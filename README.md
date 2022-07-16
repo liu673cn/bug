@@ -43,13 +43,13 @@ https://raw.githubusercontents.com/   用户/仓库/main(分支)/子目录/txt.t
 https://ghproxy.com/  代理  
 https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json
 
-https://raw.fastgit.org/   用户/仓库/main(分支)/子目录/txt.txt
+https://raw.fastgit.org/
 
-https://raw-gh.gcdn.mirr.one/   用户/仓库/main(分支)/子目录/txt.txt
+https://raw-gh.gcdn.mirr.one/
 
-https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json  镜像站  
+https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 
-https://purge.jsdelivr.net/gh/liu673cn/box@main/m.json  强制刷新  
+https://purge.jsdelivr.net/gh/liu673cn/box@main/m.json
 
 ------
 ### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集，自用请勿宣传。
