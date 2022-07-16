@@ -33,7 +33,7 @@
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
   // 搜索页影片跳转详情页的中间标识链接部分
-  "sousuohouzhui": "/vod/",
+  "sousuohouzhui": "/index.php/vod/detail/id/",
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
   "jspic": "pic",
