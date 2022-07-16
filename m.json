@@ -29,6 +29,7 @@
 {"key":"csp_xpath_xqmi"        ,"name":"🦋小 强 迷(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/sub/xpath/xqmi.json"},
 {"key":"csp_biubiu_小强迷"      ,"name":"🐛小 强 迷","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/sub/biubiu/小强迷.json"},
 {"key":"csp_biubiu_voflix"     ,"name":"✨Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/sub/biubiu/voflix.json"},
+{"key":"csp_biubiu_锐行加速"    ,"name":"🐛锐行加速","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/sub/biubiu/锐行加速.json"},
 {"key":"csp_biubiu_AB影院"      ,"name":"🐛AB影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/sub/biubiu/AB影院.json"},
 {"key":"csp_biubiu_稀饭影视"    ,"name":"🐛稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/sub/biubiu/稀饭影视.json"},
 {"key":"csp_biubiu_达达龟"      ,"name":"🐛达达龟","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/liu673cn/box@main/sub/biubiu/达达龟.json"},
