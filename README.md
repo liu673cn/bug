@@ -40,7 +40,7 @@ https://tsq.lanzouf.com/b0c4p1nyf
 https://www.7ed.net/#/raw-cdn  
 https://raw.githubusercontents.com/   用户/仓库/main(分支)/子目录/txt.txt
 
-https://ghproxy.com/  代理
+https://ghproxy.com/  代理  
 https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json
 
 https://raw.fastgit.org/   用户/仓库/main(分支)/子目录/txt.txt
