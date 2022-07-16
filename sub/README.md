@@ -38,7 +38,7 @@
 ```搜索部分
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=", //------搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
   "sousuohou": "&limit=500",
-  "sousuohouzhui": "/play/", //------搜索页影片跳转详情页的中间标识链接部分
+  "sousuohouzhui": "/hanju/", //------搜索页影片跳转详情页的中间标识链接部分，不是播放页面
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0", 
   "jspic": "pic", 
