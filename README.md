@@ -47,6 +47,8 @@ https://raw.fastgit.org/
 
 https://raw-gh.gcdn.mirr.one/
 
+https://cdn.staticaly.com/gh/liu673cn/box/main/m.json  
+
 https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 
 https://purge.jsdelivr.net/gh/liu673cn/box@main/m.json
