@@ -1,4 +1,4 @@
-#### 1.直播地址需要加密才能使用：首先准备网址https://base64.us/或者其他base64 加解码工具
+#### 1.直播地址需要加密才能使用：首先准备网址https://base64.us/ 或者其他base64 加解码工具
 ![TV01](https://liu673cn.github.io/box/live/img/tv01.jpg) <br />
 
 #### 2.在json文件里找到直播地址即live 这一行，红框内的乱码就是我们要编码内容及被替换内容
