@@ -1,0 +1,260 @@
+{
+  "author": "Tangsan99999",
+  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+  "homeUrl": "https://jumi.tv",
+  "dcVipFlag": "true",
+  "pCfgJs": "https://jumi.tv/static/js/playerconfig.js",
+  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
+  "cateNode": "//ul[contains(@class,'myui-header__menu')]/li/a[contains(@href, 'type') and not(contains(@href, 'label'))]",
+  "cateName": "/text()",
+  "cateId": "/@href",
+  "cateIdR": "/type/(\\w+).html",
+  "cateManual": {},
+  "homeVodNode": "//div[contains(@class, 'col-lg-wide-75')]//ul[contains(@class,'myui-vodlist')]/li//a[contains(@class,'myui-vodlist__thumb')]",
+  "homeVodName": "/@title",
+  "homeVodId": "/@href",
+  "homeVodIdR": "/vod/(\\w+).html",
+  "homeVodImg": "/@data-original",
+  "homeVodImgR": "\\S+(http\\S+)",
+  "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
+  "cateUrl": "https://jumi.tv/show/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html",
+  "cateVodNode": "//ul[contains(@class,'myui-vodlist')]//li//a[contains(@class,'myui-vodlist__thumb')]",
+  "cateVodName": "/@title",
+  "cateVodId": "/@href",
+  "cateVodIdR": "/vod/(\\w+).html",
+  "cateVodImg": "/@data-original",
+  "cateVodImgR": "\\S+(http\\S+)",
+  "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
+  "dtUrl": "https://jumi.tv/vod/{vid}.html",
+  "dtNode": "//div[contains(@class,'col-lg-wide-75')]",
+  "dtName": "//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/@title",
+  "dtNameR": "",
+  "dtImg": "//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/img/@data-original",
+  "dtImgR": "\\S+(http\\S+)",
+  "dtCate": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '分類')]/following-sibling::*/text()",
+  "dtCateR": "",
+  "dtYear": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '年份')]/following-sibling::*/text()",
+  "dtYearR": "",
+  "dtArea": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '地區')]/following-sibling::*/text()",
+  "dtAreaR": "",
+  "dtMark": "",
+  "dtMarkR": "",
+  "dtActor": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::*/text()",
+  "dtActorR": "",
+  "dtDirector": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '導演')]/following-sibling::*/text()",
+  "dtDirectorR": "",
+  "dtDesc": "//span[@class='sketch content']/text()",
+  "dtDescR": "",
+  "dtFromNode": "//a[@data-toggle='tab' and contains(@href, 'playlist')]",
+  "dtFromName": "/text()",
+  "dtFromNameR": "",
+  "dtUrlNode": "//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]",
+  "dtUrlSubNode": "//li/a",
+  "dtUrlId": "@href",
+  "dtUrlIdR": "/play/(\\S+).html",
+  "dtUrlName": "/text()",
+  "dtUrlNameR": "",
+  "playUrl": "https://jumi.tv/play/{playUrl}.html",
+  "playUa": "",
+  "searchUrl": "https://jumi.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "scVodNode": "json:list",
+  "scVodName": "name",
+  "scVodId": "id",
+  "scVodIdR": "",
+  "scVodImg": "pic",
+  "scVodMark": "",
+  "filter": {
+    "1": [
+      {
+        "key": "cateId",
+        "name": "類型",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "動作片","v": "6"},
+          {"n": "喜劇片","v": "7"},
+          {"n": "愛情片","v": "8"},
+          {"n": "科幻片","v": "9"},
+          {"n": "恐怖片","v": "10"},
+          {"n": "劇情片","v": "11"},
+          {"n": "戰爭片","v": "12"},
+          {"n": "紀錄片","v": "20"}
+        ]
+      },
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "大陸","v": "大陸"},
+          {"n": "香港","v": "香港"},
+          {"n": "台灣","v": "台灣"},
+          {"n": "美國","v": "美國"},
+          {"n": "法國","v": "法國"},
+          {"n": "英國","v": "英國"},
+          {"n": "日本","v": "日本"},
+          {"n": "韓國","v": "韓國"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014","v": "2014"},
+          {"n": "2013","v": "2013"},
+          {"n": "2012","v": "2012"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "時間","v": "time"},
+          {"n": "人氣","v": "hits"},
+          {"n": "評分","v": "score"}
+        ]
+      }
+    ],
+    "2": [
+      {
+        "key": "cateId",
+        "name": "分类",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "陸劇","v": "13"},
+          {"n": "韓劇","v": "23"},
+          {"n": "美劇","v": "16"},
+          {"n": "日劇","v": "15"},
+          {"n": "台劇","v": "22"},
+          {"n": "港劇","v": "14"},
+          {"n": "海外劇","v": "24"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014","v": "2014"},
+          {"n": "2013","v": "2013"},
+          {"n": "2012","v": "2012"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "時間","v": "time"},
+          {"n": "人氣","v": "hits"},
+          {"n": "評分","v": "score"}
+        ]
+      }
+    ],
+    "4": [
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "大陸","v": "大陸"},
+          {"n": "香港","v": "香港"},
+          {"n": "台灣","v": "台灣"},
+          {"n": "美國","v": "美國"},
+          {"n": "法國","v": "法國"},
+          {"n": "英國","v": "英國"},
+          {"n": "日本","v": "日本"},
+          {"n": "韓國","v": "韓國"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014","v": "2014"},
+          {"n": "2013","v": "2013"},
+          {"n": "2012","v": "2012"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "時間","v": "time"},
+          {"n": "人氣","v": "hits"},
+          {"n": "評分","v": "score"}
+        ]
+      }
+    ],
+    "3": [
+      {
+        "key": "area",
+        "name": "地区",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "大陸","v": "大陸"},
+          {"n": "香港","v": "香港"},
+          {"n": "台灣","v": "台灣"},
+          {"n": "美國","v": "美國"},
+          {"n": "法國","v": "法國"},
+          {"n": "英國","v": "英國"},
+          {"n": "日本","v": "日本"},
+          {"n": "韓國","v": "韓國"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014","v": "2014"},
+          {"n": "2013","v": "2013"},
+          {"n": "2012","v": "2012"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "時間","v": "time"},
+          {"n": "人氣","v": "hits"},
+          {"n": "評分","v": "score"}
+        ]
+      }
+    ]
+  }
+}
