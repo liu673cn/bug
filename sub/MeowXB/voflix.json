@@ -13,15 +13,15 @@
   // 截取的列表数组是否需要二次截取，0不需要，1需要
   "shifouercijiequ": "1",
   // 二次截取前
-  "jiequqian": "class=\"module-items",
+  "jiequqian": "odule-page",
   // 二次截取后
-  "jiequhou": "footer",
+  "jiequhou": "<div id=\"page\">",
   // 截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
   "jiequshuzuqian": "<a",
   // 列表数组的后关键词
-  "jiequshuzuhou": "</a>",
+  "jiequshuzuhou": "no-referrer",
   // 列表中资源的图片前,后关键词,截取的关键词有 " 的用 \ 进行转义
-  "tupianqian": "original=\"",
+  "tupianqian": "data-original=\"",
   "tupianhou": "\"",
   //列表中资源的标题前,后关键词,截取的关键词有 " 的用 \ 进行转义
   "biaotiqian": "title=\"",
@@ -53,17 +53,17 @@
   "bfjiequqian": "空",
   "bfjiequhou": "空",
   // 播放截取的列表数组的前,后关键词
-  "bfjiequshuzuqian": "class=\"module-play-list",
+  "bfjiequshuzuqian": "class=\"module-list",
   "bfjiequshuzuhou": "</div>",
   // 详情页状态,导演,主演,简介关键词
   "zhuangtaiqian": "更新：</span>",
-  "zhuangtaihou": "</p>",
+  "zhuangtaihou": "</div>",
   "daoyanqian": "导演：</span>",
-  "daoyanhou": "</p>",
+  "daoyanhou": "</div>",
   "zhuyanqian": "主演：</span>",
-  "zhuyanhou": "</p>",
-  "juqingqian": "简介：</span>",
-  "juqinghou": "</a>",
+  "zhuyanhou": "</div>",
+  "juqingqian": "class=\"module-info-introduction-content\"",
+  "juqinghou": "</div>",
   // 截取的播放列表数组是否需要二次截取，0不需要，1需要
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
