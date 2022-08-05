@@ -38,15 +38,16 @@ TVBox的XBiubiu规则
   ```
   ![b01](https://liu673cn.github.io/box/sub/img/xbb02.jpg) <br />
   ------------------
-  ```网站搜索部分
+```网站搜索部分
   // 搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。/vodsearch/-------------.html?wd=
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
   // 搜索页，影片跳转详情页的中间标识链接部分
   "sousuohouzhui": "/detail/",
-  ```
+```
   ![b01](https://liu673cn.github.io/box/sub/img/xbb03.jpg) <br />
-  ------------------
+------------------
+```
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
   "jspic": "pic",
@@ -62,7 +63,8 @@ TVBox的XBiubiu规则
   "ssbiaotihou": "空",
   "sslianjieqian": "空",
   "sslianjiehou": "空",
-   ```播放列表截取
+```
+```播放列表截取
    // 截取的播放列表数组是否需要二次截取，0不需要，1需要，空
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
@@ -70,10 +72,10 @@ TVBox的XBiubiu规则
   // 播放截取的列表数组的前,后关键词
   "bfjiequshuzuqian": "class=\"module-list",
   "bfjiequshuzuhou": "</div>",
-    ```
+```
   ![b01](https://liu673cn.github.io/box/sub/img/xbb04.jpg) <br />
-  ------------------
-   ```详情页状态
+------------------
+```详情页状态
   // 详情页状态,导演,主演,简介关键词
   "zhuangtaiqian": "更新：</span>",
   "zhuangtaihou": "</div>",
@@ -83,9 +85,10 @@ TVBox的XBiubiu规则
   "zhuyanhou": "</div>",
   "juqingqian": "class=\"module-info-introduction-content\"",
   "juqinghou": "</div>",
-    ```
+```
   ![b01](https://liu673cn.github.io/box/sub/img/xbb05.jpg) <br />
   ------------------
+```
   // 播放页是否需要二次截取，0不需要，1需要，空
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
@@ -100,3 +103,4 @@ TVBox的XBiubiu规则
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
 }
+```
