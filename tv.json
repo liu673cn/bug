@@ -86,6 +86,8 @@
 {"key":"csp_xp_lranc","name":"💢天天影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liucn.cc/box/sub/MeowXP/lranc.json"},
 {"key":"csp_xp_dmntv","name":"💢弹幕影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://liucn.cc/box/sub/MeowXP/dmntv.json"},
 //
+{"key":"csp_biubiu_voflix"     ,"name":"✨Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/biubiu/voflix.json"},
+
 {"key":"csp_xbb_美剧虫","name":"🍀美剧虫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liucn.cc/box/sub/MeowXB/美剧虫.json"},
 {"key":"csp_xbb_300影视","name":"🍀300影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liucn.cc/box/sub/MeowXB/300影视.json"},
 {"key":"csp_xbb_zbkyy","name":"🍀真不卡影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://liucn.cc/box/sub/MeowXB/真不卡zbkyy.json"},
