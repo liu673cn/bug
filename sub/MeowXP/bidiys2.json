@@ -8,17 +8,14 @@
   "dcPlayUrl": "true",
   "cateManual": {
     "南瓜电影": "nanguady",
-    "4K专区": "huiyuanzhuanqu",
     "电影": "dianying",
-    //"连续剧": "lianxuju",
-    "国产剧": "guochanju",
-    "港台剧": "gangtaiju",
-    "日韩剧": "rihanju",
-    "欧美剧": "oumeiju",
-    "其他海外": "qita",
-    "日本番剧": "rbdm",
+    "连续剧": "lianxuju",
+    "综艺": "zongyi",
     "动漫": "dongman",
-    "综艺": "zongyi"
+    "国产剧": "guochanju",
+    "欧美剧": "oumeiju",
+    "国漫": "gcdm",
+    "日漫": "rbdm",
   },
 
   "homeVodNode": "//div[@class=('module-item-cover')]",
