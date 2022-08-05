@@ -1,5 +1,4 @@
 {
-  "author":"Tangsan99999",
   "ua": "",
   "homeUrl": "https://dm84.tv",
   "cateNode": "//ul[contains(@class,'nav_row')]/li/a[contains(@href, '.html')]",

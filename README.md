@@ -3,7 +3,7 @@
 - 移植了猫影视V6的内核，可以无缝对接电视直播、影视剧点播站源规则，就是说原来的接口可以直接用。  
 - 本地功能，这个版本也具备了，只需要开启存储权限，在配置地址栏输入本地规则地址即可。  
 - 设置——配置地址——输入你的站源规则——确定即可；  
-
+- 新版支持多jar(爬虫包)。
 ### 2. 下载地址
  - [TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)  
  - [TVbox2022](https://pan.quark.cn/s/4990bab723a1)
@@ -11,7 +11,7 @@
 
 ### 3. 使用设置  
 1). 配置地址---输入站源---确定即可  
-- URL站源规则 `https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json`  
+- URL站源规则 `https://`  
 
 2). 开启存储权限——将源接口文件放到根目录文件夹下  
 - clan://localhost/Download/BroWser/  
@@ -20,10 +20,9 @@
 - [https://shuyuan.miaogongzi.net](https://shuyuan.miaogongzi.net)   
 
 ------
-![TVbox01](https://liu673cn.github.io/box/sub/TVbox/TVbox01.jpg) <br />
-![TVbox02](https://liu673cn.github.io/box/sub/TVbox/TVbox02.jpg) <br />
-![TVbox03](https://liu673cn.github.io/box/sub/TVbox/TVbox03.jpg) <br />
-![TVbox04](https://liu673cn.github.io/box/sub/TVbox/TVbox04.jpg) <br />
+![TVbox01](https://liu673cn.github.io/box/sub/img/box01.jpg) <br />
+![TVbox02](https://liu673cn.github.io/box/sub/img/box02.jpg) <br />
+![TVbox03](https://liu673cn.github.io/box/sub/img/box03.jpg) <br />
 
 ------
 ### 4.TVBox进阶必备利器
@@ -41,15 +40,15 @@ https://www.7ed.net/#/raw-cdn
 https://raw.githubusercontents.com/   用户/仓库/main(分支)/子目录/txt.txt
 
 https://ghproxy.com/  代理  
-https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json
+https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/dc.json
 
 https://raw.fastgit.org/
 
 https://raw-gh.gcdn.mirr.one/
 
-https://cdn.staticaly.com/gh/liu673cn/box/main/m.json  
+https://cdn.staticaly.com/gh/liu673cn/box/main/dc.json  
 
-https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+https://cdn.jsdelivr.net/gh/liu673cn/box@main/dc.json
 
 https://purge.jsdelivr.net/gh/liu673cn/box@main/m.json
 
