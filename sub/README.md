@@ -47,7 +47,7 @@ TVBox的XBiubiu规则
 ```
   ![b01](https://liu673cn.github.io/box/sub/img/xbb03.jpg) <br />
 ------------------
-```
+```搜索参数不用改
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
   "jspic": "pic",
@@ -88,7 +88,7 @@ TVBox的XBiubiu规则
 ```
   ![b01](https://liu673cn.github.io/box/sub/img/xbb05.jpg) <br />
   ------------------
-```
+```播放剧集数组
   // 播放页是否需要二次截取，0不需要，1需要，空
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
