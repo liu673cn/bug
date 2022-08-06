@@ -1,0 +1,152 @@
+{
+  "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+  "homeUrl": "https://omofun.tv",
+  "dcVipFlag": "true",
+  "pCfgJs": "https://omofun.tv/static/js/playerconfig.js",
+  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
+  "cateNode": "",
+  "cateName": "",
+  "cateId": "",
+  "cateIdR": "",
+  "cateManual": {"日漫":"20","剧场版":"23"},
+  "homeVodNode": "//div[contains(@class,'module-poster-items-base')]/a",
+  "homeVodName": "/@title",
+  "homeVodId": "/@href",
+  "homeVodIdR": "/vod/detail/id/(\\w+).html",
+  "homeVodImg": "/div/div[@class='module-item-pic']/img/@data-original",
+  "homeVodImgR": "\\S+(http\\S+)",
+  "homeVodMark": "/div/div[@class='module-item-note']/text()",
+ "cateUrl": "https://omofun.tv/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+  "cateVodNode": "//div[contains(@class,'module-poster-items-base')]/a",
+  "cateVodName": "/@title",
+  "cateVodId": "/@href",
+  "cateVodIdR": "/vod/detail/id/(\\w+).html",
+  "cateVodImg": "/div/div[@class='module-item-pic']/img/@data-original",
+  "cateVodImgR": "\\S+(http\\S+)",
+  "cateVodMark": "/div/div[@class='module-item-note']/text()",
+  "dtUrl": "https://omofun.tv/vod/detail/id/{vid}.html",
+  "dtNode": "//body",
+  "dtName": "//div[contains(@class,'module-info-heading')]/h1/text()",
+  "dtNameR": "",
+  "dtImg": "//div[@class='module-item-pic'][1]/img/@data-original",
+  "dtImgR": "\\S+(http\\S+)",
+  "dtCate": "//div[@class='module-info-tag-link'][3]/a/text()",
+  "dtCateR": "",
+  "dtYear": "//div[@class='module-info-tag-link'][1]/a/text()",
+  "dtYearR": "",
+  "dtArea": "//div[@class='module-info-tag-link'][2]/a/text()",
+  "dtAreaR": "",
+  "dtMark": "",
+  "dtDirector": "//span[contains(text(), '导演')]/following-sibling::div/a/text()",
+  "dtActor": "//span[contains(text(), '主演')]/following-sibling::div/a/text()",
+  "dtDesc": "//div[@class='module-info-introduction-content']/p/text()",
+  "dtFromNode": "//div[contains(@class,'module-tab-item tab-item')]/span",
+  "dtFromName": "/text()",
+  "dtFromNameR": "",
+  "dtUrlNode": "//div[@class='module-play-list']/div",
+  "dtUrlSubNode": "/a",
+  "dtUrlId": "/@href",
+  "dtUrlIdR": "/vod/play/id/(\\S+).html",
+  "dtUrlName": "/span/text()",
+  "dtUrlNameR": "",
+  "playUrl": "https://omofun.tv/vod/play/id/{playUrl}.html",
+  "playUa": "",
+  "searchUrl": "https://omofun.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "scVodNode": "json:list",
+  "scVodName": "name",
+  "scVodId": "id",
+  "scVodIdR": "",
+  "scVodImg": "pic",
+  "scVodMark": "",
+  "filter": {
+    "20": [
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2008","v": "2008"},
+          {"n": "2000","v": "2000"},
+          {"n": "1997","v": "1997"},
+          {"n": "1980","v": "1980"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "时间","v": "time"},
+          {"n": "人气","v": "hits"},
+          {"n": "评分","v": "score"}
+        ]
+      }
+    ],
+    "21": [
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2008","v": "2008"},
+          {"n": "2000","v": "2000"},
+          {"n": "1997","v": "1997"},
+          {"n": "1980","v": "1980"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "时间","v": "time"},
+          {"n": "人气","v": "hits"},
+          {"n": "评分","v": "score"}
+        ]
+      }
+    ],
+    "22": [
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2008","v": "2008"},
+          {"n": "2000","v": "2000"},
+          {"n": "1997","v": "1997"},
+          {"n": "1980","v": "1980"}
+        ]
+      },
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "时间","v": "time"},
+          {"n": "人气","v": "hits"},
+          {"n": "评分","v": "score"}
+        ]
+      }
+    ]
+  }
+}
