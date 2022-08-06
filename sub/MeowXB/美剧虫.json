@@ -1,0 +1,80 @@
+{
+  "author": "220805",
+  "name": "美剧虫",
+  // 填网站链接
+  "url": "https://meijuchong.cc",
+  // 这个不用动，是个别网站播放需要请求头时才用到
+  //"User": "User-Agent:Dart/2.14 (dart:io)",
+  "User": "空",
+  // 首页展示
+  "shouye": "1",
+  // 网站列表的分类              
+  "fenlei": "欧美剧$/vodtype/1-#海外剧$/vodtype/2-#日韩剧$/vodtype/3-#电影$/vodtype/4-",
+  // 网站翻页链接的后缀
+  "houzhui": ".html",
+  // 截取的列表数组是否需要二次截取，0不需要，1需要 空
+  "shifouercijiequ": "0",
+  "jiequqian": "空",
+  "jiequhou": "空",
+  // 截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuqian": "class=\"myui-vodlist__box",
+  "jiequshuzuhou": "</div>",
+  // 列表中资源的图片前,后关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianqian": "original=\"",
+  "tupianhou": "\"",
+  //列表中资源的标题前,后关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotiqian": "title=\"",
+  "biaotihou": "\"",
+  // 列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjieqian": "href=\"",
+  "lianjiehou": "\"",
+  // 搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。/vodsearch/-------------.html?wd=
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  // 搜索页影片跳转详情页的中间标识链接部分，不是播放页面
+  "sousuohouzhui": "/index.php/vod/detail/id/",
+  "ssmoshi": "0",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+  // 截取的播放列表数组是否需要二次截取，0不需要，1需要
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  // 播放截取的列表数组的前,后关键词
+  "bfjiequshuzuqian": "class=\"myui-content__list",
+  "bfjiequshuzuhou": "</div>",
+  // 详情页状态,导演,主演,简介关键词
+  "zhuangtaiqian": "更新：</span>",
+  "zhuangtaihou": "</p>",
+  "daoyanqian": "导演：</span>",
+  "daoyanhou": "</p>",
+  "zhuyanqian": "主演：</span>",
+  "zhuyanhou": "</p>",
+  "juqingqian": "简介：</span>",
+  "juqinghou": "</a>",
+  // 播放页面是否需要二次截取，0不需要，1需要
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  // 播放剧集数组前,后关键词
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  // 播放剧集标题前,后关键词
+  "bfbiaotiqian": ">",
+  "bfbiaotihou": "<",
+  // 播放剧集链接前,后关键词
+  "bflianjieqian": "href=\"",
+  "bflianjiehou": "\""
+}
