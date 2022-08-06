@@ -1,7 +1,7 @@
 // 源地址 -->https://gitea.com/liucn/box/raw/branch/main/m.json
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://gitea.com/liucn/box/raw/branch/main/jar/spider081.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
+"spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/box281.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
 "sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果HD","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
