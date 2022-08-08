@@ -10,8 +10,8 @@
 
 1-4 | 2-5 | 3-6
 ---------|---------|---------
-![box](https://liu673cn.github.io/box/sub/img/jar01.png)1、打开需要导出的包。 | ![Pluto](https://liu673cn.github.io/box/sub/img/jar02.png)2、给他重命名。 | ![box](https://liu673cn.github.io/box/sub/img/jar03.png)3、选中，并导出你需要的文件。
-![Pluto](https://liu673cn.github.io/box/sub/img/jar04.png)4、随便取个名字，自己能找到就行，理解就好。 | ![box](https://liu673cn.github.io/box/sub/img/jar05.png) 5、打开你最终要用的包，导入刚才那个包导出的东西。| ![Pluto](https://liu673cn.github.io/box/sub/img/jar06.png)6、导入完成后的样子。
+![jar](https://liu673cn.github.io/box/sub/img/jar01.png)1、打开需要导出的包。 | ![jar](https://liu673cn.github.io/box/sub/img/jar02.png)2、给他重命名。 | ![jar](https://liu673cn.github.io/box/sub/img/jar03.png)3、选中，并导出你需要的文件。
+![jar](https://liu673cn.github.io/box/sub/img/jar04.png)4、随便取个名字，自己能找到就行，理解就好。 | ![jar](https://liu673cn.github.io/box/sub/img/jar05.png) 5、打开你最终要用的包，导入刚才那个包导出的东西。| ![jar](https://liu673cn.github.io/box/sub/img/jar06.png)6、导入完成后的样子。
 
 另外补充一点，有些api可能不只是需要merge，那种情况就要尝试给parser也改名一起导出，或者api本身还会调用其他api的要一起导出，比如阿里系列api，不是单纯导出一个小纸条就能直接用的，要带着ali，教程大概就是这样，喜欢折腾的朋友就去研究一下，不喜欢折腾的直接用多jar也是可以的。
 
