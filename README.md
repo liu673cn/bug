@@ -24,7 +24,12 @@
 - [https://shuyuan.miaogongzi.net](https://shuyuan.miaogongzi.net)   
 
 ------
-TVbox开源版
+TVbox开源版 |Pluto Player改版
+---------|---------
+![home](https://liu673cn.github.io/box/sub/img/box01.jpg) | ![play](https://liu673cn.github.io/box/sub/img/Pluto01.jpg)
+![home](https://liu673cn.github.io/box/sub/img/box02.jpg) | ![play](https://liu673cn.github.io/box/sub/img/Pluto02.jpg)
+![home](https://liu673cn.github.io/box/sub/img/box03.jpg) | ![play](https://liu673cn.github.io/box/sub/img/Pluto03.jpg)
+------
 ![TVbox01](https://liu673cn.github.io/box/sub/img/box01.jpg) <br />
 ![TVbox02](https://liu673cn.github.io/box/sub/img/box02.jpg) <br />
 ![TVbox03](https://liu673cn.github.io/box/sub/img/box03.jpg) <br />
