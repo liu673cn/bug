@@ -40,13 +40,11 @@ https://liucn.lanzouv.com/i7i5g092us8d
 
 直播源批量检测工具  
 https://liucn.lanzouv.com/ikpYA097ol3a   
-https://tsq.lanzouf.com/b0c4p2fba    
-密码:123  
+https://tsq.lanzouf.com/b0c4p2fba   123  
 
 MXPlayer-Pro-1.46.10高级解锁版   
 https://liucn.lanzouv.com/ipnRI097meoh   
-https://tsq.lanzouf.com/b0c4p1nyf   
-密码:123   
+https://tsq.lanzouf.com/b0c4p1nyf    123   
 
 ------
 ### Github RAW 加速服务
