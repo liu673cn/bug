@@ -9,7 +9,7 @@
    [夸克下载](https://pan.quark.cn/s/4990bab723a1)        
    [TVBox_release_20220806-1756.apk](https://liucn.lanzouv.com/ipnRI097meoh)
 
- - [Pluto Player再开发版](https://pan.quark.cn/s/d5d888f3e25d)        
+ - [Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)        
    [仓库下载](https://github.com/pluto-player/updates)      
    [Pluto Player v1.2.1.apk](https://liucn.lanzouv.com/iqsfK097mesb)
 
@@ -31,11 +31,20 @@ TVbox开源版 |Pluto Player改版
 
 ------
 ### 4.TVBox进阶必备利器
-直播源批量检测工具  
+
+NP管理器-3.0.44-v8a,v7a.apk
+https://liucn.lanzouv.com/iYyvj092us2h
+
+MT.vip管理器.apk 
+https://liucn.lanzouv.com/i7i5g092us8d
+
+直播源批量检测工具
+https://liucn.lanzouv.com/ikpYA097ol3a  
 https://tsq.lanzouf.com/b0c4p2fba  
 密码:123  
 
-MXPlayer-Pro-1.46.10高级解锁版  
+MXPlayer-Pro-1.46.10高级解锁版 
+https://liucn.lanzouv.com/ipnRI097meoh
 https://tsq.lanzouf.com/b0c4p1nyf  
 密码:123  
 
