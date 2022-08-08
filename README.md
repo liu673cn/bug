@@ -6,12 +6,12 @@
 - 新版支持多jar(爬虫包)。
 ### 2. 下载地址
  - [TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)       
- - [夸克下载](https://pan.quark.cn/s/4990bab723a1)        
- - [TVBox_release_20220806-1756.apk](https://liucn.lanzouv.com/ipnRI097meoh)
+   [夸克下载](https://pan.quark.cn/s/4990bab723a1)        
+   [TVBox_release_20220806-1756.apk](https://liucn.lanzouv.com/ipnRI097meoh)
 
  - [Pluto Player再开发版](https://pan.quark.cn/s/d5d888f3e25d)        
- - [仓库下载](https://github.com/pluto-player/updates)      
- - [Pluto Player v1.2.1.apk](https://liucn.lanzouv.com/iqsfK097mesb)
+   [仓库下载](https://github.com/pluto-player/updates)      
+   [Pluto Player v1.2.1.apk](https://liucn.lanzouv.com/iqsfK097mesb)
 
 ### 3. 使用设置  
 1). 配置地址---输入站源---确定即可  
