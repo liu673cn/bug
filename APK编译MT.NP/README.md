@@ -12,8 +12,8 @@
  - 打开 HomeActivity 文件，右上方按钮点开搜索 const-string v5,""
  - 内置的源地址输入到" "引号中就完成了内置源。按 Esc 保存并退出，最后点安装包 “功能” 签名
 
- 内置链接方法 | 改软件图标
+ 123 | 456
  ---------|---------
-![box](https://liu673cn.github.io/box/sub/img/box01.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto01.jpg)
-![box](https://liu673cn.github.io/box/sub/img/box02.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto02.jpg)
-![box](https://liu673cn.github.io/box/sub/img/box03.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto03.jpg)
+![box](https://liu673cn.github.io/box/sub/img/mt01.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/mt04.jpg)
+![box](https://liu673cn.github.io/box/sub/img/mt02.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/mt05.jpg)
+![box](https://liu673cn.github.io/box/sub/img/mt03.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/mt06.jpg)
