@@ -19,4 +19,4 @@
 ![box](https://liu673cn.github.io/box/sub/img/mt03.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/mt06.jpg)
 
 ---------
-### 分享他人的教学，实际操作可成。
+### 分享他人的教学，实操可成。
