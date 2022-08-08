@@ -33,7 +33,8 @@ TVbox开源版 |Pluto Player改版
 ### 4.TVBox进阶必备利器 
 
 NP管理器-3.0.44-v8a,v7a.apk   
-[https://liucn.lanzouv.com/iYyvj092us2h](https://liucn.lanzouv.com/iYyvj092us2h)
+[https://wwn.lanzouj.com/im1yy096b8id](https://wwn.lanzouj.com/im1yy096b8id)
+[https://liucn.lanzouv.com/iYyvj092us2h](https://liucn.lanzouv.com/iYyvj092us2h) 
 
 MT.vip管理器.apk  
 [https://liucn.lanzouv.com/i7i5g092us8d](https://liucn.lanzouv.com/i7i5g092us8d)
