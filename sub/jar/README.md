@@ -8,8 +8,7 @@
 
 多试几次，关键是找个好用的MT或者NP。不是你不会，是因为你的MT或着NP没那个功能。
 
-TVbox开源版 |Pluto Player改版
----------|---------
-![box](https://liu673cn.github.io/box/sub/img/box01.jpg)1、打开需要导出的包： | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto01.jpg)2、给他重命名：
-![box](https://liu673cn.github.io/box/sub/img/box02.jpg)3、选中，并导出你需要的文件： | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto02.jpg)4、随便取个名字，自己能找到就行，理解就好。
-![box](https://liu673cn.github.io/box/sub/img/box03.jpg) 5、打开你最终要用的包，导入刚才那个包导出的东西。| ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto03.jpg)6、导入完成后的样子：
+TVbox开源版 | Pluto Player改版 | Player改版
+---------|---------|---------
+![box](https://liu673cn.github.io/box/sub/img/box01.jpg)1、打开需要导出的包： | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto01.jpg)2、给他重命名： | ![box](https://liu673cn.github.io/box/sub/img/box02.jpg)3、选中，并导出你需要的文件：
+![Pluto](https://liu673cn.github.io/box/sub/img/Pluto02.jpg)4、随便取个名字，自己能找到就行，理解就好。 | ![box](https://liu673cn.github.io/box/sub/img/box03.jpg) 5、打开你最终要用的包，导入刚才那个包导出的东西。| ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto03.jpg)6、导入完成后的样子：
