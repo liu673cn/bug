@@ -30,23 +30,23 @@ TVbox开源版 |Pluto Player改版
 ![box](https://liu673cn.github.io/box/sub/img/box03.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto03.jpg)
 
 ------
-### 4.TVBox进阶必备利器
+### 4.TVBox进阶必备利器 
 
-NP管理器-3.0.44-v8a,v7a.apk
-https://liucn.lanzouv.com/iYyvj092us2h
+NP管理器-3.0.44-v8a,v7a.apk   
+https://liucn.lanzouv.com/iYyvj092us2h   
 
-MT.vip管理器.apk 
-https://liucn.lanzouv.com/i7i5g092us8d
+MT.vip管理器.apk  
+https://liucn.lanzouv.com/i7i5g092us8d   
 
-直播源批量检测工具
-https://liucn.lanzouv.com/ikpYA097ol3a  
-https://tsq.lanzouf.com/b0c4p2fba  
+直播源批量检测工具  
+https://liucn.lanzouv.com/ikpYA097ol3a   
+https://tsq.lanzouf.com/b0c4p2fba    
 密码:123  
 
-MXPlayer-Pro-1.46.10高级解锁版 
-https://liucn.lanzouv.com/ipnRI097meoh
-https://tsq.lanzouf.com/b0c4p1nyf  
-密码:123  
+MXPlayer-Pro-1.46.10高级解锁版   
+https://liucn.lanzouv.com/ipnRI097meoh   
+https://tsq.lanzouf.com/b0c4p1nyf   
+密码:123   
 
 ------
 ### Github RAW 加速服务
