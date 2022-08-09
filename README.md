@@ -11,7 +11,7 @@
 
  - [Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)        
    [仓库下载](https://github.com/pluto-player/updates)      
-   [Pluto Player v1.2.1.apk](https://liucn.lanzouv.com/iqsfK097mesb)
+   [Pluto Player v1.2.2.apk](https://liucn.lanzouv.com/igzmw099854b)
 
 ### 3. 使用设置  
 1). 配置地址---输入站源---确定即可  
