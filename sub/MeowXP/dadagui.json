@@ -1,7 +1,7 @@
 {
   "author": "Tangsan99999",
   "ua": "",
-  "homeUrl": "http://www.dadagui.com/",
+  "homeUrl": "https://www.dadagui.me/",  //永久网址: dadagui.vip
   "dcVipFlag": "true",
   "dcPlayUrl": "true",
   "cateNode": "//ul[contains(@class,'stui-header__menu')]/li/a[contains(@href, 'vodtype')and not(contains(@href,'20'))]",
