@@ -1,3 +1,12 @@
+### TVBox进阶必备利器 
+
+直播源搜索  
+[https://foodieguide.com/iptvsearch/](https://foodieguide.com/iptvsearch/)  
+
+直播源批量检测工具  
+[https://liucn.lanzouv.com/ikpYA097ol3a](https://liucn.lanzouv.com/ikpYA097ol3a)  
+[https://tsq.lanzouf.com/b0c4p2fba](https://tsq.lanzouf.com/b0c4p2fba) 密 123  
+
 #### 1.直播地址需要加密才能使用：首先准备网址https://base64.us/ 或者其他base64 加解码工具
 ![TV01](https://liu673cn.github.io/box/sub/img/tv01.jpg) <br />
 
