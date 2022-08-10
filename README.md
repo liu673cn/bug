@@ -12,8 +12,7 @@
  [TVBox_release_20220806-1756.apk](https://liucn.lanzouv.com/ipnRI097meoh) <br />
  - [Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d) <br />
  - [仓库下载](https://github.com/pluto-player/updates) <br />
- - [Pluto Player v1.2.2.apk](https://liucn.lanzouv.com/igzmw099854b) | 
-!- 1). 配置地址---输入站源---确定即可 <br />
+ - [Pluto Player v1.2.2.apk](https://liucn.lanzouv.com/igzmw099854b) | ! - 1). 配置地址---输入站源---确定即可 <br />
    URL站源规则 `https://liucn.cc/box/m.json` <br />
  - 2). 开启存储权限——将源接口文件放到根目录文件夹下 <br />
    clan://localhost/Download/BroWser/ <br />
