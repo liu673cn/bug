@@ -7,7 +7,7 @@
 
 下载地址 | 使用设置 
 ---------|---------
-- [TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123) <br /> [夸克下载](https://pan.quark.cn/s/4990bab723a1) <br />[TVBox_release_20220806-1756.apk](https://liucn.lanzouv.com/ipnRI097meoh) <br />- [Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d) <br />- [仓库下载](https://github.com/pluto-player/updates) <br />- [Pluto Player v1.2.2.apk](https://liucn.lanzouv.com/igzmw099854b) | ! - 1). 配置地址---输入站源---确定即可 <br />URL站源规则 `https://liucn.cc/box/m.json` <br />- 2). 开启存储权限——将源接口文件放到根目录文件夹下 <br />clan://localhost/Download/BroWser/ <br /> - 3). 自行制作 上传 获取链接 <br />- [https://shuyuan.miaogongzi.net](https://shuyuan.miaogongzi.net)   
+ !- [TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123) <br /> [夸克下载](https://pan.quark.cn/s/4990bab723a1) <br />[TVBox_release_20220806-1756.apk](https://liucn.lanzouv.com/ipnRI097meoh) <br />- [Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d) <br />- [仓库下载](https://github.com/pluto-player/updates) <br />- [Pluto Player v1.2.2.apk](https://liucn.lanzouv.com/igzmw099854b) | !- 1). 配置地址---输入站源---确定即可 <br />URL站源规则 `https://liucn.cc/box/m.json` <br />- 2). 开启存储权限——将源接口文件放到根目录文件夹下 <br />clan://localhost/Download/BroWser/ <br /> - 3). 自行制作 上传 获取链接 <br />- [https://shuyuan.miaogongzi.net](https://shuyuan.miaogongzi.net)   
 
 TVbox开源版 |Pluto Player改版
 ---------|---------
