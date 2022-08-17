@@ -43,7 +43,6 @@
 {"key":"csp_xp_yinghua","name":"💢樱花动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/yinghua.json"},
 {"key":"csp_xp_dmw","name":"💢动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/dmw.json"},
 {"key":"csp_xp_omofun","name": "💢omofun日漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/omofun.json"},
-{"key":"csp_xp_xiaoxiong","name":"💢小熊影视📵","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/xiaoxiong.json"},
 {"key":"csp_xp_bttwoo","name":"💢两个BT","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/bttwoo.json"},
 {"key":"csp_xp_libv","name":"💢Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/libv.json"},
 {"key":"csp_xp_zxzj2","name":"💢在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/zxzj2.json"},
@@ -56,7 +55,7 @@
 {"key":"csp_xp_vip1280","name":"💢VIP电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/vip1280.json"},
 {"key":"csp_xp_Gimy","name": "💢Gimy影院","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/Gimy2.json"},
 {"key":"csp_xp_lezhutv","name":"💢乐猪TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/lezhutv.json"},
-{"key":"csp_xp_ddg","name":"💢达达龟📵","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/dadagui.json"},
+{"key":"csp_xp_ddg","name":"💢达达龟","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/dadagui.json"},
 {"key":"csp_xp_jbb","name":"💢剧白白","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/jubaibai.json"},
 {"key":"csp_xp_saohuo","name":"💢骚火电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/saohuotv.json"},
 {"key":"csp_xp_xqmi","name":"💢小 强 迷","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/xqmi.json"},
@@ -200,13 +199,6 @@
 {"key":"csp_xbb_伊雪湾","name":"🍀伊雪湾","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/伊雪湾.json"},
 {"key":"csp_xbb_极品影视","name":"🍀极品影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/极品影视.json"},
 {"key":"csp_xbb_139影视","name":"🍀139影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/139影视.json"}, 
-
-//
-{"key":"csp_xbb_思古影视","name":"🍀！！思古影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/思古影视2.json"},
-{"key":"csp_xbb_影视之光","name":"🍀！！影视之光","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/影视之光.json"},
-{"key": "csp_xbb_神马dyy","name":"🍀神马dyy📵","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/神马dyy.json"},
-{"key":"csp_xbb_小熊影视","name":"🍀小熊影视📵","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/小熊影视.json"},
-
 //
 {"key":"csp_app_天空TV","name":"🐌天空TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
 {"key":"csp_app_1080KK","name":"🐌1080KK","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.250idc.com/mogai_api.php/v1.vod"},
