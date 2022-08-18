@@ -1,4 +1,4 @@
-// 源地址 -->https://liucn/box/m.json
+// 源地址 -->https://liucn.cc/box/m.json
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/box285.jar;md5;34ED41FF20791444998C5C9D3476131B",
@@ -272,7 +272,7 @@
 {"name":"QIM解01","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=ogGC18CjsACNo60r3E&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"QIM解02","type":1,"url":"http://106.52.218.221:88/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"QIM解03","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
-{"name":"GGTV","type": 1,"url":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="}
+{"name":"GGTV","type": 1,"url":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="},
 {"name":"QIM解05","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"QIM解06","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"QIM解07","type":0,"url":"https://www.8090.la/8090/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
