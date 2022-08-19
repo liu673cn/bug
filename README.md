@@ -1,13 +1,13 @@
 ### TVBox 开源版
-- TVBox1.0.0 ，[GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
-- 移植了猫影视V6的内核，可以无缝对接电视直播、影视剧点播站源规则，就是说原来的接口可以直接用。  
+- TVBox1.0.0  [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
+- 移植了猫影视V6的内核, 可以无缝对接电视直播、影视剧点播站源规则, 就是说原来的接口可以直接用。  
 - 本地功能，这个版本也具备了，只需要开启存储权限，在配置地址栏输入本地规则地址即可。  
 - 设置——配置地址——输入你的站源规则——确定即可；  
 - 新版支持多jar(爬虫包)。
 
 下载地址 | 使用设置 
 ---------|---------
-! [TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)<br />[夸克下载](https://pan.quark.cn/s/4990bab723a1)<br />[TVBox_release_20220806-1756.apk](https://liucn.lanzouv.com/ipnRI097meoh)<br />　<br />! [Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)<br />[仓库下载](https://github.com/pluto-player/updates) <br />[Pluto Player v1.2.2.apk](https://liucn.lanzouv.com/igzmw099854b) |! 1). 配置地址---输入站源---确定即可<br /> URL站源规则 `https://liucn.cc/box/m.json` <br /> 2). 开启存储权限——将源接口文件放到根目录文件夹下<br /> `clan://localhost/box/m.json`<br /> 3). 自行制作上传 获取链接<br /> [https://shuyuan.miaogongzi.net](https://shuyuan.miaogongzi.net)   
+! [TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)<br />[夸克下载](https://pan.quark.cn/s/4990bab723a1)<br />[TVBox_release_20220806-1756.apk](https://liucn.lanzouv.com/ipnRI097meoh)<br />-<br />! [Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)<br />[仓库下载](https://github.com/pluto-player/updates) <br />[Pluto Player v1.2.2.apk](https://liucn.lanzouv.com/igzmw099854b) |! 1). 配置地址---输入站源---确定即可<br /> URL站源规则 `https://liucn.cc/box/m.json` <br /> 2). 开启存储权限——将源接口文件放到根目录文件夹下<br /> `clan://localhost/box/m.json`<br /> 3). 自行制作上传 获取链接<br /> [https://shuyuan.miaogongzi.net](https://shuyuan.miaogongzi.net)   
 
 TVbox开源版 |Pluto Player改版
 ---------|---------
