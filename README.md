@@ -11,9 +11,9 @@
 
 TVbox开源版 |Pluto Player改版
 ---------|---------
-![box](https://liu673cn.github.io/box/sub/img/box01.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto01.jpg)
-![box](https://liu673cn.github.io/box/sub/img/box02.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto02.jpg)
-![box](https://liu673cn.github.io/box/sub/img/box03.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto03.jpg)
+![box]([https://raw.iqiq.io/liu673cn/box/main/sub/img/box01.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto01.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box02.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto02.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box03.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto03.jpg)
 
 MXPlayer-Pro-1.46.10高级解锁版   
 [https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
