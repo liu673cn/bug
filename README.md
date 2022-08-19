@@ -7,13 +7,13 @@
 
 下载地址 | 使用设置 
 ---------|---------
-! [TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)<br />[夸克下载](https://pan.quark.cn/s/4990bab723a1)<br />[TVBox_release_20220806-1756.apk](https://liucn.lanzouv.com/ipnRI097meoh)<br />-<br />! [Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)<br />[仓库下载](https://github.com/pluto-player/updates) <br />[Pluto Player v1.2.2.apk](https://liucn.lanzouv.com/igzmw099854b) |! 1). 配置地址---输入站源---确定即可<br /> URL站源规则 `https://liucn.cc/box/m.json` <br /> 2). 开启存储权限——将源接口文件放到根目录文件夹下<br /> `clan://localhost/box/m.json`<br /> 3). 自行制作上传 获取链接<br /> [https://shuyuan.miaogongzi.net](https://shuyuan.miaogongzi.net)   
+! [TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)<br />[夸克下载](https://pan.quark.cn/s/4990bab723a1)<br />[TVBox_release_20220806-1756.apk](https://liucn.lanzouv.com/ipnRI097meoh)<br />-<br />! [Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)<br />[仓库下载](https://github.com/pluto-player/updates) <br />[Pluto Player v1.2.2.apk](https://liucn.lanzouv.com/igzmw099854b) |! 1). 配置地址---输入站源---确定即可<br /> URL站源规则 `https://liu673cn.github.io/box/m.json` <br /> 2). 开启存储权限——将源接口文件放到根目录文件夹下<br /> `clan://localhost/box/m.json`<br /> 3). 自行制作上传 获取链接<br /> [https://shuyuan.miaogongzi.net](https://shuyuan.miaogongzi.net)   
 
 TVbox开源版 |Pluto Player改版
 ---------|---------
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box01.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto01.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box02.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto02.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box03.jpg) | ![Pluto](https://liu673cn.github.io/box/sub/img/Pluto03.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box01.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto01.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box02.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto02.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box03.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto03.jpg)
 
 MXPlayer-Pro-1.46.10高级解锁版   
 [https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
