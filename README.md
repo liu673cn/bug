@@ -22,20 +22,23 @@ MXPlayer-Pro-1.46.10高级解锁版
 ------
 ### Github RAW 加速服务
 https://www.7ed.net/#/raw-cdn  
-https://raw.githubusercontents.com/   用户/仓库/main(分支)/子目录/txt.txt
+`https://raw.githubusercontents.com/用户/仓库/main(分支)/子目录/txt.txt`
 
 https://ghproxy.com/  代理  
-https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/dc.json
+`https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/dc.json`
 
-https://raw.fastgit.org/
+`https://raw.iqiq.io/liu673cn/box/main/m.json`
 
-https://raw-gh.gcdn.mirr.one/
+`https://raw.fastgit.org/`
 
-https://cdn.staticaly.com/gh/liu673cn/box/main/dc.json  
+`https://raw-gh.gcdn.mirr.one/`
 
-https://cdn.jsdelivr.net/gh/liu673cn/box@main/dc.json
+### Github 静态加速  
+`https://cdn.staticaly.com/gh/liu673cn/box/main/m.json`  
 
-https://purge.jsdelivr.net/gh/liu673cn/box@main/m.json
+`https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json`  
+
+`https://purge.jsdelivr.net/gh/`  
 
 ------
 ### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集[box](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv?tab=BB08J2)，自用请勿宣传。
