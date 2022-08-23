@@ -360,8 +360,7 @@
 {
 "name": "redirect",
 "urls": [
-//"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9saXVjbi5jYy9ib3gvc3ViL2xpdmUvdHYudHh0"
+"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
 ]}]}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
