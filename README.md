@@ -20,6 +20,17 @@ MXPlayer-Pro-1.46.10高级解锁版
 [https://tsq.lanzouf.com/b0c4p1nyf](https://tsq.lanzouf.com/b0c4p1nyf) 密 123   
 
 ------
+### 开源仓库
+https://github.com/  
+https://gitlab.com/  
+
+https://gitee.com/  
+https://coding.net/  
+
+https://gitea.com/  
+https://agit.ai/  
+https://notabug.org/  
+------
 ### Github RAW 加速服务
 https://www.7ed.net/#/raw-cdn  
 `https://raw.githubusercontents.com/用户/仓库/main(分支)/子目录/txt.txt`
