@@ -27,7 +27,7 @@ https://gitlab.com/
 https://gitee.com/  
 https://coding.net/  
 
-https://gitcode.net/
+https://gitcode.net/  
 https://gitea.com/  
 https://agit.ai/  
 https://notabug.org/  
