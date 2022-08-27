@@ -1,6 +1,6 @@
 // 源地址 -->https://raw.liucn.cc/dc.json
 {
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
+"wallpaper":"https://liucn.cc/img",
 "spider":"https://raw.liucn.cc/sub/jar/0820.jar;md5;F49657B939A9134AD6B947CCB9390E99",
 "sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
