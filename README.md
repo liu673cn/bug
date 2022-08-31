@@ -6,11 +6,11 @@
 - 新版支持多jar(爬虫包)。
 
 ### 版本
-- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico01.jpg) 官方仓库生成 - [TVBox_20220827-原版.apk](https://liucn.lanzouv.com/iEg2Q0am6t9c)
+- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1.jpg) 官方仓库生成 - [TVBox_20220827-原版.apk](https://liucn.lanzouv.com/iEg2Q0am6t9c)
 
-- 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico02.jpg) 新UI部分区别- [TVBox_20220829-新UI-taken.apk](https://liucn.lanzouv.com/iuQVo0am6tha)
+- 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2.jpg) 新UI部分区别- [TVBox_20220829-新UI-taken.apk](https://liucn.lanzouv.com/iuQVo0am6tha)
 
-- 3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico03.jpg) 二次开发版 - [Pluto Player_1.3.2.apk](https://liucn.lanzouv.com/iMSBV0am6t7a)
+- 3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3.jpg) 二次开发版 - [Pluto Player_1.3.2.apk](https://liucn.lanzouv.com/iMSBV0am6t7a)
 
 
 下载地址 | 使用设置 
@@ -20,9 +20,9 @@
 
 TVbox开源版 |Pluto Player改版
 ---------|---------
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box01.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto01.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box02.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto02.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box03.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto03.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box1.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto1.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box2.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto2.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box3.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto3.jpg)
 
 MXPlayer-Pro-1.46.10高级解锁版   
 [https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
