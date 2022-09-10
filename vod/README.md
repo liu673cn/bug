@@ -1,7 +1,8 @@
 ## emoji表情无法查看或者黑白图，请安装Microsoft Edge或者chrome浏览器的64位版本
 
 欢迎来到emoji大自然王国，这里汇聚了各种动物和植物，天上飞的🦅，地上走的🦖，水里游的🐬，甚至路边的小野花🌼......应有尽有！更有意思的是，有的emoji还带有特殊含义🐒。浏览这一分类的emoji就像在逛动物园和植物园，🐼🎋有没有感受到它们的可爱呢？动植物爱好者别错过，跟我一起继续逛吧🌻。
-https://www.emojiall.com/zh-hans/categories/D
+https://www.emojiall.com/zh-hans/categories/D  
+https://funletu.com/emoji/  
 
 🦄️ 🐞 🏮 🐼 🐯 🦊 🐱 🐘 🦖 🐉 🐇 🐤 🦟 🐷 🐔 🐻 🐶 🍤 🐴 🐒 🦢 🐂 🐄 🐎 🐌 🐢 🦑 🐟 🐬 🐣 🧠 💯 ✔️  🈚 🉑 ⚠️ 👍  
 
