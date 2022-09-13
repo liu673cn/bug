@@ -1,22 +1,22 @@
 ### TVBox 开源版
-- TVBox1.0.0  [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
-- 移植了猫影视V6的内核, 可以无缝对接电视直播、影视剧点播站源规则, 就是说原来的接口可以直接用。  
-- 本地功能，这个版本也具备了，只需要开启存储权限，在配置地址栏输入本地规则地址即可。  
-- 设置——配置地址——输入你的站源规则——确定即可；  
+- TVBox [GitHub社区](https://github.com/CatVodTVOfficial/TVBoxOSC) 根据官方代码仓生成的安卓应用。  
+- 通过导入特点资源接口，解析各类爬虫源、XP源、采集源等。完全无任何限制，也无任何广告。  
+- 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
+- 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
+- 设置 — 配置地址 — 输入你的站源规则 — 确定即可；  
 - 新版支持多jar(爬虫包)。
 
 ### 版本
-- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20220827_原版.apk](https://liucn.lanzouv.com/iEg2Q0am6t9c)
+- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20220906-2035.apk](https://liucn.lanzouv.com/iqv8h0bai95e)
 
-- 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20220829_taken.apk](https://liucn.lanzouv.com/iuQVo0am6tha)
+- 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20220904-1210_taka.apk](https://liucn.lanzouv.com/iJEnT0bai8yh)
 
-- 3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3_50.jpg) 二次开发改版 - [Pluto_20220821_1.3.2.apk](https://liucn.lanzouv.com/iMSBV0am6t7a)
+- 3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3_50.jpg) 二次开发改版 - [Pluto-Player_v1.3.5正式版.apk](https://liucn.lanzouv.com/iT4FQ0bai8mf)
 
 
 下载地址 | 使用设置 
 ---------|---------
-! [TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)<br />[夸克下载](https://pan.quark.cn/s/4990bab723a1)<br />一一一一一一一一一一一一一一一一一一一一一一一一一一<br />! [Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)<br />[仓库下载](https://github.com/pluto-player/updates) |! 1). 配置地址---输入站源---确定即可<br /> URL站源规则 `https://raw.liucn.cc/m.json` <br />一一一一一一一一一一一一一一一一一一一一一一一一一一<br />2). 开启存储权限——将源接口文件放到根目录文件夹下<br /> `clan://localhost/box/m.json`<br />一一一一一一一一一一一一一一一一一一一一一一一一一一<br />3). 自行复刻、新建仓库、制作上传 获取链接<br /> 无法使用 `https://shuyuan.miaogongzi.net` 
-
+! [TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)<br />[夸克下载](https://pan.quark.cn/s/4990bab723a1)<br />一一一一一一一一一一一一一一一一一一一一一一一一<br />! [Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)<br />[仓库下载](https://github.com/pluto-player/updates) |! 1). 配置地址---输入站源---确定即可<br /> URL站源规则 `https://raw.liucn.cc/box/m.json` <br />一一一一一一一一一一一一一一一一一一一一一一一一<br />2). 开启存储权限——将源接口文件放到根目录文件夹下<br /> `clan://localhost/box/m.json`<br />一一一一一一一一一一一一一一一一一一一一一一一一<br />3). 自行复刻、新建仓库、制作上传 获取链接<br />   
 
 TVbox开源版 |Pluto Player改版
 ---------|---------
