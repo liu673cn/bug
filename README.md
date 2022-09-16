@@ -7,11 +7,11 @@
 - 新版支持多jar(爬虫包)。
 
 ### 版本
-- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20220906-2035.apk](https://liucn.lanzouv.com/iqv8h0bai95e)
+- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20220915-1102.apk](https://liucn.lanzouv.com/ir5rq0bs3z4h)
 
-- 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20220904-1210_taka.apk](https://liucn.lanzouv.com/iJEnT0bai8yh)
+- 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20220911-2350-taken.apk](https://liucn.lanzouv.com/iYCjl0bs4d0h)
 
-- 3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3_50.jpg) 二次开发改版 - [Pluto-Player_v1.3.5正式版.apk](https://liucn.lanzouv.com/iT4FQ0bai8mf)
+- 3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3_50.jpg) 二次开发改版 - [Pluto-Player_v1.4.2正式版.apk](https://liucn.lanzouv.com/iZLZw0bs4vje)
 
 
 下载地址 | 使用设置 
