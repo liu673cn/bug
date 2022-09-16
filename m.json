@@ -1,6 +1,4 @@
-// 源地址 -->https://gitea.com/liucn/box/raw/branch/main/m.json
-{
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
+{"wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://gitea.com/liucn/box/raw/branch/main/sub/jar/0907.jar;md5;A36B59197A5AC083D5F8D59DCA01F2F8",
 "sites": [
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
