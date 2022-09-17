@@ -44,6 +44,7 @@
 {"key":"csp_Bili热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/女团.txt"},
 {"key":"csp_Bili相声","name":"🏮相声小品","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/相声.txt"},
 {"key":"csp_Bili戏曲","name":"🎈国粹戏曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/戏曲.txt"},
+{"key":"csp_xml_ck","name":"🎀CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","记录片","犯罪片","奇幻片","电视剧","国产剧","欧美剧","日韩剧","港台剧"]},
 {"key":"csp_xbb_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/斗鱼.json"},
 {"key":"csp_xp_huya","name":"🐯虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/虎牙.json"},
 {"key":"csp_xp_酷奇mv","name":"📺酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/酷奇MV.json"},
