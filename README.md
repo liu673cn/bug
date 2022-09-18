@@ -16,7 +16,7 @@
 
 下载地址 | 使用设置 
 ---------|---------
-! [TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)<br />[夸克下载](https://pan.quark.cn/s/4990bab723a1)<br />一一一一一一一一一一一一一一一一一一一一一一一一<br />! [Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)<br />[仓库下载](https://github.com/pluto-player/updates) |! 1). 配置地址---输入站源---确定即可<br /> URL站源规则 `https://raw.liucn.cc/box/m.json` <br />一一一一一一一一一一一一一一一一一一一一一一一一<br />2). 开启存储权限——将源接口文件放到根目录文件夹下<br /> `资源更新快，几乎没人用这个方法`<br />一一一一一一一一一一一一一一一一一一一一一一一一<br />3). 自行复刻、新建仓库、制作上传 获取链接<br />   
+! [TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)<br />[夸克下载](https://pan.quark.cn/s/4990bab723a1)<br />一一一一一一一一一一一一一一一一一一一一一一一一<br />! [Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)<br />[仓库下载](https://github.com/pluto-player/updates) |! 1). 配置地址---输入站源---确定即可<br /> URL站源规则 `https://raw.liucn.cc/box/m.json` <br />一一一一一一一一一一一一一一一一一一一一一一一一<br />2). 开启存储权限——将源接口文件放到根目录文件夹下<br /> `资源更新快，几乎没人用这个方法`<br />一一一一一一一一一一一一一一一一一一一一一一一一<br />3). 自行复刻、新建仓库、制作上传 获取链接<br />  `别忘记改源地址，防止不能使用` 
 
 TVbox开源版 |Pluto Player改版
 ---------|---------
