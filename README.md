@@ -37,7 +37,7 @@ https://gitee.com/
 https://coding.net/  
 
 https://gitcode.net/  
-https://gitea.com/  仓库名是 mao,tvbox,box,tv等类似的，有几率出现下列情况 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单
+https://gitea.com/  仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单  
 https://agit.ai/  
 https://notabug.org/  
 
