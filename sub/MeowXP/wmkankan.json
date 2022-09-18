@@ -1,7 +1,7 @@
 {
     "author": "春风",
     "ua": "",
-    "homeUrl": "http://www.wanmeikk.me/",
+    "homeUrl": "http://www.wanmeikk.me/",   //https://www.wanmeikk.film
     "dcVipFlag": "true",
     "pCfgJs": "http://www.wanmeikk.me/static/js/playerconfig.js",
     "pCfgJsR": "MacPlayerConfig.player_list=([\\w\\W]*?),MacPlayerConfig.downer_list=",
