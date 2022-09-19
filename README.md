@@ -49,12 +49,18 @@ https://www.7ed.net/#/raw-cdn
 https://ghproxy.com/  代理  
 `https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json`
 
-`https://raw.iqiq.io/liu673cn/box/main/m.json`
+源码   `https://gitcdn.top/https://github.com/liu673cn/box/raw/main/m.json`
+香港   `https://raw.iqiq.io/liu673cn/box/main/m.json`
+新加坡 `https://raw.kgithub.com/liu673cn/box/main/m.json`
 
-https://doc.fastgit.org/zh-cn/guide.html#ssh-操作  
-`https://raw.fastgit.org/`
+`https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json`
+`https://cdn.staticaly.com/gh/liu673cn/box/main/m.json`
+`https://raw.fastgit.org/liu673cn/box/main/m.json`
+`https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json`
+`https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json`
 
-`https://raw-gh.gcdn.mirr.one/`
+`https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json`
+`https://raw.githubusercontents.com/liu673cn/box/main/m.json`
 
 ### Github 静态加速  
 `https://cdn.staticaly.com/gh/liu673cn/box/main/m.json`  
