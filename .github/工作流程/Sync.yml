@@ -1,18 +1,18 @@
-# .github/workflows/sync.yml
-name: Sync Fork
-
 on:
-  push: # push 时触发, 主要是为了测试配置有没有问题
-  schedule:
-    - cron: '*/5 * * * *' # 每5分钟触发, 对于一些更新不那么频繁的项目可以设置为每天一次, 低碳一点
-  workflow_dispatch: # on button click
+  push:
+    branches:
+      -master
+
 jobs:
-  repo-sync:
+  update_external_airflow_fork:
     runs-on: ubuntu-latest
     steps:
-      - uses: tgymnich/fork-sync@v1.2.1
+      - uses: TobKed/github-forks-sync-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          owner: box # fork 的上游仓库 user
-          head: main # fork 的上游仓库 branch
-          base: main # 本地仓库 branch
+          github_token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }} # 令牌
+          upstream_repository: liu673cn/box  # 上游仓库
+          target_repository: woshishiq1/mao  # 你要推送的仓库
+          upstream_branch: master  # 默认是拉取上游仓库的master分支
+          target_branch: master  # 默认推送到你的仓库master分支
+          force: true  # 是否强制推送
+          tags: true  # 确定是否使用-tags
