@@ -1,13 +1,11 @@
 name: Sync all branches
 on:
   workflow_dispatch:
-  jobs:
-
-  generate-matrix:
-    name: Generate matrix of branches
+jobs:
+  update_external_airflow_fork:
     runs-on: ubuntu-latest
-    outputs:
-      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - uses: TobKed/github-forks-sync-action@master
       steps:
       - uses: TobKed/github-forks-sync-action@master
         with:
