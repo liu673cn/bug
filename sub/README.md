@@ -104,3 +104,8 @@ TVBox的XBiubiu规则
   "bflianjiehou": "\""
 }
 ```
+{"key":"csp_Alist1","name":"🗂Alist合集1","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://alist.youte.ml"},
+
+{"key":"csp_alist2","name":"🗂Alist合集2","type": 3, "api": "csp_Alist", "searchable": 1,"quickSearch": 1,"filterable": 0, "ext": "晴园$https://alist.52qy.repl.co#一只鱼$https://alist.youte.ml#讯维云盘$https://pan.xwbeta.com#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com#9T(Adult)$https://drive.9t.ee#小兵组$https://6vv.app#梓澪妙妙$https://xn--i0v44m.xyz#Alist测试$https://w.liucn.repl.co"},
+
+{"key":"csp_Alist3","name":"🗂Alist合集3","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/Alist.json"},
