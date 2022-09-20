@@ -4,8 +4,6 @@ on:
 jobs:
   update_external_airflow_fork:
     runs-on: ubuntu-latest
-    steps:
-      - uses: TobKed/github-forks-sync-action@master
       steps:
       - uses: TobKed/github-forks-sync-action@master
         with:
