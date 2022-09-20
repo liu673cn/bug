@@ -1,7 +1,5 @@
 on:
-  push:
-    branches:
-      -master
+  workflow_dispatch:
 
 jobs:
   update_external_airflow_fork:
