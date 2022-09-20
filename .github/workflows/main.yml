@@ -1,0 +1,13 @@
+name: Sync all branches
+on:
+  workflow_dispatch:
+      steps:
+      - uses: TobKed/github-forks-sync-action@master
+        with:
+          github_token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          upstream_repository: liu673cn/box
+          target_repository: woshishiq1/mao
+          upstream_branch: ${{ matrix.branch }}
+          target_branch: ${{ matrix.branch }}
+          force: true
+          tags: true
