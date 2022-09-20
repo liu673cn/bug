@@ -14,5 +14,5 @@ jobs:
       - uses: tgymnich/fork-sync@v1.2.1
         with:
           owner: liu673cn/box
-          base: master
-          head: master
+          base: main
+          head: main
