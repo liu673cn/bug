@@ -18,7 +18,7 @@ jobs:
   update_external_airflow_fork:
     runs-on: ubuntu-latest
     steps:
-      - uses: TobKed/github-forks-sync-action@master
+      - uses: TobKed/github-forks-sync-action@main
         with:
           github_token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }} # 令牌
           upstream_repository: liu673cn/box  # 上游仓库
