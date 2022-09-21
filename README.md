@@ -4,7 +4,7 @@
 - 原版支持本地功能，聚合模式，支持多种视频格式，增加分辨率、时间及缓冲速度显示，优化采集等等。
 - 新UI聚合检索(长按影片)，支持读取挂载阿里网盘资源，其他功能同原版。
 - 设置 — 配置地址 — 输入你的站源规则 — 确定即可；  
-- 新版支持多jar(爬虫包)。
+- 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
 
 ### 版本
 - 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20220917-1728.apk](https://liucn.lanzouv.com/iLZ8X0bvfb5e)
@@ -40,6 +40,10 @@ https://gitcode.net/
 https://gitea.com/  仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单  
 https://agit.ai/  
 https://notabug.org/  
+
+EGP源  
+http://epg.51zmt.top:8000/e.xml  
+https://epg.112114.xyz/pp.xml  
 
 ------
 ### Github RAW 加速服务
