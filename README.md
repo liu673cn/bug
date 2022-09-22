@@ -71,5 +71,5 @@ https://epg.112114.xyz/pp.xml
 `https://purge.jsdelivr.net/gh/`  
 
 ------
-### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集[box](https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv?tab=BB08J2)，自用请勿宣传。
+### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集[box](https://raw.liucn.cc/box)，自用请勿宣传。
 
