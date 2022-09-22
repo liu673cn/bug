@@ -20,10 +20,10 @@
 
 TVbox开源版 |Pluto Player改版
 ---------|---------
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box01.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto1.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box2.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto2.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box3.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto3.jpg)
-
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box01.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto01.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box02.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto02.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box03.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto03.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box04.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto04.jpg)
 MXPlayer-Pro-1.46.10高级解锁版   
 [https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
 [https://tsq.lanzouf.com/b0c4p1nyf](https://tsq.lanzouf.com/b0c4p1nyf) 密 123   
