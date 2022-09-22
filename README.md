@@ -20,10 +20,10 @@
 
 TVbox开源版 |Pluto Player改版
 ---------|---------
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box01.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto01.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box02.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto02.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box03.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto03.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box04.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto04.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box011.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto01.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box021.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto02.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box031.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto03.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box041.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto04.jpg)
 
 MXPlayer-Pro-1.46.10高级解锁版   
 [https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
