@@ -7,7 +7,7 @@
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
 
 ### 版本
-- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20220917-1728.apk](https://liucn.lanzouv.com/iLZ8X0bvfb5e)
+- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20220919-2007.apk](https://liucn.lanzouv.com/iKLTI0c49o0f)
 
 - 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20220917-0108-takagen99.apk](https://liucn.lanzouv.com/iUXID0bvfasb)
 
