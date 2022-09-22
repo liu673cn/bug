@@ -20,7 +20,7 @@
 
 TVbox开源版 |Pluto Player改版
 ---------|---------
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box1.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto1.jpg)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box01.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto1.jpg)
 ![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box2.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto2.jpg)
 ![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box3.jpg) | ![Pluto](https://raw.iqiq.io/liu673cn/box/main/sub/img/Pluto3.jpg)
 
