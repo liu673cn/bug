@@ -1,3 +1,4 @@
+// 源地址 -->https://raw.liucn.cc/box/m.json
 {
 "sites": [
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
