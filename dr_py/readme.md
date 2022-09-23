@@ -1,5 +1,5 @@
 ## 欢迎使用DR-PY管理界面  
-当前版本: 3.7.3 框架开发：道长 框架美化：蓝莓    
+当前版本: 3.7.4 框架开发：道长 框架美化：蓝莓   https://liucn.lanzouv.com/iJfr80c7jjle  
 主页面： `/index`  
 爬虫JS： `/admin/view/名称.js`  
 源链接： `http://xxx.xxx.xxx/vod?rule=名称`  
