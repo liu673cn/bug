@@ -7,11 +7,11 @@
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
 
 ### 版本
-- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20220924-1047.apk](https://liucn.lanzouv.com/iHcPC0cbx6xg)
+- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20220928-0939-.apk](https://liucn.lanzouv.com/i2Oos0cmg0ne)
 
-- 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20220924-1930-takagen99.apk](https://liucn.lanzouv.com/igyLk0cbxdmh)
+- 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20220927-2104-takagen99.apk](https://liucn.lanzouv.com/iCKjo0cmg1vi)
 
-- 3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3_50.jpg) 二次开发改版 - [Pluto-Player_v1.4.2正式版.apk](https://liucn.lanzouv.com/iZLZw0bs4vje)
+- 3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3_50.jpg) 二次开发改版 - [Pluto-Player_v1.5.2正式版.apk](https://liucn.lanzouv.com/i7otG0cmgvob)
 
 
 下载地址 | 使用设置 
