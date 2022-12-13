@@ -2,7 +2,7 @@
 {
 "sites": [
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://raw.iqiq.io/liu673cn/box/main/sub/dr/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"hhttps://raw.iqiq.io/liu673cn/box/main/sub/dr/豆瓣.js"},
+{"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://agit.ai/liucn//TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"hhttps://raw.iqiq.io/liu673cn/box/main/sub/dr/豆瓣.js"},
 {"key":"T4_douban","name":"🔍影视推荐(T4)","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
