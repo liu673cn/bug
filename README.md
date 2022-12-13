@@ -7,12 +7,17 @@
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
 - 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
 ### 版本
-- 1.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico1_50.jpg) 官方仓库生成 - [TVBox_20221005-0959-.apk](https://liucn.lanzouv.com/i0rCM0dccquj)
+- 1.官方版-q215613905  - [TVBox_20221203-1519.apk](https://liucn.lanzouf.com/iNFdw0il111i)
 
-- 2.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico2_50.jpg) 新UI部分区别 - [TVBox_20221005-2255-takagen99.apk](https://liucn.lanzouv.com/iXLfq0dccr3i)
+- 2.多仓版-安卓哥开发 - [影视仓_3.0.3_opt.apk](https://liucn.lanzouf.com/i9Pp10il0d3g)
 
-- 3.![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/ico3_50.jpg) 二次开发改版 - [Pluto-Player_v1.5.2正式版.apk](https://liucn.lanzouv.com/i7otG0cmgvob)
+- 3.内置版-小苹果 - [小苹果影视盒子-1.0.5.apk](https://liucn.lanzouf.com/i361g0il0bta)
 
+- 4.手机版-影音壳子 - [影音壳子1.3.6.apk](https://liucn.lanzouf.com/iyGys0il0e1a)
+
+- 5.i酷.TV浏览器-酷影说 - [iku_browr盒子版_v1.0.6.apk](https://liucn.lanzouf.com/iqmWs0il0soh)
+
+- 6.i酷.浏览器-手机版 - [iku2_release手机版_v2.0.0.apk](https://liucn.lanzouf.com/iltw80il0syh)
 
 下载地址 | 使用设置 
 ---------|---------
