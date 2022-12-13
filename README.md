@@ -25,7 +25,10 @@ TVbox开源版 | 多仓版-安卓哥开发
 - 5.i酷.TV浏览器-酷影说 - 🔰[iku_browr盒子版_v1.0.6.apk](https://liucn.lanzouf.com/iqmWs0il0soh)
 
 - 6.i酷.浏览器-手机版 - 🔰[iku2_release手机版_v2.0.0.apk](https://liucn.lanzouf.com/iltw80il0syh)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box01.jpg) | ![多仓](https://raw.iqiq.io/liu673cn/box/main/sub/img/多仓01.jpg)
+ 
+浏览器主页 |轻站内容页
+---------|---------
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/i酷01.jpg) | ![多仓](https://raw.iqiq.io/liu673cn/box/main/sub/img/i酷02.jpg)
 
 MXPlayer-Pro-1.46.10高级解锁版   
 [https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
