@@ -11,7 +11,7 @@
 
 - 2.多仓版-安卓哥开发 - 🔰[影视仓_3.0.3_opt.apk](https://liucn.lanzouf.com/i9Pp10il0d3g)
 
-- 3.内置版-小苹果 - 🔰[小苹果影视盒子-1.0.5.apk](https://liucn.lanzouf.com/i361g0il0bta)　🔰[内置源](http://xpgtv.com)
+- 3.内置版-小苹果 - 🔰[小苹果影视盒子-1.0.5.apk](https://liucn.lanzouf.com/i361g0il0bta)
 
 - 4.手机版-影音壳子 - 🔰[影音壳子1.3.6.apk](https://liucn.lanzouf.com/iyGys0il0e1a)
 
@@ -19,9 +19,7 @@
 
 - 6.i酷.浏览器-手机版 - 🔰[iku2_release手机版_v2.0.0.apk](https://liucn.lanzouf.com/iltw80il0syh)
 
-下载地址 | 使用设置 
----------|---------
-[TVbox开源版---密123](https://tsq.lanzouf.com/b0c4nr91c#123)<br />[夸克下载](https://pan.quark.cn/s/4990bab723a1)<br />一一一一一一一一一一一一一一一一一一一一一一一<br />[Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)<br />[仓库下载](https://github.com/pluto-player/updates)<br />一一一一一一一一一一一一一一一一一一一一一一一<br />[懒人版小苹果](https://liucn.lanzouv.com/iFIQ40c484dc)<br />[内置源](http://xpgtv.com) |1). 配置地址---输入站源---确定即可<br /> URL站源规则 `https://raw.liucn.cc/box/m.json` <br />一一一一一一一一一一一一一一一一一一一一一一一<br />2). 开启存储权限——将源接口文件放到根目录文件夹<br /> `资源更新快，几乎没人用这个方法`<br />一一一一一一一一一一一一一一一一一一一一一一一<br />3). 自行复刻、新建仓库、制作上传 获取链接<br />  `别忘记改源地址，防止不能使用` 
+1). 配置地址---输入站源---确定即可<br /> URL站源规则 `https://raw.liucn.cc/box/m.json` <br />
 
 TVbox开源版 |Pluto Player改版
 ---------|---------
