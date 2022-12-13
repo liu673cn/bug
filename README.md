@@ -11,7 +11,7 @@
 
 - 2.多仓版-安卓哥开发 - 🔰[影视仓_3.0.3_opt.apk](https://liucn.lanzouf.com/i9Pp10il0d3g)　他人整理`https://raw.liucn.cc/box/dm.txt`
 
-- 3.内置版-小苹果 - 🔰[小苹果影视盒子-1.0.5.apk](https://liucn.lanzouf.com/i361g0il0bta)
+- 3.内置版-小苹果 - 🔰[小苹果影视盒子-1.0.5.apk](https://liucn.lanzouf.com/i361g0il0bta)　`https://raw.liucn.cc/box/xiaopingguo.json`
 
 - 4.手机版-影音壳子 - 🔰[影音壳子1.3.6.apk](https://liucn.lanzouf.com/iyGys0il0e1a)
 
