@@ -15,16 +15,17 @@
 
 - 4.手机版-影音壳子 - 🔰[影音壳子1.3.6.apk](https://liucn.lanzouf.com/iyGys0il0e1a)
 
-- 5.i酷.TV浏览器-酷影说 - 🔰[iku_browr盒子版_v1.0.6.apk](https://liucn.lanzouf.com/iqmWs0il0soh)
-
-- 6.i酷.浏览器-手机版 - 🔰[iku2_release手机版_v2.0.0.apk](https://liucn.lanzouf.com/iltw80il0syh)
-
-1). 配置地址---输入站源---确定即可<br /> URL站源规则 `https://raw.liucn.cc/box/m.json` <br />
+配置地址---输入站源---确定即可<br /> URL站源规则 `https://raw.liucn.cc/box/m.json` <br />
 
 TVbox开源版 | 多仓版-安卓哥开发
 ---------|---------
 ![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box01.jpg) | ![多仓](https://raw.iqiq.io/liu673cn/box/main/sub/img/多仓01.jpg)
 ![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box02.jpg) | ![多仓](https://raw.iqiq.io/liu673cn/box/main/sub/img/多仓02.jpg)
+
+- 5.i酷.TV浏览器-酷影说 - 🔰[iku_browr盒子版_v1.0.6.apk](https://liucn.lanzouf.com/iqmWs0il0soh)
+
+- 6.i酷.浏览器-手机版 - 🔰[iku2_release手机版_v2.0.0.apk](https://liucn.lanzouf.com/iltw80il0syh)
+![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box01.jpg) | ![多仓](https://raw.iqiq.io/liu673cn/box/main/sub/img/多仓01.jpg)
 
 MXPlayer-Pro-1.46.10高级解锁版   
 [https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
