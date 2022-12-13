@@ -9,7 +9,7 @@
 ### 版本
 - 1.官方版-q215613905  - 🔰[TVBox_20221203-1519.apk](https://liucn.lanzouf.com/iNFdw0il111i)　🔰[TVbox--密123](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[夸克下载](https://pan.quark.cn/s/4990bab723a1)　🔰[Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)
 
-- 2.多仓版-安卓哥开发 - 🔰[影视仓_3.0.3_opt.apk](https://liucn.lanzouf.com/i9Pp10il0d3g)
+- 2.多仓版-安卓哥开发 - 🔰[影视仓_3.0.3_opt.apk](https://liucn.lanzouf.com/i9Pp10il0d3g)　`https://raw.liucn.cc/box/dm.txt`
 
 - 3.内置版-小苹果 - 🔰[小苹果影视盒子-1.0.5.apk](https://liucn.lanzouf.com/i361g0il0bta)
 
