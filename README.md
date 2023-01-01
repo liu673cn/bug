@@ -7,7 +7,8 @@
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
 - 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
 ### 版本
-- 1.官方版-q215613905  - 🔰[TVBox_20221203-1519.apk](https://liucn.lanzouf.com/iNFdw0il111i)　🔰[TVbox--密123](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[夸克下载](https://pan.quark.cn/s/4990bab723a1)　🔰[Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)
+- 1.官方版  
+ 🔰[TVBox_q215613905_20221218-1226.apk](https://liucn.lanzouf.com/iI9hZ0jsjv0d)　🔰[TVbox--密123](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[夸克下载](https://pan.quark.cn/s/4990bab723a1)　🔰[Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)
 
 - 2.多仓版-安卓哥开发 - 🔰[影视仓_3.0.3_opt.apk](https://liucn.lanzouf.com/i9Pp10il0d3g)　他人整理`https://raw.liucn.cc/box/dm.txt`
 
