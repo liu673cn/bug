@@ -8,7 +8,7 @@
 - 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
 ### 版本
 - 1.开源版   
- 🔰官方原版[TVBox_q215613905_20221218-1226.apk](https://liucn.lanzouf.com/iI9hZ0jsjv0d)　🔰UI美化版[TVBox_takagen99_20221224-2024.apk](https://liucn.lanzouf.com/i4xCu0jsjuvi)　🔰[更多TVbox](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[更多TVbox]([https://tsq.lanzouf.com/b0c4nr91c#123](https://wws.lanzouv.com/b03j4ulyh#999))　🔰[夸克下载](https://pan.quark.cn/s/4990bab723a1)　🔰[Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)
+ 🔰官方原版[TVBox_q215613905_20221218-1226.apk](https://liucn.lanzouf.com/iI9hZ0jsjv0d)　🔰UI美化版[TVBox_takagen99_20221224-2024.apk](https://liucn.lanzouf.com/i4xCu0jsjuvi)　🔰[更多TVbox](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[更多TVbox](https://wws.lanzouv.com/b03j4ulyh#999)　🔰[夸克下载](https://pan.quark.cn/s/4990bab723a1)　🔰[Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)
 
 - 2.多仓版-安卓哥开发 - 🔰[影视仓_3.0.3_opt.apk](https://liucn.lanzouf.com/i9Pp10il0d3g)　他人整理`https://raw.liucn.cc/box/dm.txt`
 
