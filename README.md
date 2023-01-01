@@ -7,19 +7,19 @@
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
 - 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
 ### 版本
-- 1.开源版  自用`https://raw.liucn.cc/box/m.json`
+- 1.开源版  自用`https://raw.liucn.cc/box/m.json`  
  🔰官方原版[TVBox_q215613905_20221218-1226.apk](https://liucn.lanzouf.com/iI9hZ0jsjv0d)　🔰UI美化版[TVBox_takagen99_20221224-2024.apk](https://liucn.lanzouf.com/i4xCu0jsjuvi)　  
  🔰[更多TVbox](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[更多TVbox](https://wws.lanzouv.com/b03j4ulyh#999)　🔰[夸克下载](https://pan.quark.cn/s/4990bab723a1)　🔰[Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)
 
-- 2.多仓版  他人整理`https://raw.liucn.cc/box/dm.txt`
+- 2.多仓版  他人整理`https://raw.liucn.cc/box/dm.txt`  
  🔰原版[影视仓_3.0.3_opt.apk](https://liucn.lanzouf.com/i9Pp10il0d3g)　🔰原版[影视仓_3.0.6_opt.apk](https://liucn.lanzouf.com/ijyBF0jsla4d)　🔰原版[影视仓_4.0.2_opt.apk](https://liucn.lanzouf.com/i13mU0jtp6vg)　🔰UI改版[可视TV Max_1.3.6.apk](https://liucn.lanzouf.com/iqzqG0jsl9ud)　
 
 - 3.内置版  
- -小苹果 - 🔰[小苹果影视盒子-1.0.5.apk](https://liucn.lanzouf.com/i361g0il0bta)　`https://raw.liucn.cc/box/xiaopingguo.json`
+ -小苹果 - 🔰[小苹果影视盒子-1.0.5.apk](https://liucn.lanzouf.com/i361g0il0bta)　`https://raw.liucn.cc/box/xiaopingguo.json`  
 
-- 4.手机版-影音壳子 - 🔰[影音壳子1.3.6.apk](https://liucn.lanzouf.com/iyGys0il0e1a)
+- 4.手机版-影音壳子 - 🔰[影音壳子1.3.6.apk](https://liucn.lanzouf.com/iyGys0il0e1a)　🔰[影音壳子1.4.1.apk](https://liucn.lanzouf.com/iZlVl0jsm5kf)  
 
-配置地址---输入站源---确定即可<br /> URL站源规则 `https://raw.liucn.cc/box/m.json` <br />
+配置地址---输入站源---确定即可<br /> URL站源规则 <br />
 
 TVbox开源版 | 多仓版-安卓哥开发
 ---------|---------
