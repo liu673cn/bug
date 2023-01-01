@@ -6,7 +6,7 @@
 - 设置 — 配置地址 — 输入你的站源规则 — 确定即可；  
 - 新版支持多jar(爬虫包)，增加直播节目预告 EGP。
 - 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
-- 配置地址---输入站源---确定即可  URL站源规则 <br />
+- 配置地址---输入站源---确定即可  URL站源规则   
 ### 版本
 - 1.开源版  自用`https://raw.liucn.cc/box/m.json`  
  🔰官方原版[TVBox_q215613905_20221218-1226.apk](https://liucn.lanzouf.com/iI9hZ0jsjv0d)　🔰UI美化版[TVBox_takagen99_20221224-2024.apk](https://liucn.lanzouf.com/i4xCu0jsjuvi)　  
