@@ -32,7 +32,7 @@ TVbox开源版 | 多仓版-安卓哥开发
  
 浏览器主页 |轻站内容页
 ---------|---------
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/i酷01.jpg) | ![多仓](https://raw.iqiq.io/liu673cn/box/main/sub/img/i酷02.jpg)
+![i酷](https://raw.iqiq.io/liu673cn/box/main/sub/img/i酷01.jpg) | ![i酷](https://raw.iqiq.io/liu673cn/box/main/sub/img/i酷02.jpg)
 
 MXPlayer-Pro-1.46.10高级解锁版   
 [https://liucn.lanzouv.com/ixhSy097prod](https://liucn.lanzouv.com/ixhSy097prod)  
