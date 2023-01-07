@@ -3,7 +3,7 @@
         {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "name": "小苹果"
-        },
+        }, 
         {
             "url": "https://yydsys.top/duo/v.json",
             "name": "大聪明"
@@ -11,6 +11,10 @@
         {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "刘C"
+        },
+        {
+            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "云星日记"
         },
         {
             "url": "http://我不是.肥猫.love:63",
