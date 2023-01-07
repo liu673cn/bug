@@ -5,7 +5,11 @@
 { "sourceName": "🦆精品仓库", "sourceUrl": "https://agit.ai/hu/hcr/raw/commit/afdc0352f3267745a2144786a900efcf1e5c6de6/%e6%8e%a5%e5%8f%a3%e4%bb%93%e5%ba%93%e6%a8%a1%e7%89%88.txt" }, 
 { "sourceName": "🎀精品仓库102", "sourceUrl": " https://pan.css.lc/api/v3/file/get/89920/%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%BF%E8%89%B2%E4%BB%93%E5%BA%93.txt?sign=kHRUFbInXSY091BK6bzSDmd2gReOQI6Az7AuxS6yPbc%3D%3A0 " }, 
 { "sourceName": "👒嘟嘟仓库", "sourceUrl": "https://agit.ai/hu/hcr/raw/commit/beb954f1ae6828ab8dc86b4059cf98e6378bce3b/duo.txt" }, 
-
+{"sourceName":"☁️云星在线仓库","sourceUrl":"https://maoyingshi.cc/可视TV/云星日记/仓库/api.json"},
+{"sourceName":"🌙影视仓①","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"},
+{"sourceName":"🌙影视仓②","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"},
+{"sourceName":"🌙影视仓③","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/3.json"},
+{"sourceName":"🌙影视仓④","sourceUrl":"https://gitlab.com/ygbh1/666/-/raw/main/dcang/4.json"},
 {"sourceName":"  ①号库
 ","sourceUrl":"      https://box.nxog.top/1
 "},
