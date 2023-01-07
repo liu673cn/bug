@@ -40,6 +40,22 @@
             "url": "http://home.jundie.top:81/top98.json",
             "name": "俊于"
         },
+	{
+            "url": "https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+            "name": "vpei"
+        },
+	{
+            "url": "https://raw.iqiq.io/AndroidSoftwares/box/main/box.json",
+            "name": "Softwares"
+        },
+	{
+            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/py%E7%94%9C%E8%9C%9C.json",
+            "name": "py甜蜜"
+        },
+	{
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/py3.txt",
+            "name": "ABpy"
+        },
         {
             "url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json",
             "name": "霜辉月明py"
