@@ -13,6 +13,10 @@
             "name": "刘C"
         },
         {
+            "url": "http://111.67.196.181/mtv/meow.txt",
+            "name": "太阳视界"
+        },
+        {
             "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
             "name": "云星日记"
         },
@@ -71,6 +75,30 @@
        {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "ImABC"
+        },
+	{
+            "url": "http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
+            "name": "玖妖1"
+        },
+	{
+            "url": "http://152.136.125.181:81/MM/dianbos/zhoushijie.json",
+            "name": "玖妖2"
+        },
+	{
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
+            "name": "玖妖3"
+        },
+	{
+            "url": "https://tvbox.evai.pl/t2.json",
+            "name": "鸡盒T2"
+        },
+	{
+            "url": "https://tvbox.evai.pl/t3.json",
+            "name": "鸡盒T3"
+        },
+	{
+            "url": "https://tvbox.evai.pl/t4.json",
+            "name": "鸡盒T4"
         },
         {
             "url": "https://神器每日推送.tk/pz.json",
