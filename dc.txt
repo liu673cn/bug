@@ -5,6 +5,10 @@
             "name": "小苹果"
         },
         {
+            "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
+            "name": "胖丫"
+        },
+	{
             "url": "https://yydsys.top/duo/v.json",
             "name": "大聪明"
         },
