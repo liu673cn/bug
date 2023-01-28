@@ -13,7 +13,7 @@
             "name": "大聪明"
         },
         {
-            "url": "https://raw.liucn.cc/box/m.json",
+            "url": "https://agit.ai/liucn/box/raw/branch/main/m.json",
             "name": "刘C"
         },
         {
