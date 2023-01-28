@@ -8,7 +8,7 @@
 - 编辑器 PC Web版 [CatVodTVJsonEditor](https://catvodtvofficial.github.io/CatVodTVJsonEditor/)
 - 配置地址---输入站源---确定即可  URL站源规则   
 ### 版本
-- 1.开源版  自用`https://raw.liucn.cc/box/m.json`  
+- 1.开源版  自用`https://raw.liucn.cc/box/m.json`  `https://agit.ai/liucn/box/raw/branch/main/m.json`
  🔰官方原版[TVBox_q215613905_20221218-1226.apk](https://liucn.lanzouf.com/iI9hZ0jsjv0d)　🔰UI美化版[TVBox_takagen99_20221224-2024.apk](https://liucn.lanzouf.com/i4xCu0jsjuvi)　  
  🔰[更多TVbox](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[更多TVbox](https://wws.lanzouv.com/b03j4ulyh#999)　🔰[更多下载](https://www.123pan.com/s/dIgRVv-Th3D3)　🔰[更多下载](https://www.123pan.com/s/dIgRVv-vh3D3)　🔰[Pluto Player](https://www.123pan.com/s/dIgRVv-Ah3D3)　
 
