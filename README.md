@@ -24,8 +24,8 @@
 
 TVbox开源版 | 多仓版-安卓哥开发
 ---------|---------
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box01.jpg) | ![多仓](https://raw.iqiq.io/liu673cn/box/main/sub/img/多仓01.jpg)
-![box](https://raw.iqiq.io/liu673cn/box/main/sub/img/box02.jpg) | ![多仓](https://raw.iqiq.io/liu673cn/box/main/sub/img/多仓02.jpg)
+![box](https://liu673cn.github.com.io/box/sub/img/box01.jpg) | ![多仓](https://liu673cn.github.com.io/box/sub/img/多仓01.jpg)
+![box](https://liu673cn.github.com.io/box/sub/img/box02.jpg) | ![多仓](https://liu673cn.github.com.io/box/sub/img/多仓02.jpg)
 
 - 5.i酷.TV浏览器-酷影说 - 🔰[iku_browr盒子版_v1.0.6.apk](https://liucn.lanzouf.com/iqmWs0il0soh)
 
