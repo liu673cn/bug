@@ -1,0 +1,77 @@
+        {
+    "urls":[
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "小苹果"
+        },
+        {
+            "url": "https://yydsys.top/duo/v.json",
+            "name": "大聪明"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "刘C"
+        },
+        {
+            "url": "http://我不是.肥猫.love:63",
+            "name": "肥猫"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风XC"
+        },
+        {
+            "url": "https://hutool.ml/tang",
+            "name": "唐三"
+        },
+	            {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "巧技"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "俊于"
+        },
+        {
+            "url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json",
+            "name": "霜辉月明py"
+        },
+        {
+            "url": "http://drpy.site/js1",
+            "name": "小雅js"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "菜妮丝xBPQ"
+        },
+        {
+            "url": "https://饭太硬.ga/x/o.json",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
+            "name": "甜蜜dlgt7"
+        },
+        {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "dxawi/github️"
+        },
+        {
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "潇洒"
+        },
+        {
+            "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
+            "name": "D大"
+        }, 
+       {
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "name": "ImABC"
+        },
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "神器每日推送"
+        }
+    ]
+    
+}
