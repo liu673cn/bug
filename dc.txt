@@ -37,7 +37,7 @@
             "name": "俊于"
         },
         {
-            "url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json",
+            "url": "https://raw.kgithub.com/lm317379829/PyramidStore/pyramid/py.json",
             "name": "霜辉月明py"
         },
         {
@@ -53,7 +53,7 @@
             "name": "饭太硬"
         },
         {
-            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
+            "url": "https://raw.kgithub.com/kebedd69/TVbox-interface/main/甜蜜.json",
             "name": "甜蜜dlgt7"
         },
         {
