@@ -1,11 +1,11 @@
         {
     "urls":[
         {
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "url": "https://www.agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "name": "小苹果"
         },
         {
-            "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
+            "url": "https://www.agit.ai/cyl518/yl/raw/branch/master/ml.json",
             "name": "胖丫"
         },
 	{
@@ -21,7 +21,7 @@
             "name": "肥猫"
         },
         {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "南风XC"
         },
         {
@@ -69,7 +69,7 @@
             "name": "D大"
         }, 
        {
-            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "url": "https://www.agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "ImABC"
         },
         {
