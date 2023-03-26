@@ -18,7 +18,7 @@
  🔰UI改版[可视TV Max_1.3.6.apk](https://liucn.lanzouf.com/iqzqG0jsl9ud)　🔰[更多](https://wwc.lanzoub.com/b0es81t8j#54jb)　🔰[更多](https://wwjn.lanzout.com/b03jpibob#1234)
 
 - 3.内置版  
- -小苹果 - 🔰[小苹果影视盒子-1.0.5.apk](https://liucn.lanzouf.com/i361g0il0bta)　`https://raw.liucn.cc/box/xiaopingguo.json`  
+ -小苹果 - 🔰[小苹果影视盒子-1.0.4.apk](https://liucn.lanzouf.com/ipon60ddh4oh)　🔰[小苹果影视盒子-1.0.5.apk](https://liucn.lanzouf.com/i361g0il0bta)　`https://raw.liucn.cc/box/xiaopingguo.json`  
 
 - 4.手机版-影音壳子 - 🔰[影音壳子1.3.6.apk](https://liucn.lanzouf.com/iyGys0il0e1a)　🔰[影音壳子1.4.1.apk](https://liucn.lanzouf.com/iZlVl0jsm5kf)  
 
