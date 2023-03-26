@@ -4,10 +4,6 @@
             "url": "https://www.agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "name": "小苹果"
         },
-        {
-            "url": "https://raw.liucn.cc/box/m.json",
-            "name": "刘C"
-        },
 	{
             "url": "https://yydsys.top/duo",
             "name": "大聪明"
@@ -60,7 +56,14 @@
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "高山流云js"
         },
-
+        {
+            "url": "https://www.agit.ai/liucn/box/raw/branch/main/m.json",
+            "name": "老刘备"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "刘C"
+        },
         {
             "url": "https://www.agit.ai/cyl518/yl/raw/branch/master/ml.json",
             "name": "胖丫"
