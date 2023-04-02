@@ -21,7 +21,7 @@
             "name": "2ha.cc"
         },
 	{
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "url": "https://www.agit.ai/relax/adcc/raw/branch/master/tvbox.json",
             "name": "巧技"
         },
 	{
