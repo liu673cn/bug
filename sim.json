@@ -42,7 +42,37 @@
 		},
 
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+
+	{
+			"key": "比特影视",
+			"name": "💰比特影视",
+			"type": 3,
+			"api": "csp_XPath",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "http://45.125.46.61/box/json/%E6%AF%94%E7%89%B9%E5%BD%B1%E8%A7%86.json"
+		},
 		{
+			"key": "csp_dd5555",
+			"name": "🍅555 影视",
+			"api": "csp_Dy555",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1
+		},
+
+{
+			"key": "3EDY",
+			"name": "🌴3EDY(EXO)",
+			"type": 3,
+			"api": "csp_EEEDY",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+	{
 			"key": "csp_xpath_球迷2",
 			"name": "⚽🏀球赛",
 			"type": 3,
@@ -97,43 +127,6 @@
 		
 		
 		{
-			"key": "mjxq_spider",
-			"name": "🌏美剧星球",
-			"type": 3,
-			"api": "csp_Mjxq",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "csp_Tkys",
-			"name": "🌝天空影院",
-			"type": 3,
-			"api": "csp_Tkys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "csp_dd5555",
-			"name": "🍅555 影视",
-			"api": "csp_Dy555",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		},
-		{
-			"key": "Nfyun",
-			"name": "🌦Nf云",
-			"type": 3,
-			"api": "csp_Nfyun",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": ""
-		},
-		{
 			"key": "csp_Anime1",
 			"name": "🌸动漫",
 			"type": 3,
@@ -142,15 +135,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "3EDY",
-			"name": "🌴3EDY(EXO)",
-			"type": 3,
-			"api": "csp_EEEDY",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "csp_Yj1211",
 			"name": "📸直播合集",
@@ -231,16 +216,7 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"
 		},
-		{
-			"key": "比特影视",
-			"name": "💰比特影视",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E6%AF%94%E7%89%B9%E5%BD%B1%E8%A7%86.json"
-		},
+		
 		{
 			"key": "看看影视",
 			"name": "👓看看影视",
