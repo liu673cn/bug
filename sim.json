@@ -22,7 +22,7 @@
 		
 		{
 			"key": "Lezhu_spider",
-			"name": "🍎备份源七",
+			"name": "🍎备份源二",
 			"api": "csp_Lezhu",
 			"type": 3,
 			"filterable": 1,
@@ -33,7 +33,7 @@
 	
 		{
 			"key": "快看",
-			"name": "🍎备份源九",
+			"name": "🍎备份源三",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
@@ -41,9 +41,6 @@
 			"filterable": 1
 		},
 
-
-{"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "csp_xpath_球迷2",
