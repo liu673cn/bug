@@ -73,15 +73,7 @@
 			"ext": "http://45.125.46.61/box/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
 		},
 
-		{
-			"key": "追剧喵",
-			"name": "🐱追剧喵",
-			"type": 3,
-			"api": "csp_ZJMiao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+	
 		{
 			"key": "csp_LibVio",
 			"name": "🍒LibVio",
@@ -91,15 +83,7 @@
 			"quickSearch": 1,
 			"filterable": 0
 		},
-		{
-			"key": "csp_Auete",
-			"name": "🐼Auete",
-			"type": 3,
-			"api": "csp_Auete",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
 		{
 			"key": "csp_Bttoo",
 			"name": "✌两个BT",
@@ -110,33 +94,8 @@
 			"filterable": 1
 		},
 		
-		{
-			"key": "csp_剧荒",
-			"name": "👿剧荒",
-			"type": 3,
-			"api": "csp_Juhuang",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "csp_DiDuan",
-			"name": "📺低端影视",
-			"type": 3,
-			"api": "csp_Ddrk",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0
-		},
-		{
-			"key": "csp_Wmkk",
-			"name": "💯完美看看",
-			"api": "csp_Wmkk",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+		
+		
 		{
 			"key": "mjxq_spider",
 			"name": "🌏美剧星球",
