@@ -218,26 +218,8 @@
 			"ext": "http://45.125.46.61/box/json/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"
 		},
 		
-		{
-			"key": "看看影视",
-			"name": "👓看看影视",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E7%9C%8B%E7%9C%8B%E5%BD%B1%E8%A7%86.json"
-		},
-		{
-			"key": "小强影迷",
-			"name": "🐲小强影迷",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E5%B0%8F%E5%BC%BA%E5%BD%B1%E8%BF%B7.json"
-		},
+
+
 		{
 			"key": "超清影视",
 			"name": "🖥超清影视",
@@ -248,16 +230,7 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E8%B6%85%E6%B8%85%E5%BD%B1%E8%A7%86.json"
 		},
-		{
-			"key": "乌龟影院",
-			"name": "🐢乌龟影院",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E4%B9%8C%E9%BE%9F%E5%BD%B1%E9%99%A2.json"
-		},
+
 		{
 			"key": "人人影视",
 			"name": "👫人人影视",
@@ -268,16 +241,7 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"
 		},
-		{
-			"key": "豆角影视",
-			"name": "🎋豆角影视",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E8%B1%86%E8%A7%92%E5%BD%B1%E8%A7%86.json"
-		},
+
 		{
 			"key": "三九影视",
 			"name": "🐐三九影视",
@@ -288,16 +252,7 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"
 		},
-		{
-			"key": "六度影视",
-			"name": "🍨六度影视",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E5%85%AD%E5%BA%A6%E5%BD%B1%E8%A7%86.json"
-		},
+
 		{
 			"key": "口袋影院",
 			"name": "👝口袋影院",
@@ -308,36 +263,8 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
 		},
-		{
-			"key": "不卡影院",
-			"name": "🏅不卡影院",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E4%B8%8D%E5%8D%A1%E5%BD%B1%E9%99%A2.json"
-		},
-		{
-			"key": "干饭影视",
-			"name": "🍚干饭影视",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E5%B9%B2%E9%A5%AD%E5%BD%B1%E8%A7%86.json"
-		},
-		{
-			"key": "霸气影院",
-			"name": "🦁霸气影院",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E9%9C%B8%E6%B0%94%E5%BD%B1%E9%99%A2.json"
-		},
+
+
 		{
 			"key": "利奥影院",
 			"name": "🍪利奥影院",
@@ -358,16 +285,7 @@
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/json/%E7%84%A6%E7%82%AD%E5%BD%B1%E8%A7%86.json"
 		},
-		{
-			"key": "极品影视",
-			"name": "💝极品影视",
-			"type": 3,
-			"api": "csp_XPathMac",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E6%9E%81%E5%93%81%E5%BD%B1%E8%A7%86.json"
-		},
+
 		{
 			"key": "csp_xp_jLgyy",
 			"name": "❄蓝光影院",
@@ -378,16 +296,7 @@
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
 		},
-		{
-			"key": "csp_xpath_dianyingn",
-			"name": "🐂电影牛XP",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E7%94%B5%E5%BD%B1%E7%89%9B.json"
-		},
+
 		{
 			"key": "csp_biubiu_骚火电影",
 			"name": "🔥骚火电影",
@@ -398,36 +307,7 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
 		},
-		{
-			"key": "csp_biubiu_影视工厂",
-			"name": "🎬影视工厂",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json"
-		},
-		{
-			"key": "csp_biubiu_特狗影视",
-			"name": "🐶特狗影视",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E7%89%B9%E7%8B%97%E5%BD%B1%E8%A7%86.json"
-		},
-		{
-			"key": "csp_biubiu_蓝莓影视",
-			"name": "🧁蓝莓影视",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E8%93%9D%E8%8E%93%E5%BD%B1%E8%A7%86.json"
-		},
+
 		{
 			"key": "csp_biubiu_奇优影院ns",
 			"name": "👔奇优影院",
@@ -438,26 +318,8 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.json"
 		},
-		{
-			"key": "csp_biubiu_yekong",
-			"name": "🌃夜空高清",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E5%A4%9C%E7%A9%BA%E9%AB%98%E6%B8%85.json"
-		},
-		{
-			"key": "去看动漫",
-			"name": "🎊去看动漫",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"
-		},
+
+
 		{
 			"key": "动漫直链",
 			"name": "🎭动漫直链",
@@ -488,16 +350,7 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
 		},
-		{
-			"key": "csp_biubiu_OmoFun动漫",
-			"name": "🧚OmoFun动漫",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/OmoFun%E5%8A%A8%E6%BC%AB.json"
-		},
+
 		{
 			"key": "VIP影视",
 			"name": "💳VIP电影",
@@ -508,26 +361,7 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/VIP%E5%BD%B1%E8%A7%86.json"
 		},
-		{
-			"key": "csp_xpath_jbb",
-			"name": "💿剧白白",
-			"type": 3,
-			"api": "csp_XPathMacFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/json/%E5%89%A7%E7%99%BD%E7%99%BD.json"
-		},
-		{
-			"key": "csp_biubiu_voflix",
-			"name": "🌀voflix",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/voflix.json"
-		},
+
 		{
 			"key": "csp_biubiu_cupfox",
 			"name": "🦊茶杯狐",
@@ -538,100 +372,9 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"
 		},
-		{
-			"key": "9E03",
-			"name": "🎈9E03",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
-		},
-		{
-			"key": "csp_AppYsV2_美剧范",
-			"name": "🦙美剧范(优)",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "http://ttzmz.net/api.php/v1.vod"
-		},
-		{
-			"key": "北雁资源",
-			"name": "🦆北雁资源",
-			"type": 1,
-			"api": "https://zy.beiyan.cc:4433/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playUrl": "",
-			"categories": [
-				"电影",
-				"国产剧",
-				"港台剧",
-				"日韩剧",
-				"欧美剧",
-				"综艺",
-				"动漫"
-			]
-		},
-		{
-			"key": "多多",
-			"name": "🐶多多影视(优)",
-			"type": 1,
-			"api": "https://www.ddzyz1.com/api.php/provide/vod/",
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"categories": [
-				"国产剧",
-				"港台剧",
-				"日韩剧",
-				"欧美剧",
-				"综艺",
-				"动漫",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片"
-			]
-		},
-		{
-			"key": "鑫总资源",
-			"name": "☔鑫总资源(优)",
-			"type": 3,
-			"api": "csp_AppYs",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "http://app.mmhkj.xyz/lvdou_api.php/v1.vod"
-		},
-		{
-			"key": "QC 影视",
-			"name": "🤠QC 影视(优)",
-			"type": 3,
-			"api": "csp_AppYs",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://www.qcsvip.com/mogai_api.php/v1.vod"
-		},
-		{
-			"key": "刺猬影视",
-			"name": "🦔刺猬影视(优)",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://www.cccvvv.top/api.php/iptv/vod/"
-		},
+
+
+
 		{
 			"key": "玖卿乐播",
 			"name": "🧯玖卿乐播(优)",
@@ -642,82 +385,7 @@
 			"filterable": 0,
 			"ext": "https://vod.nqcode.cn/api.php/v1.vod"
 		},
-		{
-			"key": "尘云影视",
-			"name": "☁尘云影视(优)",
-			"type": 3,
-			"api": "csp_AppYs",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "http://v.i7yc.cn/api.php/v1.vod"
-		},
-		{
-			"key": "万能影院",
-			"name": "💳万能影院(优)",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "http://app.wnvod.net/lvdou_api.php/v1.vod"
-		},
-		{
-			"key": "波比影视",
-			"name": "🍠波比影视(优)",
-			"type": 1,
-			"api": "http://xxhhsc.top/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "西柚影视",
-			"name": "🥭西柚影视(优)",
-			"type": 1,
-			"api": "http://43.135.75.180:9999/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "多多资源",
-			"name": "🍊多多资源(优)",
-			"type": 1,
-			"api": "https://www.ddzyz1.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "多多资源2",
-			"name": "🥬多多资源2(优)",
-			"type": 1,
-			"api": "https://a.7dyu.cn/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "每天看看",
-			"name": "🍌每天看看(优)",
-			"type": 1,
-			"api": "http://47.113.126.237:1234/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "木子看剧",
-			"name": "🍒木子看剧(官)",
-			"type": 1,
-			"api": "https://mzkj.maccms.cf/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "考拉资源",
-			"name": "🍈考拉资源(官)",
-			"type": 1,
-			"api": "https://ikaola.tv/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
+
 		{
 			"key": "忆梦资源",
 			"name": "🥕忆梦资源(官)",
@@ -727,38 +395,7 @@
 			"quickSearch": 0
 		},
 		{
-			"key": "天堂资源",
-			"name": "🌶天堂资源(官)",
-			"type": 1,
-			"api": "http://vipmv.cc/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "江湖官采",
-			"name": "🍳江湖官采(官)",
-			"type": 1,
-			"api": "http://119.29.1.173/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "土狗 360",
-			"name": "🥒土狗 360(官)",
-			"type": 1,
-			"api": "http://360.tgzy.cc/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "诺讯资源",
-			"name": "🍑诺讯资源(官)",
-			"type": 1,
-			"api": "http://caiji.nxflv.com/api.php/provide/vod/",
-			"playUrl": "https://www.nxflv.com/?url=",
-			"searchable": 0,
-			"quickSearch": 0
-		},
+
 		{
 			"key": "M3U8资源",
 			"name": "🍇M3U8资源(官)",
@@ -775,38 +412,7 @@
 			"searchable": 0,
 			"quickSearch": 0
 		},
-		{
-			"key": "雨哥影视",
-			"name": "🍟雨哥影视(聚)",
-			"type": 1,
-			"api": "http://cj.baozi66.top:66/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "天天影视",
-			"name": "🥗天天影视(聚)",
-			"type": 1,
-			"api": "http://tttv.cf/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "盘看影视",
-			"name": "🥑盘看影视(聚)",
-			"type": 1,
-			"api": "http://tvcaiji.pankk.cn/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "幻风影视",
-			"name": "🥫幻风影视(聚)",
-			"type": 1,
-			"api": "http://vip857.top/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
+
 		{
 			"key": "小鸟动漫",
 			"name": "🍚小鸟动漫(聚)",
@@ -815,62 +421,7 @@
 			"searchable": 0,
 			"quickSearch": 0
 		},
-		{
-			"key": "铭轩影视",
-			"name": "🍧铭轩影视(聚)",
-			"type": 1,
-			"api": "http://lz0716.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "海玉影视",
-			"name": "🍬海玉影视(聚)",
-			"type": 1,
-			"api": "http://tv2.hykjtv.cn/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "百淘影视",
-			"name": "🍨百淘影视(聚)",
-			"type": 1,
-			"api": "http://ys.58g8.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "阿里影视",
-			"name": "🥤阿里影视(聚)",
-			"type": 1,
-			"api": "http://aliys.cn:90/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "千寻时光",
-			"name": "🍱千寻时光(聚)",
-			"type": 1,
-			"api": "http://wy.dqyhg.cn/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "MX 影院",
-			"name": "🌭MX 影院(聚)",
-			"type": 1,
-			"api": "http://49.235.107.145:81/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "MBO 影视",
-			"name": "🍹MBO 影视(聚)",
-			"type": 0,
-			"api": "https://www.mbomovie.com/api.php/provide/vod/at/xml/",
-			"searchable": 0,
-			"quickSearch": 0
-		}
+
 	],
 	"spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
