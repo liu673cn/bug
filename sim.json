@@ -20,39 +20,16 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		
-		{
-			"key": "Lezhu_spider",
-			"name": "🍎备份源二",
-			"api": "csp_Lezhu",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": ""
-		},
 	
 		{
 			"key": "快看",
-			"name": "🍎备份源三-快看",
+			"name": "🍎备份源二快看",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
 		},
-
-	{
-			"key": "比特影视",
-			"name": "💰比特影视",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E6%AF%94%E7%89%B9%E5%BD%B1%E8%A7%86.json"
-		},
-
 		{
 			"key": "csp_dd5555",
 			"name": "🍅555 影视",
@@ -62,8 +39,17 @@
 			"quickSearch": 1,
 			"searchable": 1
 		},
-
-{
+		{
+			"key": "比特影视",
+			"name": "💰比特影视",
+			"type": 3,
+			"api": "csp_XPath",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0,
+			"ext": "http://45.125.46.61/box/json/%E6%AF%94%E7%89%B9%E5%BD%B1%E8%A7%86.json"
+		},
+		{
 			"key": "3EDY",
 			"name": "🌴3EDY(EXO)",
 			"type": 3,
@@ -72,7 +58,17 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-	{
+		{
+			"key": "焦炭影视",
+			"name": "💣焦炭影视",
+			"type": 3,
+			"api": "csp_XPathFilter",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/json/%E7%84%A6%E7%82%AD%E5%BD%B1%E8%A7%86.json"
+		},
+		{
 			"key": "csp_xpath_球迷2",
 			"name": "⚽🏀球赛",
 			"type": 3,
@@ -274,16 +270,7 @@
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/json/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"
 		},
-		{
-			"key": "焦炭影视",
-			"name": "💣焦炭影视",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/json/%E7%84%A6%E7%82%AD%E5%BD%B1%E8%A7%86.json"
-		},
+
 
 		{
 			"key": "csp_xp_jLgyy",
