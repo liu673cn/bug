@@ -186,16 +186,7 @@
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
 		},
-		{
-			"key": "csp_xpath_yinfans",
-			"name": "💥音范丝4K",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
-		},
+		
 		{
 			"key": "csp_biubiu_厂长资源-蓝光",
 			"name": "🏗️厂长蓝光",
