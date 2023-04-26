@@ -419,7 +419,7 @@
 			"api": "http://xydm.baicai.buzz/api.php/provide/vod/",
 			"searchable": 0,
 			"quickSearch": 0
-		},
+		}
 
 	],
 	"spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
