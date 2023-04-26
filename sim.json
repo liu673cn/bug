@@ -67,6 +67,64 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/json/%E7%84%A6%E7%82%AD%E5%BD%B1%E8%A7%86.json"
+		},	
+		{
+			"key": "csp_LibVio",
+			"name": "🍒LibVio",
+			"type": 3,
+			"api": "csp_Lib",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0
+		},
+				{
+			"key": "csp_xpath_球迷2",
+			"name": "⚽🏀球赛",
+			"type": 3,
+			"api": "csp_XPathFilter",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/json/%E7%90%83%E8%BF%B72.json"
+		},
+		{
+			"key": "音乐",
+			"name": "🎤音乐现场",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
+		},
+		{
+			"key": "热舞",
+			"name": "💃女团热舞",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
+		},
+		{
+			"key": "csp_Bttoo",
+			"name": "✌两个BT",
+			"type": 3,
+			"api": "csp_Bttoo",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "csp_biubiu_cupfox",
+			"name": "🦊茶杯狐",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://45.125.46.61/box/json/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"
 		},
 		{
 			"key": "csp_xpath_球迷2",
@@ -98,29 +156,6 @@
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
 		},
-
-	
-		{
-			"key": "csp_LibVio",
-			"name": "🍒LibVio",
-			"type": 3,
-			"api": "csp_Lib",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0
-		},
-		
-		{
-			"key": "csp_Bttoo",
-			"name": "✌两个BT",
-			"type": 3,
-			"api": "csp_Bttoo",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		
-		
 		
 		{
 			"key": "csp_Anime1",
@@ -160,17 +195,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
-		},
-
-		{
-			"key": "360_spider",
-			"name": "🥎360影视",
-			"api": "csp_SP360",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": ""
 		},
 		{
 			"key": "csp_biubiu_厂长资源-蓝光",
@@ -212,9 +236,6 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"
 		},
-		
-
-
 		{
 			"key": "超清影视",
 			"name": "🖥超清影视",
@@ -258,8 +279,6 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
 		},
-
-
 		{
 			"key": "利奥影院",
 			"name": "🍪利奥影院",
@@ -271,7 +290,6 @@
 			"ext": "http://45.125.46.61/box/json/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"
 		},
 
-
 		{
 			"key": "csp_xp_jLgyy",
 			"name": "❄蓝光影院",
@@ -282,7 +300,6 @@
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
 		},
-
 		{
 			"key": "csp_biubiu_骚火电影",
 			"name": "🔥骚火电影",
@@ -304,8 +321,6 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.json"
 		},
-
-
 		{
 			"key": "动漫直链",
 			"name": "🎭动漫直链",
@@ -336,7 +351,6 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
 		},
-
 		{
 			"key": "VIP影视",
 			"name": "💳VIP电影",
@@ -347,18 +361,6 @@
 			"filterable": 0,
 			"ext": "http://45.125.46.61/box/json/VIP%E5%BD%B1%E8%A7%86.json"
 		},
-
-		{
-			"key": "csp_biubiu_cupfox",
-			"name": "🦊茶杯狐",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://45.125.46.61/box/json/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"
-		},
-
 
 
 		{
