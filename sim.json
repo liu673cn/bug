@@ -77,36 +77,7 @@
 			"quickSearch": 1,
 			"filterable": 0
 		},
-				{
-			"key": "csp_xpath_球迷2",
-			"name": "⚽🏀球赛",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/json/%E7%90%83%E8%BF%B72.json"
-		},
-		{
-			"key": "音乐",
-			"name": "🎤音乐现场",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
-		},
-		{
-			"key": "热舞",
-			"name": "💃女团热舞",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
-		},
+		
 		{
 			"key": "csp_Bttoo",
 			"name": "✌两个BT",
@@ -391,6 +362,36 @@
 			"quickSearch": 0
 		},
 
+		{
+			"key": "csp_xpath_球迷2",
+			"name": "⚽🏀球赛",
+			"type": 3,
+			"api": "csp_XPathFilter",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/json/%E7%90%83%E8%BF%B72.json"
+		},
+		{
+			"key": "音乐",
+			"name": "🎤音乐现场",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
+		},
+		{
+			"key": "热舞",
+			"name": "💃女团热舞",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "http://45.125.46.61/box/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
+		},
 		{
 			"key": "小鸟动漫",
 			"name": "🍚小鸟动漫(聚)",
