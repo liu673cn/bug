@@ -8,7 +8,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
 		},
 		{
 			"key": "csp_Kunyu77",
@@ -1265,7 +1264,7 @@
 			"quickSearch": 0
 		}
 	],
-	"spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
+	"spider":"https://raw.liucn.cc/box/sub/jar/A235.jar;md5;7C7281A78781BD352DFE9CA3E3293999",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
 		{
