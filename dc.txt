@@ -10,7 +10,7 @@
         },
         {
             "url": "https://hutool.ml/tang",
-            "name": "唐三"
+            "name": "唐三-暂停使用"
         },
         {
             "url": "https://tv.5ye.cc",
@@ -41,9 +41,25 @@
             "name": "俊于"
         },
         {
-            "url": "https://raw.liucn.cc/box/xiaopingguo.json",
-            "name": "小苹果"
+            "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风XC"
         },
+        {
+            "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json",
+            "name": "香雅情 XYQ"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/52670576/tvbox/main/ysc.json",
+            "name": "运输车"
+        },	
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "神器每日推送"
+        },
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "云星日记"
+        },	
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "FongMi"
@@ -56,6 +72,12 @@
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "高山流云js"
         },
+
+
+        {
+            "url": "https://raw.liucn.cc/box/xiaopingguo.json",
+            "name": "小苹果"
+        },
         {
             "url": "https://www.agit.ai/liucn/box/raw/branch/main/m.json",
             "name": "老刘备"
@@ -67,10 +89,6 @@
         {
             "url": "https://www.agit.ai/cyl518/yl/raw/branch/master/ml.json",
             "name": "胖丫"
-        },
-        {
-            "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风XC"
         },
         {
             "url": "https://raw.kgithub.com/kebedd69/TVbox-interface/main/甜蜜.json",
@@ -91,11 +109,8 @@
        {
             "url": "https://www.agit.ai/n/b/raw/branch/a/b/c.json",
             "name": "ImABC"
-        },
-        {
-            "url": "https://神器每日推送.tk/pz.json",
-            "name": "神器每日推送"
         }
+
+
     ]
-    
 }
