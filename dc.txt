@@ -12,10 +12,6 @@
             "url": "https://hutool.ml/tang",
             "name": "唐三-暂停使用"
         },
-        {
-            "url": "https://tv.5ye.cc",
-            "name": "2ha.cc"
-        },
 	{
             "url": "https://www.agit.ai/relax/adcc/raw/branch/master/tvbox.json",
             "name": "巧技"
