@@ -1,7 +1,7 @@
         {
     "urls":[
         {
-            "url": "https://www.agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "url": "https://raw.liucn.cc/box/xiaopingguo.json",
             "name": "小苹果"
         },
 	{
