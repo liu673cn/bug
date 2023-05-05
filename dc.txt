@@ -1,9 +1,5 @@
         {
     "urls":[
-        {
-            "url": "https://raw.liucn.cc/box/xiaopingguo.json",
-            "name": "小苹果"
-        },
 	{
             "url": "https://yydsys.top/duo",
             "name": "大聪明"
@@ -43,6 +39,10 @@
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "俊于"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/xiaopingguo.json",
+            "name": "小苹果"
         },
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
