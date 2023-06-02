@@ -6,16 +6,12 @@
             "name": "大聪明"
         },
         {
-            "url": "http://m35.grelighting.cn/a001.asp",
-            "name": "小苹果"
-        },
-        {
             "url": "http://饭太硬.ga/tv",
             "name": "饭太硬"
         },
         {
             "url": "https://hutool.ml/tang",
-            "name": "唐三-暂停使用"
+            "name": "唐三"
         },
 	{
             "url": "https://www.agit.ai/relax/adcc/raw/branch/master/tvbox.json",
