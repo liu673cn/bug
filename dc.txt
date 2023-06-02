@@ -3,7 +3,7 @@
     "urls":[
 	    {
             "url": "https://yydsys.top/duo",
-            "name": "大聪明"
+            "name": "多多接口"
         },
         {
             "url": "http://饭太硬.ga/tv",
