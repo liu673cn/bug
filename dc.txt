@@ -1,4 +1,5 @@
-        {
+//以下内容为互联网收集，只为自用…… https://raw.liucn.cc/box/dc.txt
+{
     "urls":[
 	    {
             "url": "https://yydsys.top/duo",
@@ -75,7 +76,7 @@
 	        {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/pg/main/%E8%8B%B9%E6%9E%9C%E6%BA%90.json",
             "name": "新苹果"
-
+        },
 	
 	
 	
