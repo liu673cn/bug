@@ -1,4 +1,4 @@
-//以下内容为互联网收集，只为自用…… https://raw.liucn.cc/box/dc.txt
+//以下内容为互联网收集，只为自用…… https://raw.iqiq.io/liu673cn/box/main/dc.txt
 {
     "urls":[
         {
