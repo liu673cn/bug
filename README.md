@@ -13,8 +13,7 @@
  🔰[更多TVbox](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[更多TVbox](https://wws.lanzouv.com/b03j4ulyh#999)　🔰[更多下载](https://www.123pan.com/s/dIgRVv-Th3D3)　🔰[更多下载](https://www.123pan.com/s/dIgRVv-vh3D3)　🔰[Pluto Player](https://www.123pan.com/s/dIgRVv-Ah3D3)　
 
 - 2.多仓版  他人整理`https://raw.liucn.cc/box/dm.txt`　`https://raw.iqiq.io/liu673cn/box/main/dm.txt` 
- 🔰原版[影视仓V3_3.0.20_opt.apk](https://liucn.lanzouf.com/iswbz0tcahyd)　🔰原版[影视仓V3_3.0.22_opt.apk](https://liucn.lanzouf.com/ioYaD0tcat2d)　    
- 🔰原版[影视仓_4.0.30_opt.apk](https://liucn.lanzouc.com/i5QKK0xluhuh)　🔰原版[影视仓_4.0.31_opt.apk](https://liucn.lanzouc.com/iWFYW0xvsw6b)
+ 🔰原版[影视仓V3-3.0.32.apk](https://www.lanzouj.com/iMXCX0yq1zxa)　🔰原版[影视仓4.0.32_1.apk](https://www.lanzouj.com/itlyT0yq1zda)
 - 🔰UI改版[可视TV Max_1.3.6.apk](https://liucn.lanzouf.com/iqzqG0jsl9ud)　🔰[更多](https://wwc.lanzoub.com/b0es81t8j#54jb)　🔰[更多](https://wwjn.lanzout.com/b03jpibob#1234)
 
 - 3.内置版  
