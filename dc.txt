@@ -14,10 +14,6 @@
             "name": "饭太硬"
         },
         {
-            "url": "https://www.agit.ai/liucn/box/raw/branch/main/vod/xpg.json",
-            "name": "小苹果"
-        },
-        {
             "url": "https://hutool.ml/tang",
             "name": "唐三"
         },
@@ -81,7 +77,10 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/pg/main/%E8%8B%B9%E6%9E%9C%E6%BA%90.json",
             "name": "新苹果"
         },
-	
+        {
+            "url": "https://www.agit.ai/liucn/box/raw/branch/main/vod/xpg.json",
+            "name": "小苹果2"
+        },
 	
 	
 
