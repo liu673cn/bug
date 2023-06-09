@@ -1,4 +1,5 @@
-﻿ { "storeHouse": [ 
+//以下内容为互联网收集，只为自用…… https://raw.liucn.cc/box/dm.txt
+{ "storeHouse": [ 
 
 { "sourceName": "💢自用仓库", "sourceUrl": "https://raw.liucn.cc/box/dc.txt" }, 
 { "sourceName": "🌸自用仓库", "sourceUrl": "https://agit.ai/ddx/TVBox/raw/branch/master/d.json" }, 
