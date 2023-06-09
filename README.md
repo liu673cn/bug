@@ -14,7 +14,7 @@
 
 - 2.多仓版  他人整理`https://raw.liucn.cc/box/dm.txt`　`https://raw.iqiq.io/liu673cn/box/main/dm.txt`   
  🔰原版[影视仓V3-3.0.32.apk](https://www.lanzouj.com/iMXCX0yq1zxa)　🔰原版[影视仓4.0.32_1.apk](https://www.lanzouj.com/itlyT0yq1zda)
-- 🔰UI改版[可视TV Max_1.3.6.apk](https://liucn.lanzouf.com/iqzqG0jsl9ud)　🔰[更多](https://wwc.lanzoub.com/b0es81t8j#54jb)　🔰[更多](https://wwjn.lanzout.com/b03jpibob#1234)
+- 🔰UI改版[可视TVMax_1.6.4.apk](https://liucn.lanzouj.com/iavNj0y5b5sj)　🔰[更多](https://wwc.lanzoub.com/b0es81t8j#54jb)　🔰[更多](https://wwjn.lanzout.com/b03jpibob#1234)
 
 - 3.内置版  
  -小苹果 - 🔰[小苹果影视盒子-1.0.8.apk](https://liucn.lanzouc.com/iPrb90xmr3vc)　有广告
