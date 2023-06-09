@@ -1,7 +1,11 @@
 //以下内容为互联网收集，只为自用…… https://raw.liucn.cc/box/dc.txt
 {
     "urls":[
-	    {
+        {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "肥猫"
+        },
+	{
             "url": "https://yydsys.top/duo",
             "name": "多多接口"
         },
@@ -20,10 +24,6 @@
 	{
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "道长"
-        },
-        {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "肥猫"
         },
         {
             "url": "http://drpy.site/js1",
