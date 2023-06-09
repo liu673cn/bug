@@ -73,6 +73,7 @@ Github 增强-高速下载 🔰[https://greasyfork.org/zh-CN/scripts/412245](htt
 `https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json`  
 
 `https://purge.jsdelivr.net/gh/`  
+🔰[https://itvbox.lanzoub.com/b0erx68gf](https://itvbox.lanzoub.com/b0erx68gf#4e93)  
 
 ------
 ### 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集[Box](https://docs.qq.com/sheet/DWmt2RklvT3lYZ3dM?tab=BB08J2)，自用请勿宣传。
