@@ -17,7 +17,7 @@
 - 🔰UI改版[可视TVMax_1.6.4.apk](https://liucn.lanzouj.com/iavNj0y5b5sj)　🔰[更多](https://wwc.lanzoub.com/b0es81t8j#54jb)　🔰[更多](https://wwjn.lanzout.com/b03jpibob#1234)
 
 - 3.内置版  
-  🔰[老苹果_4.4.apk](https://liucn.lanzouj.com/iFjfV0yuatwb)　魔改版
+  🔰[苹果_4.4.apk](https://liucn.lanzouj.com/iFjfV0yuatwb)　魔改版
 
 TVbox开源版 | 多仓版-安卓哥开发
 ---------|---------
