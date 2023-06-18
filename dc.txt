@@ -1,26 +1,53 @@
 //以下内容为互联网收集，只为自用…… https://raw.iqiq.io/liu673cn/box/main/dc.txt
-{
+        {
     "urls":[
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "云星日记"
+        },	
+        {
+            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
+            "name": "唐三"
+        },
+        {
+            "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风XC"
+        },
+        {
+            "url": "https://raw.iqiq.io/liu673cn/ysc/main/ysc.json",
+            "name": "运输车"
+        },	
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "菜妮丝"
+        },
+	    {
+            "url": "https://www.agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "巧技"
+        },
+	    {
+            "url": "https://jihulab.com/blank7355005/box/-/raw/main/0.json",
+            "name": "小盒酷玩"
+        },
+
+
+
+
+
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
             "name": "肥猫"
         },
-	{
+	    {
             "url": "https://yydsys.top/duo",
-            "name": "多多接口"
+            "name": "大聪明"
         },
         {
             "url": "http://饭太硬.ga/tv",
             "name": "饭太硬"
         },
-        {
-            "url": "https://hutool.ml/tang",
-            "name": "唐三"
-        },
-	{
-            "url": "https://www.agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "巧技"
-        },
+
+
 	{
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "道长"
@@ -29,34 +56,21 @@
             "url": "http://drpy.site/js1",
             "name": "小雅js"
         },
-        {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "菜妮丝xBPQ"
-        },
+
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "俊于"
         },
-        {
-            "url": "https://www.agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风XC"
-        },
+
         {
             "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json",
             "name": "香雅情 XYQ"
         },
-        {
-            "url": "https://weixine.net/ysc.json",
-            "name": "运输车"
-        },	
+
         {
             "url": "https://神器每日推送.tk/pz.json",
             "name": "神器每日推送"
         },
-        {
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "云星日记"
-        },	
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "FongMi"
@@ -70,28 +84,18 @@
             "name": "高山流云js"
         },
         {
-            "url": "https://la.kstore.space/download/3376/xpg.txt",
-            "name": "小苹果"
-        },
-        {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/pg/main/%E8%8B%B9%E6%9E%9C%E6%BA%90.json",
-            "name": "新苹果"
+            "url": "https://raw.iqiq.io/liu673cn/box/main/vod/xpg.txt",
+            "name": "苹果盒子"
         },
         {
             "url": "https://www.agit.ai/liucn/box/raw/branch/main/vod/xpg.json",
-            "name": "小苹果2"
+            "name": "小苹果"
         },
-	
-	
 
 
         {
             "url": "https://www.agit.ai/liucn/box/raw/branch/main/m.json",
             "name": "老刘备"
-        },
-        {
-            "url": "https://raw.liucn.cc/box/m.json",
-            "name": "刘C"
         },
         {
             "url": "https://www.agit.ai/cyl518/yl/raw/branch/master/ml.json",
