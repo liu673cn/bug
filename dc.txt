@@ -14,6 +14,25 @@
             "name": "南风XC"
         },
         {
+            "url": "https://la.kstore.space/download/3376/001.txt",
+            "name": "001"
+        },
+        {
+            "url": "https://la.kstore.space/download/3376/fns.txt",
+            "name": "fns"
+        },
+        {
+            "url": "https://raw.iqiq.io/liu673cn/box/main/vod/xpg.txt",
+            "name": "苹果盒子"
+        },
+        {
+            "url": "https://www.agit.ai/liucn/box/raw/branch/main/vod/xpg.json",
+            "name": "小苹果"
+        },
+
+
+
+        {
             "url": "https://raw.iqiq.io/liu673cn/ysc/main/ysc.json",
             "name": "运输车"
         },	
@@ -29,7 +48,14 @@
             "url": "https://jihulab.com/blank7355005/box/-/raw/main/0.json",
             "name": "小盒酷玩"
         },
-
+	    {
+            "url": "https://jihulab.com/xiaohutx/box/-/raw/main/0.json",
+            "name": "小胡"
+        },
+	    {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "吾爱评测"
+        },
 
 
 
@@ -83,14 +109,7 @@
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "高山流云js"
         },
-        {
-            "url": "https://raw.iqiq.io/liu673cn/box/main/vod/xpg.txt",
-            "name": "苹果盒子"
-        },
-        {
-            "url": "https://www.agit.ai/liucn/box/raw/branch/main/vod/xpg.json",
-            "name": "小苹果"
-        },
+
 
 
         {
