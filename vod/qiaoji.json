@@ -1,3 +1,4 @@
+//原地址https://www.agit.ai/relax/adcc/raw/branch/master/tvbox.json
 {"spider":"http://cdn.qiaoji8.com/fix0610.jar;md5;a264d33e664119fed5af99338def9ca4","wallpaper":"http://www.kf666888.cn/api/tvbox/img","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="]}]}],
 "sites":[
 {"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com"},
