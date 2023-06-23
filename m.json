@@ -1,8 +1,8 @@
 //以下内容为互联网收集，只为自用…… https://www.agit.ai/liucn/box/raw/branch/main/m.json
 {
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"./sub/jar/A620.jar;md5;09BAF4A03D362D96F0FC14085C343191",
-"lives": [{"group": "redirect"，"channels": [{"name": "redirect"，"urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;09BAF4A03D362D96F0FC14085C343191",
+	"wallpaper": "https://picsum.photos/1280/720/?blur=10",
+  "lives":[{"name":"live","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
 {"key":"csp_LiteApple"，"name":"🍎小苹果"，"type":3，"api":"csp_LiteApple"，"searchable":1，"quickSearch":1，"filterable":1}， 
 {"key":"csp_Bdys01"，"name":"📯哔嘀影视"，"type":3，"api":"csp_Bdys01"，"searchable":1，"quickSearch":1，"filterable":1}，
