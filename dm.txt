@@ -1,7 +1,7 @@
-//以下内容为互联网收集，只为自用…… https://raw.iqiq.io/liu673cn/box/main/dm.txt
+//以下内容为互联网收集，只为自用…… https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/dm.txt
 { "storeHouse": [ 
 
-{ "sourceName": "💢自用仓库", "sourceUrl": "https://raw.iqiq.io/liu673cn/box/main/dc.txt" }, 
+{ "sourceName": "💢自用仓库", "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/dc.txt" }, 
 { "sourceName": "🌸自用仓库", "sourceUrl": "https://www.agit.ai/ddx/TVBox/raw/branch/master/d.json" }, 
 { "sourceName": "🧡多线接口","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/duo.json"},
 { "sourceName": "💚多多优选仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
