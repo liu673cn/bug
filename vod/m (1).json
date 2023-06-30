@@ -1,7 +1,7 @@
 //以下内容为互联网收集，只为自用…… https://www.agit.ai/liucn/box/raw/branch/main/m.json
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"./sub/jar/A620.jar;md5;09BAF4A03D362D96F0FC14085C343191",
+"spider":"./sub/jar/a620.jar;md5;09BAF4A03D362D96F0FC14085C343191",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
 ]}]}],
