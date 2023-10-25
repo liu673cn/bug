@@ -15,7 +15,6 @@
 ![TV01](https://liu673cn.github.io/box/sub/img/tv02.jpg) <br />
 #### 3.把tv直播的接口文件下载后，找到自己所放的文件夹，然后手动更改存储位置，复制到编码网页里，编辑编码我们即可得到一个看似乱码样的地址，把json里的地址替换即可，注意：后面的等号也是地址内容。
 
-...
   "lives": [
     {
       "name": "影视",
@@ -37,6 +36,6 @@
       ]
     }
   ],
-...
+
 
     "lives": [    {      "name": "live",      "type": 0,      "url": "./v.txt",      "playerType": 1,      "ua": "okhttp/3.12.13",      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",      "logo": "https://epg.112114.xyz/logo/{name}.png"    }  ],
