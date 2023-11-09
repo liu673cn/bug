@@ -39,7 +39,9 @@ https://www.jihulab.com/
 
 https://gitcode.net/  
 https://gitea.com/  
-https://agit.ai/  
+
+https://codeberg.org/  `https://codeberg.org/用户名/仓库/raw/branch/main/目录/m.json`  
+https://agit.ai/       `https://www.agit.ai/用户名/仓库/raw/branch/main/m.json`   
 https://notabug.org/  
 
 EGP源  
