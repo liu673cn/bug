@@ -1,0 +1,25 @@
+//以下内容为互联网收集，只为自用…… https://raw.liucn.cc/box/dm.txt
+{ "storeHouse": [ 
+
+{"sourceName":"  ①多多应用仓
+","sourceUrl":"      https://jihulab.com/iduoduo/apps/-/raw/main/fast.json
+"},
+  
+{"sourceName":"  ②多多应用源
+","sourceUrl":"      https://jihulab.com/iduoduo/apps/-/raw/main/duo.json
+"},
+  
+{"sourceName":"  ③欧歌API仓
+","sourceUrl":"      http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌
+"},
+
+{"sourceName":"  ④云星日记仓
+","sourceUrl":"      http://itvbox.cc/可视TV/云星日记/仓库.json  
+"},
+
+{"sourceName":"  ⑤号其他仓
+","sourceUrl":"      https://raw.liucn.cc/box/dc.txt
+"}
+
+    ]
+}

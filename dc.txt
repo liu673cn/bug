@@ -1,0 +1,28 @@
+//以下内容为互联网收集，只为自用…… https://raw.liucn.cc/box/dc.txt
+        {
+    "urls":[
+        {
+            "url": "https://gitee.com/bestpvp/tm/raw/master/source/stable/main.json",
+            "name": "🐴码上时光机1"
+        },	
+        {
+            "url": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/main.json",
+            "name": "🦄码上时光机2"
+        },
+        {
+            "url": "http://yydsys.top/duo",
+            "name": "🏡应用多多家庭版"
+        },
+        {
+            "url": "http://tv.nxog.top/m/ ",
+            "name": "⭕欧歌API"
+        },
+
+       {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "🌥︎云星日记家庭版"
+        }
+
+
+    ]
+}
