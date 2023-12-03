@@ -17,11 +17,19 @@
       "sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库/api.json"
     },
     {
-      "sourceName": "⑤号其他仓",
+      "sourceName": "⑤号其他仓1",
       "sourceUrl": "https://raw.fgit.cf/liu673cn/box/main/dc.txt"
     },
     {
-      "sourceName": "☘️本地/tvbox/dc.txt☘️",
+      "sourceName": "⑥号其他仓2",
+      "sourceUrl": "https://www.agit.ai/liucn/box/raw/branch/main/dc1.txt"
+    },
+    {
+      "sourceName": "⑦号其他仓3",
+      "sourceUrl": "https://codeberg.org/liucn/box/raw/branch/main/dc2.txt"
+    },
+    {
+      "sourceName": "☘️本地/tvbox/dc.txt",
       "sourceUrl": "clan://localhost/tvbox/dc.txt"
     }
 
