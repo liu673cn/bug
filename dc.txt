@@ -10,15 +10,15 @@
             "name": "🦄领先时光机"
         },
         {
-            "url": "https://www.agit.ai/liucn/tm/raw/branch/main/m.json",
+            "url": "https://raw.fgit.cf/liu673cn/tm/main/m.json",
             "name": "🦄本地时光机"
         },
         {
-            "url": "https://www.agit.ai/liucn/xduo/raw/branch/main/m.json",
+            "url": "https://raw.fgit.cf/liu673cn/xduo/main/m.json",
             "name": "🏡多多家庭版-新"
         },
         {
-            "url": "https://www.agit.ai/liucn/duo/raw/branch/main/m.json",
+            "url": "https://raw.fgit.cf/liu673cn/duo/main/m.json",
             "name": "🏡多多家庭版-旧"
         },
         {

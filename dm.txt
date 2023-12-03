@@ -18,7 +18,7 @@
     },
     {
       "sourceName": "⑤号其他仓",
-      "sourceUrl": "https://www.agit.ai/liucn/box/raw/branch/main/dc.txt"
+      "sourceUrl": "https://raw.fgit.cf/liu673cn/box/main/dc.txt"
     },
     {
       "sourceName": "☘️本地/tvbox/dc.txt☘️",
