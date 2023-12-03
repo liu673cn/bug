@@ -2,11 +2,11 @@
         {
     "urls":[
         {
-            "url": "https://gitee.com/bestpvp/tm/raw/master/source/stable/main.json",
+            "url": "https://raw.fgit.cf/bestpvp/tm/main/source/stable/main.json",
             "name": "🐴稳定时光机"
         },	
         {
-            "url": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/main.json",
+            "url": "https://raw.fgit.cf/bestpvp/tm/main/source/nightly/main.json",
             "name": "🦄领先时光机"
         },
         {
