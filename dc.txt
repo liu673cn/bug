@@ -2,7 +2,7 @@
         {
     "urls":[
         {
-            "url": "https://raw.fgit.cf/bestpvp/tm/main/source/stable/main.json",
+            "url": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/main.json",
             "name": "🐴稳定时光机"
         },	
         {
