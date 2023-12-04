@@ -2,9 +2,9 @@
         {
     "urls":[
         {
-            "url": "https://codeberg.org/bestpvp/tm/raw/branch/main/source/stable/main.json",
+            "url": "https://raw.fgit.cf/liu673cn/tms/main/m.json",
             "name": "🐴稳定时光机"
-        },	
+        },
         {
             "url": "https://raw.fgit.cf/liu673cn/tm/main/m.json",
             "name": "🦄本地时光机"
