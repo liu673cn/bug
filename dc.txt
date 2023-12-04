@@ -6,10 +6,6 @@
             "name": "🐴稳定时光机"
         },	
         {
-            "url": "https://raw.fgit.cf/bestpvp/tm/main/source/nightly/main.json",
-            "name": "🦄领先时光机"
-        },
-        {
             "url": "https://raw.fgit.cf/liu673cn/tm/main/m.json",
             "name": "🦄本地时光机"
         },
